@@ -1,0 +1,53 @@
+/* Responsive CSS Style */
+/* Begin of mobile navigation fix */
+.wp-block-navigation__responsive-container.is-menu-open .wp-block-navigation__responsive-container-content .has-child .submenu-container,
+.wp-block-navigation__responsive-container.is-menu-open .wp-block-navigation__responsive-container-content .has-child .wp-block-navigation__submenu-container {
+  padding-top: 1rem; }
+
+@media (min-width: 960px) {
+  .wp-block-navigation__responsive-container-open:not(.always-shown) {
+    display: none !important; }
+
+  .wp-block-navigation__responsive-container:not(.hidden-by-default):not(.is-menu-open) {
+    display: block !important;
+    width: 100%;
+    position: relative;
+    z-index: auto;
+    background-color: inherit; } }
+/* neutralize the wp default for 600px */
+@media (min-width: 600px) {
+  .wp-block-navigation__responsive-container-open:not(.always-shown) {
+    display: flex; }
+
+  .wp-block-navigation__responsive-container:not(.hidden-by-default):not(.is-menu-open) {
+    display: none; } }
+/* End of mobile navigation fix */
+@media only screen and (max-width: 1180px) {
+  .is-layout-constrained {
+    width: 98%;
+    margin: 0 auto; }
+    .is-layout-constrained .is-layout-constrained {
+      width: 100%; }
+
+  footer.wp-block-template-part .is-layout-constrained {
+    width: 100%; }
+    footer.wp-block-template-part .is-layout-constrained .is-layout-constrained {
+      width: 100%; } }
+/* Smaller than standard 960 (devices and browsers) */
+@media only screen and (max-width: 959px) {
+  header.wp-block-template-part .wp-block-buttons {
+    display: none !important; }
+  header.wp-block-template-part .wp-block-buttons > .wp-block-button {
+    display: none !important; }
+  header.wp-block-template-part .wp-block-site-title {
+    font-size: 1.4em; }
+
+  footer.wp-block-template-part .wp-block-group.has-background,
+  .pricing-table {
+    padding: 1.25rem !important; } }
+/* Tablet Portrait size to standard 960 (devices and browsers) */
+/* All Mobile Sizes (devices and browser) */
+/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+
+/*# sourceMappingURL=responsive.css.map */
