@@ -1,0 +1,1363 @@
+sr_no,Occupation_Major_sub_Group,Region,Training_Needs,Occupation_Unit_Group
+1,Arts and Media Professionals,Barwon South West,No additional commencements required,Visual Arts and Crafts Professionals
+2,Arts and Media Professionals,Barwon South West,No additional commencements required,"Film, Television, Radio and Stage Directors"
+3,Arts and Media Professionals,Barwon South West,No additional commencements required,Music Professionals
+4,Arts and Media Professionals,Barwon South West,No additional commencements required,Photographers
+5,Arts and Media Professionals,Barwon South West,No additional commencements required,"Artistic Directors, and Media Producers and Presenters"
+6,Arts and Media Professionals,Barwon South West,No additional commencements required,"Actors, Dancers and Other Entertainers"
+7,Arts and Media Professionals,Barwon South West,No additional commencements required,"Authors, and Book and Script Editors"
+8,Arts and Media Professionals,Barwon South West,No additional commencements required,Journalists and Other Writers
+9,Arts and Media Professionals,Gippsland,No additional commencements required,Journalists and Other Writers
+10,Arts and Media Professionals,Gippsland,No additional commencements required,"Authors, and Book and Script Editors"
+11,Arts and Media Professionals,Gippsland,No additional commencements required,Music Professionals
+12,Arts and Media Professionals,Gippsland,No additional commencements required,"Artistic Directors, and Media Producers and Presenters"
+13,Arts and Media Professionals,Gippsland,No additional commencements required,"Film, Television, Radio and Stage Directors"
+14,Arts and Media Professionals,Gippsland,No additional commencements required,"Actors, Dancers and Other Entertainers"
+15,Arts and Media Professionals,Gippsland,No additional commencements required,Visual Arts and Crafts Professionals
+16,Arts and Media Professionals,Gippsland,No additional commencements required,Photographers
+17,Arts and Media Professionals,Grampians,No additional commencements required,Visual Arts and Crafts Professionals
+18,Arts and Media Professionals,Grampians,No additional commencements required,Photographers
+19,Arts and Media Professionals,Grampians,No additional commencements required,Music Professionals
+20,Arts and Media Professionals,Grampians,No additional commencements required,"Artistic Directors, and Media Producers and Presenters"
+21,Arts and Media Professionals,Grampians,No additional commencements required,"Actors, Dancers and Other Entertainers"
+22,Arts and Media Professionals,Grampians,No additional commencements required,"Film, Television, Radio and Stage Directors"
+23,Arts and Media Professionals,Grampians,No additional commencements required,"Authors, and Book and Script Editors"
+24,Arts and Media Professionals,Grampians,No additional commencements required,Journalists and Other Writers
+25,Arts and Media Professionals,Hume,No additional commencements required,"Authors, and Book and Script Editors"
+26,Arts and Media Professionals,Hume,No additional commencements required,Journalists and Other Writers
+27,Arts and Media Professionals,Hume,No additional commencements required,Visual Arts and Crafts Professionals
+28,Arts and Media Professionals,Hume,No additional commencements required,"Film, Television, Radio and Stage Directors"
+29,Arts and Media Professionals,Hume,No additional commencements required,"Actors, Dancers and Other Entertainers"
+30,Arts and Media Professionals,Hume,No additional commencements required,Photographers
+31,Arts and Media Professionals,Hume,No additional commencements required,Music Professionals
+32,Arts and Media Professionals,Hume,No additional commencements required,"Artistic Directors, and Media Producers and Presenters"
+33,Arts and Media Professionals,Loddon Mallee,No additional commencements required,"Film, Television, Radio and Stage Directors"
+34,Arts and Media Professionals,Loddon Mallee,No additional commencements required,"Artistic Directors, and Media Producers and Presenters"
+35,Arts and Media Professionals,Loddon Mallee,No additional commencements required,"Authors, and Book and Script Editors"
+36,Arts and Media Professionals,Loddon Mallee,No additional commencements required,Journalists and Other Writers
+37,Arts and Media Professionals,Loddon Mallee,No additional commencements required,Photographers
+38,Arts and Media Professionals,Loddon Mallee,No additional commencements required,Music Professionals
+39,Arts and Media Professionals,Loddon Mallee,No additional commencements required,Visual Arts and Crafts Professionals
+40,Arts and Media Professionals,Loddon Mallee,No additional commencements required,"Actors, Dancers and Other Entertainers"
+41,Arts and Media Professionals,Metropolitan Melbourne,No additional commencements required,"Film, Television, Radio and Stage Directors"
+42,Arts and Media Professionals,Metropolitan Melbourne,No additional commencements required,"Artistic Directors, and Media Producers and Presenters"
+43,Arts and Media Professionals,Metropolitan Melbourne,No additional commencements required,"Actors, Dancers and Other Entertainers"
+44,Arts and Media Professionals,Metropolitan Melbourne,No additional commencements required,Visual Arts and Crafts Professionals
+45,Arts and Media Professionals,Metropolitan Melbourne,No additional commencements required,Photographers
+46,Arts and Media Professionals,Metropolitan Melbourne,No additional commencements required,Music Professionals
+47,Arts and Media Professionals,Metropolitan Melbourne,No additional commencements required,"Authors, and Book and Script Editors"
+48,Arts and Media Professionals,Metropolitan Melbourne,No additional commencements required,Journalists and Other Writers
+49,Automotive and Engineering Trades Workers,Barwon South West,High,Metal Fitters and Machinists
+50,Automotive and Engineering Trades Workers,Barwon South West,Low,Vehicle Body Builders and Trimmers
+51,Automotive and Engineering Trades Workers,Barwon South West,Low,Precision Metal Trades Workers
+52,Automotive and Engineering Trades Workers,Barwon South West,Low,Automotive Electricians
+53,Automotive and Engineering Trades Workers,Barwon South West,Low,"Metal Casting, Forging and Finishing Trades Workers"
+54,Automotive and Engineering Trades Workers,Barwon South West,Low,Aircraft Maintenance Engineers
+55,Automotive and Engineering Trades Workers,Barwon South West,Low,Toolmakers and Engineering Patternmakers
+56,Automotive and Engineering Trades Workers,Barwon South West,Medium,Structural Steel and Welding Trades Workers
+57,Automotive and Engineering Trades Workers,Barwon South West,Medium,Motor Mechanics
+58,Automotive and Engineering Trades Workers,Barwon South West,Occupation requires apprenticeship training,Vehicle Painters
+59,Automotive and Engineering Trades Workers,Barwon South West,Occupation requires apprenticeship training,Panelbeaters
+60,Automotive and Engineering Trades Workers,Gippsland,High,Metal Fitters and Machinists
+61,Automotive and Engineering Trades Workers,Gippsland,Low,Motor Mechanics
+62,Automotive and Engineering Trades Workers,Gippsland,Low,Aircraft Maintenance Engineers
+63,Automotive and Engineering Trades Workers,Gippsland,Low,Vehicle Body Builders and Trimmers
+64,Automotive and Engineering Trades Workers,Gippsland,Low,"Metal Casting, Forging and Finishing Trades Workers"
+65,Automotive and Engineering Trades Workers,Gippsland,Low,Automotive Electricians
+66,Automotive and Engineering Trades Workers,Gippsland,Low,Precision Metal Trades Workers
+67,Automotive and Engineering Trades Workers,Gippsland,Low,Toolmakers and Engineering Patternmakers
+68,Automotive and Engineering Trades Workers,Gippsland,Medium,Structural Steel and Welding Trades Workers
+69,Automotive and Engineering Trades Workers,Gippsland,Occupation requires apprenticeship training,Vehicle Painters
+70,Automotive and Engineering Trades Workers,Gippsland,Occupation requires apprenticeship training,Panelbeaters
+71,Automotive and Engineering Trades Workers,Grampians,High,Metal Fitters and Machinists
+72,Automotive and Engineering Trades Workers,Grampians,High,Structural Steel and Welding Trades Workers
+73,Automotive and Engineering Trades Workers,Grampians,Low,Vehicle Body Builders and Trimmers
+74,Automotive and Engineering Trades Workers,Grampians,Low,Automotive Electricians
+75,Automotive and Engineering Trades Workers,Grampians,Low,Aircraft Maintenance Engineers
+76,Automotive and Engineering Trades Workers,Grampians,Low,Precision Metal Trades Workers
+77,Automotive and Engineering Trades Workers,Grampians,Low,"Metal Casting, Forging and Finishing Trades Workers"
+78,Automotive and Engineering Trades Workers,Grampians,Low,Toolmakers and Engineering Patternmakers
+79,Automotive and Engineering Trades Workers,Grampians,Medium,Motor Mechanics
+80,Automotive and Engineering Trades Workers,Grampians,Occupation requires apprenticeship training,Vehicle Painters
+81,Automotive and Engineering Trades Workers,Grampians,Occupation requires apprenticeship training,Panelbeaters
+82,Automotive and Engineering Trades Workers,Hume,High,Metal Fitters and Machinists
+83,Automotive and Engineering Trades Workers,Hume,High,Structural Steel and Welding Trades Workers
+84,Automotive and Engineering Trades Workers,Hume,Low,Aircraft Maintenance Engineers
+85,Automotive and Engineering Trades Workers,Hume,Low,Automotive Electricians
+86,Automotive and Engineering Trades Workers,Hume,Low,Precision Metal Trades Workers
+87,Automotive and Engineering Trades Workers,Hume,Low,"Metal Casting, Forging and Finishing Trades Workers"
+88,Automotive and Engineering Trades Workers,Hume,Low,Toolmakers and Engineering Patternmakers
+89,Automotive and Engineering Trades Workers,Hume,Medium,Motor Mechanics
+90,Automotive and Engineering Trades Workers,Hume,Medium,Vehicle Body Builders and Trimmers
+91,Automotive and Engineering Trades Workers,Hume,Occupation requires apprenticeship training,Vehicle Painters
+92,Automotive and Engineering Trades Workers,Hume,Occupation requires apprenticeship training,Panelbeaters
+93,Automotive and Engineering Trades Workers,Loddon Mallee,High,Structural Steel and Welding Trades Workers
+94,Automotive and Engineering Trades Workers,Loddon Mallee,High,Metal Fitters and Machinists
+95,Automotive and Engineering Trades Workers,Loddon Mallee,Low,Motor Mechanics
+96,Automotive and Engineering Trades Workers,Loddon Mallee,Low,Vehicle Body Builders and Trimmers
+97,Automotive and Engineering Trades Workers,Loddon Mallee,Low,"Metal Casting, Forging and Finishing Trades Workers"
+98,Automotive and Engineering Trades Workers,Loddon Mallee,Low,Precision Metal Trades Workers
+99,Automotive and Engineering Trades Workers,Loddon Mallee,Low,Automotive Electricians
+100,Automotive and Engineering Trades Workers,Loddon Mallee,Low,Aircraft Maintenance Engineers
+101,Automotive and Engineering Trades Workers,Loddon Mallee,Low,Toolmakers and Engineering Patternmakers
+102,Automotive and Engineering Trades Workers,Loddon Mallee,Occupation requires apprenticeship training,Vehicle Painters
+103,Automotive and Engineering Trades Workers,Loddon Mallee,Occupation requires apprenticeship training,Panelbeaters
+104,Automotive and Engineering Trades Workers,Metropolitan Melbourne,High,Motor Mechanics
+105,Automotive and Engineering Trades Workers,Metropolitan Melbourne,Low,Toolmakers and Engineering Patternmakers
+106,Automotive and Engineering Trades Workers,Metropolitan Melbourne,Low,Precision Metal Trades Workers
+107,Automotive and Engineering Trades Workers,Metropolitan Melbourne,Medium,Aircraft Maintenance Engineers
+108,Automotive and Engineering Trades Workers,Metropolitan Melbourne,Medium,Vehicle Body Builders and Trimmers
+109,Automotive and Engineering Trades Workers,Metropolitan Melbourne,Medium,"Metal Casting, Forging and Finishing Trades Workers"
+110,Automotive and Engineering Trades Workers,Metropolitan Melbourne,Medium,Automotive Electricians
+111,Automotive and Engineering Trades Workers,Metropolitan Melbourne,Occupation requires apprenticeship training,Vehicle Painters
+112,Automotive and Engineering Trades Workers,Metropolitan Melbourne,Occupation requires apprenticeship training,Panelbeaters
+113,Automotive and Engineering Trades Workers,Metropolitan Melbourne,Very high,Structural Steel and Welding Trades Workers
+114,Automotive and Engineering Trades Workers,Metropolitan Melbourne,Very high,Metal Fitters and Machinists
+115,"Business, Human Resource and Marketing Professionals",Barwon South West,Low,Accountants
+116,"Business, Human Resource and Marketing Professionals",Barwon South West,Low,Advertising and Marketing Professionals
+117,"Business, Human Resource and Marketing Professionals",Barwon South West,Low,Other Information and Organisation Professionals
+118,"Business, Human Resource and Marketing Professionals",Barwon South West,Low,Financial Investment Advisers and Managers
+119,"Business, Human Resource and Marketing Professionals",Barwon South West,Low,Training and Development Professionals
+120,"Business, Human Resource and Marketing Professionals",Barwon South West,Medium,Financial Brokers
+121,"Business, Human Resource and Marketing Professionals",Barwon South West,Medium,Human Resource Professionals
+122,"Business, Human Resource and Marketing Professionals",Barwon South West,No additional commencements required,Public Relations Professionals
+123,"Business, Human Resource and Marketing Professionals",Gippsland,Low,Training and Development Professionals
+124,"Business, Human Resource and Marketing Professionals",Gippsland,Low,Accountants
+125,"Business, Human Resource and Marketing Professionals",Gippsland,Low,Financial Investment Advisers and Managers
+126,"Business, Human Resource and Marketing Professionals",Gippsland,Low,Advertising and Marketing Professionals
+127,"Business, Human Resource and Marketing Professionals",Gippsland,Low,Other Information and Organisation Professionals
+128,"Business, Human Resource and Marketing Professionals",Gippsland,Low,Public Relations Professionals
+129,"Business, Human Resource and Marketing Professionals",Gippsland,Medium,Financial Brokers
+130,"Business, Human Resource and Marketing Professionals",Gippsland,Medium,Human Resource Professionals
+131,"Business, Human Resource and Marketing Professionals",Grampians,Low,Financial Investment Advisers and Managers
+132,"Business, Human Resource and Marketing Professionals",Grampians,Low,Accountants
+133,"Business, Human Resource and Marketing Professionals",Grampians,Low,Advertising and Marketing Professionals
+134,"Business, Human Resource and Marketing Professionals",Grampians,Low,Training and Development Professionals
+135,"Business, Human Resource and Marketing Professionals",Grampians,Low,Other Information and Organisation Professionals
+136,"Business, Human Resource and Marketing Professionals",Grampians,Medium,Financial Brokers
+137,"Business, Human Resource and Marketing Professionals",Grampians,Medium,Human Resource Professionals
+138,"Business, Human Resource and Marketing Professionals",Grampians,No additional commencements required,Public Relations Professionals
+139,"Business, Human Resource and Marketing Professionals",Hume,Low,Training and Development Professionals
+140,"Business, Human Resource and Marketing Professionals",Hume,Low,Accountants
+141,"Business, Human Resource and Marketing Professionals",Hume,Low,Advertising and Marketing Professionals
+142,"Business, Human Resource and Marketing Professionals",Hume,Low,Financial Investment Advisers and Managers
+143,"Business, Human Resource and Marketing Professionals",Hume,Low,Other Information and Organisation Professionals
+144,"Business, Human Resource and Marketing Professionals",Hume,Medium,Financial Brokers
+145,"Business, Human Resource and Marketing Professionals",Hume,Medium,Human Resource Professionals
+146,"Business, Human Resource and Marketing Professionals",Hume,No additional commencements required,Public Relations Professionals
+147,"Business, Human Resource and Marketing Professionals",Loddon Mallee,Low,Accountants
+148,"Business, Human Resource and Marketing Professionals",Loddon Mallee,Low,Training and Development Professionals
+149,"Business, Human Resource and Marketing Professionals",Loddon Mallee,Low,Advertising and Marketing Professionals
+150,"Business, Human Resource and Marketing Professionals",Loddon Mallee,Low,Financial Investment Advisers and Managers
+151,"Business, Human Resource and Marketing Professionals",Loddon Mallee,Low,Other Information and Organisation Professionals
+152,"Business, Human Resource and Marketing Professionals",Loddon Mallee,Medium,Financial Brokers
+153,"Business, Human Resource and Marketing Professionals",Loddon Mallee,Medium,Human Resource Professionals
+154,"Business, Human Resource and Marketing Professionals",Loddon Mallee,No additional commencements required,Public Relations Professionals
+155,"Business, Human Resource and Marketing Professionals",Metropolitan Melbourne,High,Financial Brokers
+156,"Business, Human Resource and Marketing Professionals",Metropolitan Melbourne,High,Human Resource Professionals
+157,"Business, Human Resource and Marketing Professionals",Metropolitan Melbourne,Low,Public Relations Professionals
+158,"Business, Human Resource and Marketing Professionals",Metropolitan Melbourne,Medium,Advertising and Marketing Professionals
+159,"Business, Human Resource and Marketing Professionals",Metropolitan Melbourne,Medium,Financial Investment Advisers and Managers
+160,"Business, Human Resource and Marketing Professionals",Metropolitan Melbourne,Medium,Other Information and Organisation Professionals
+161,"Business, Human Resource and Marketing Professionals",Metropolitan Melbourne,Medium,Training and Development Professionals
+162,"Business, Human Resource and Marketing Professionals",Metropolitan Melbourne,No additional commencements required,Accountants
+163,Carers and Aides,Barwon South West,High,Child Carers
+164,Carers and Aides,Barwon South West,High,Nursing Support and Personal Care Workers
+165,Carers and Aides,Barwon South West,High,Education Aides
+166,Carers and Aides,Barwon South West,Medium,Dental Assistants
+167,Carers and Aides,Barwon South West,Very high,Aged and Disabled Carers
+168,Carers and Aides,Gippsland,High,Education Aides
+169,Carers and Aides,Gippsland,High,Child Carers
+170,Carers and Aides,Gippsland,High,Nursing Support and Personal Care Workers
+171,Carers and Aides,Gippsland,Low,Dental Assistants
+172,Carers and Aides,Gippsland,Very high,Aged and Disabled Carers
+173,Carers and Aides,Grampians,High,Child Carers
+174,Carers and Aides,Grampians,High,Education Aides
+175,Carers and Aides,Grampians,High,Nursing Support and Personal Care Workers
+176,Carers and Aides,Grampians,Low,Dental Assistants
+177,Carers and Aides,Grampians,Very high,Aged and Disabled Carers
+178,Carers and Aides,Hume,High,Child Carers
+179,Carers and Aides,Hume,High,Education Aides
+180,Carers and Aides,Hume,High,Nursing Support and Personal Care Workers
+181,Carers and Aides,Hume,Medium,Dental Assistants
+182,Carers and Aides,Hume,Very high,Aged and Disabled Carers
+183,Carers and Aides,Loddon Mallee,High,Child Carers
+184,Carers and Aides,Loddon Mallee,High,Nursing Support and Personal Care Workers
+185,Carers and Aides,Loddon Mallee,High,Education Aides
+186,Carers and Aides,Loddon Mallee,Low,Dental Assistants
+187,Carers and Aides,Loddon Mallee,Very high,Aged and Disabled Carers
+188,Carers and Aides,Metropolitan Melbourne,High,Dental Assistants
+189,Carers and Aides,Metropolitan Melbourne,Very high,Aged and Disabled Carers
+190,Carers and Aides,Metropolitan Melbourne,Very high,Child Carers
+191,Carers and Aides,Metropolitan Melbourne,Very high,Nursing Support and Personal Care Workers
+192,Carers and Aides,Metropolitan Melbourne,Very high,Education Aides
+193,"Chief Executives, General Managers and Legislators",Barwon South West,Low,General Managers
+194,"Chief Executives, General Managers and Legislators",Gippsland,Low,General Managers
+195,"Chief Executives, General Managers and Legislators",Grampians,Low,General Managers
+196,"Chief Executives, General Managers and Legislators",Hume,Low,General Managers
+197,"Chief Executives, General Managers and Legislators",Loddon Mallee,Low,General Managers
+198,"Chief Executives, General Managers and Legislators",Metropolitan Melbourne,High,General Managers
+199,Cleaners and Laundry Workers,Barwon South West,High,Commercial Cleaners
+200,Cleaners and Laundry Workers,Barwon South West,Low,Laundry Workers
+201,Cleaners and Laundry Workers,Gippsland,Low,Laundry Workers
+202,Cleaners and Laundry Workers,Gippsland,Medium,Commercial Cleaners
+203,Cleaners and Laundry Workers,Grampians,High,Commercial Cleaners
+204,Cleaners and Laundry Workers,Grampians,Low,Laundry Workers
+205,Cleaners and Laundry Workers,Hume,High,Commercial Cleaners
+206,Cleaners and Laundry Workers,Hume,Low,Laundry Workers
+207,Cleaners and Laundry Workers,Loddon Mallee,High,Commercial Cleaners
+208,Cleaners and Laundry Workers,Loddon Mallee,Low,Laundry Workers
+209,Cleaners and Laundry Workers,Metropolitan Melbourne,Medium,Laundry Workers
+210,Cleaners and Laundry Workers,Metropolitan Melbourne,Very high,Commercial Cleaners
+211,Construction and Mining Labourers,Barwon South West,Low,Railway Track Workers
+212,Construction and Mining Labourers,Barwon South West,Medium,Structural Steel Construction Workers
+213,Construction and Mining Labourers,Barwon South West,Medium,Building and Plumbing Labourers
+214,Construction and Mining Labourers,Barwon South West,Medium,Concreters
+215,Construction and Mining Labourers,Barwon South West,No additional commencements required,Other Construction and Mining Labourers
+216,Construction and Mining Labourers,Barwon South West,Occupation requires apprenticeship training,Insulation and Home Improvement Installers
+217,Construction and Mining Labourers,Gippsland,Low,Building and Plumbing Labourers
+218,Construction and Mining Labourers,Gippsland,Low,Concreters
+219,Construction and Mining Labourers,Gippsland,Low,Railway Track Workers
+220,Construction and Mining Labourers,Gippsland,Medium,Structural Steel Construction Workers
+221,Construction and Mining Labourers,Gippsland,No additional commencements required,Other Construction and Mining Labourers
+222,Construction and Mining Labourers,Gippsland,Occupation requires apprenticeship training,Insulation and Home Improvement Installers
+223,Construction and Mining Labourers,Grampians,Low,Railway Track Workers
+224,Construction and Mining Labourers,Grampians,Low,Structural Steel Construction Workers
+225,Construction and Mining Labourers,Grampians,Low,Concreters
+226,Construction and Mining Labourers,Grampians,Low,Other Construction and Mining Labourers
+227,Construction and Mining Labourers,Grampians,No additional commencements required,Building and Plumbing Labourers
+228,Construction and Mining Labourers,Grampians,Occupation requires apprenticeship training,Insulation and Home Improvement Installers
+229,Construction and Mining Labourers,Hume,Low,Structural Steel Construction Workers
+230,Construction and Mining Labourers,Hume,Low,Other Construction and Mining Labourers
+231,Construction and Mining Labourers,Hume,Medium,Building and Plumbing Labourers
+232,Construction and Mining Labourers,Hume,Medium,Railway Track Workers
+233,Construction and Mining Labourers,Hume,Medium,Concreters
+234,Construction and Mining Labourers,Hume,Occupation requires apprenticeship training,Insulation and Home Improvement Installers
+235,Construction and Mining Labourers,Loddon Mallee,Low,Building and Plumbing Labourers
+236,Construction and Mining Labourers,Loddon Mallee,Low,Structural Steel Construction Workers
+237,Construction and Mining Labourers,Loddon Mallee,Low,Concreters
+238,Construction and Mining Labourers,Loddon Mallee,Low,Other Construction and Mining Labourers
+239,Construction and Mining Labourers,Loddon Mallee,Medium,Railway Track Workers
+240,Construction and Mining Labourers,Loddon Mallee,Occupation requires apprenticeship training,Insulation and Home Improvement Installers
+241,Construction and Mining Labourers,Metropolitan Melbourne,High,Building and Plumbing Labourers
+242,Construction and Mining Labourers,Metropolitan Melbourne,High,Structural Steel Construction Workers
+243,Construction and Mining Labourers,Metropolitan Melbourne,Low,Other Construction and Mining Labourers
+244,Construction and Mining Labourers,Metropolitan Melbourne,Medium,Concreters
+245,Construction and Mining Labourers,Metropolitan Melbourne,Medium,Railway Track Workers
+246,Construction and Mining Labourers,Metropolitan Melbourne,Occupation requires apprenticeship training,Insulation and Home Improvement Installers
+247,Construction Trades Workers,Barwon South West,Low,Plasterers
+248,Construction Trades Workers,Barwon South West,Low,Wall and Floor Tilers
+249,Construction Trades Workers,Barwon South West,Low,Floor Finishers
+250,Construction Trades Workers,Barwon South West,Low,Bricklayers and Stonemasons
+251,Construction Trades Workers,Barwon South West,Low,Roof Tilers
+252,Construction Trades Workers,Barwon South West,Medium,Painting Trades Workers
+253,Construction Trades Workers,Barwon South West,Occupation requires apprenticeship training,Glaziers
+254,Construction Trades Workers,Barwon South West,Occupation requires apprenticeship training,Plumbers
+255,Construction Trades Workers,Barwon South West,Occupation requires apprenticeship training,Carpenters and Joiners
+256,Construction Trades Workers,Gippsland,Low,Painting Trades Workers
+257,Construction Trades Workers,Gippsland,Low,Plasterers
+258,Construction Trades Workers,Gippsland,Low,Floor Finishers
+259,Construction Trades Workers,Gippsland,Low,Wall and Floor Tilers
+260,Construction Trades Workers,Gippsland,Low,Bricklayers and Stonemasons
+261,Construction Trades Workers,Gippsland,Low,Roof Tilers
+262,Construction Trades Workers,Gippsland,Occupation requires apprenticeship training,Glaziers
+263,Construction Trades Workers,Gippsland,Occupation requires apprenticeship training,Plumbers
+264,Construction Trades Workers,Gippsland,Occupation requires apprenticeship training,Carpenters and Joiners
+265,Construction Trades Workers,Grampians,Low,Painting Trades Workers
+266,Construction Trades Workers,Grampians,Low,Bricklayers and Stonemasons
+267,Construction Trades Workers,Grampians,Low,Plasterers
+268,Construction Trades Workers,Grampians,Low,Roof Tilers
+269,Construction Trades Workers,Grampians,Low,Floor Finishers
+270,Construction Trades Workers,Grampians,Low,Wall and Floor Tilers
+271,Construction Trades Workers,Grampians,Occupation requires apprenticeship training,Glaziers
+272,Construction Trades Workers,Grampians,Occupation requires apprenticeship training,Plumbers
+273,Construction Trades Workers,Grampians,Occupation requires apprenticeship training,Carpenters and Joiners
+274,Construction Trades Workers,Hume,Low,Plasterers
+275,Construction Trades Workers,Hume,Low,Floor Finishers
+276,Construction Trades Workers,Hume,Low,Roof Tilers
+277,Construction Trades Workers,Hume,Low,Wall and Floor Tilers
+278,Construction Trades Workers,Hume,Medium,Painting Trades Workers
+279,Construction Trades Workers,Hume,Medium,Bricklayers and Stonemasons
+280,Construction Trades Workers,Hume,Occupation requires apprenticeship training,Glaziers
+281,Construction Trades Workers,Hume,Occupation requires apprenticeship training,Plumbers
+282,Construction Trades Workers,Hume,Occupation requires apprenticeship training,Carpenters and Joiners
+283,Construction Trades Workers,Loddon Mallee,Low,Painting Trades Workers
+284,Construction Trades Workers,Loddon Mallee,Low,Bricklayers and Stonemasons
+285,Construction Trades Workers,Loddon Mallee,Low,Plasterers
+286,Construction Trades Workers,Loddon Mallee,Low,Floor Finishers
+287,Construction Trades Workers,Loddon Mallee,Low,Roof Tilers
+288,Construction Trades Workers,Loddon Mallee,Low,Wall and Floor Tilers
+289,Construction Trades Workers,Loddon Mallee,Occupation requires apprenticeship training,Glaziers
+290,Construction Trades Workers,Loddon Mallee,Occupation requires apprenticeship training,Plumbers
+291,Construction Trades Workers,Loddon Mallee,Occupation requires apprenticeship training,Carpenters and Joiners
+292,Construction Trades Workers,Metropolitan Melbourne,High,Painting Trades Workers
+293,Construction Trades Workers,Metropolitan Melbourne,High,Plasterers
+294,Construction Trades Workers,Metropolitan Melbourne,High,Bricklayers and Stonemasons
+295,Construction Trades Workers,Metropolitan Melbourne,High,Wall and Floor Tilers
+296,Construction Trades Workers,Metropolitan Melbourne,Medium,Floor Finishers
+297,Construction Trades Workers,Metropolitan Melbourne,Medium,Roof Tilers
+298,Construction Trades Workers,Metropolitan Melbourne,Occupation requires apprenticeship training,Glaziers
+299,Construction Trades Workers,Metropolitan Melbourne,Occupation requires apprenticeship training,Plumbers
+300,Construction Trades Workers,Metropolitan Melbourne,Occupation requires apprenticeship training,Carpenters and Joiners
+301,"Design, Engineering, Science and Transport Professionals",Barwon South West,High,Marine Transport Professionals
+302,"Design, Engineering, Science and Transport Professionals",Barwon South West,Low,Air Transport Professionals
+303,"Design, Engineering, Science and Transport Professionals",Barwon South West,Low,"Fashion, Industrial and Jewellery Designers"
+304,"Design, Engineering, Science and Transport Professionals",Barwon South West,Low,"Graphic and Web Designers, and Illustrators"
+305,"Design, Engineering, Science and Transport Professionals",Barwon South West,Low,Environmental Scientists
+306,"Design, Engineering, Science and Transport Professionals",Barwon South West,Low,"Industrial, Mechanical and Production Engineers"
+307,"Design, Engineering, Science and Transport Professionals",Barwon South West,Low,Agricultural and Forestry Scientists
+308,"Design, Engineering, Science and Transport Professionals",Barwon South West,Low,Interior Designers
+309,"Design, Engineering, Science and Transport Professionals",Barwon South West,Low,"Chemists, and Food and Wine Scientists"
+310,"Design, Engineering, Science and Transport Professionals",Barwon South West,Low,Surveyors and Spatial Scientists
+311,"Design, Engineering, Science and Transport Professionals",Barwon South West,No additional commencements required,Architects and Landscape Architects
+312,"Design, Engineering, Science and Transport Professionals",Gippsland,Low,"Graphic and Web Designers, and Illustrators"
+313,"Design, Engineering, Science and Transport Professionals",Gippsland,Low,Interior Designers
+314,"Design, Engineering, Science and Transport Professionals",Gippsland,Low,Agricultural and Forestry Scientists
+315,"Design, Engineering, Science and Transport Professionals",Gippsland,Low,"Industrial, Mechanical and Production Engineers"
+316,"Design, Engineering, Science and Transport Professionals",Gippsland,Low,Environmental Scientists
+317,"Design, Engineering, Science and Transport Professionals",Gippsland,Low,"Fashion, Industrial and Jewellery Designers"
+318,"Design, Engineering, Science and Transport Professionals",Gippsland,Low,"Chemists, and Food and Wine Scientists"
+319,"Design, Engineering, Science and Transport Professionals",Gippsland,Low,Surveyors and Spatial Scientists
+320,"Design, Engineering, Science and Transport Professionals",Gippsland,Medium,Marine Transport Professionals
+321,"Design, Engineering, Science and Transport Professionals",Gippsland,Medium,Air Transport Professionals
+322,"Design, Engineering, Science and Transport Professionals",Gippsland,No additional commencements required,Architects and Landscape Architects
+323,"Design, Engineering, Science and Transport Professionals",Grampians,Low,Air Transport Professionals
+324,"Design, Engineering, Science and Transport Professionals",Grampians,Low,"Graphic and Web Designers, and Illustrators"
+325,"Design, Engineering, Science and Transport Professionals",Grampians,Low,Marine Transport Professionals
+326,"Design, Engineering, Science and Transport Professionals",Grampians,Low,Interior Designers
+327,"Design, Engineering, Science and Transport Professionals",Grampians,Low,Environmental Scientists
+328,"Design, Engineering, Science and Transport Professionals",Grampians,Low,"Industrial, Mechanical and Production Engineers"
+329,"Design, Engineering, Science and Transport Professionals",Grampians,Low,"Fashion, Industrial and Jewellery Designers"
+330,"Design, Engineering, Science and Transport Professionals",Grampians,Low,"Chemists, and Food and Wine Scientists"
+331,"Design, Engineering, Science and Transport Professionals",Grampians,No additional commencements required,Agricultural and Forestry Scientists
+332,"Design, Engineering, Science and Transport Professionals",Grampians,No additional commencements required,Architects and Landscape Architects
+333,"Design, Engineering, Science and Transport Professionals",Grampians,No additional commencements required,Surveyors and Spatial Scientists
+334,"Design, Engineering, Science and Transport Professionals",Hume,Low,Marine Transport Professionals
+335,"Design, Engineering, Science and Transport Professionals",Hume,Low,"Graphic and Web Designers, and Illustrators"
+336,"Design, Engineering, Science and Transport Professionals",Hume,Low,Environmental Scientists
+337,"Design, Engineering, Science and Transport Professionals",Hume,Low,"Fashion, Industrial and Jewellery Designers"
+338,"Design, Engineering, Science and Transport Professionals",Hume,Low,"Industrial, Mechanical and Production Engineers"
+339,"Design, Engineering, Science and Transport Professionals",Hume,Low,Agricultural and Forestry Scientists
+340,"Design, Engineering, Science and Transport Professionals",Hume,Low,Surveyors and Spatial Scientists
+341,"Design, Engineering, Science and Transport Professionals",Hume,Medium,Air Transport Professionals
+342,"Design, Engineering, Science and Transport Professionals",Hume,No additional commencements required,"Chemists, and Food and Wine Scientists"
+343,"Design, Engineering, Science and Transport Professionals",Hume,No additional commencements required,Interior Designers
+344,"Design, Engineering, Science and Transport Professionals",Hume,No additional commencements required,Architects and Landscape Architects
+345,"Design, Engineering, Science and Transport Professionals",Loddon Mallee,Low,Marine Transport Professionals
+346,"Design, Engineering, Science and Transport Professionals",Loddon Mallee,Low,"Fashion, Industrial and Jewellery Designers"
+347,"Design, Engineering, Science and Transport Professionals",Loddon Mallee,Low,"Graphic and Web Designers, and Illustrators"
+348,"Design, Engineering, Science and Transport Professionals",Loddon Mallee,Low,Environmental Scientists
+349,"Design, Engineering, Science and Transport Professionals",Loddon Mallee,Low,Agricultural and Forestry Scientists
+350,"Design, Engineering, Science and Transport Professionals",Loddon Mallee,Low,"Industrial, Mechanical and Production Engineers"
+351,"Design, Engineering, Science and Transport Professionals",Loddon Mallee,Low,"Chemists, and Food and Wine Scientists"
+352,"Design, Engineering, Science and Transport Professionals",Loddon Mallee,Low,Interior Designers
+353,"Design, Engineering, Science and Transport Professionals",Loddon Mallee,Low,Surveyors and Spatial Scientists
+354,"Design, Engineering, Science and Transport Professionals",Loddon Mallee,Medium,Air Transport Professionals
+355,"Design, Engineering, Science and Transport Professionals",Loddon Mallee,No additional commencements required,Architects and Landscape Architects
+356,"Design, Engineering, Science and Transport Professionals",Metropolitan Melbourne,High,Air Transport Professionals
+357,"Design, Engineering, Science and Transport Professionals",Metropolitan Melbourne,Low,"Industrial, Mechanical and Production Engineers"
+358,"Design, Engineering, Science and Transport Professionals",Metropolitan Melbourne,Low,"Fashion, Industrial and Jewellery Designers"
+359,"Design, Engineering, Science and Transport Professionals",Metropolitan Melbourne,Low,Interior Designers
+360,"Design, Engineering, Science and Transport Professionals",Metropolitan Melbourne,Medium,Marine Transport Professionals
+361,"Design, Engineering, Science and Transport Professionals",Metropolitan Melbourne,Medium,"Graphic and Web Designers, and Illustrators"
+362,"Design, Engineering, Science and Transport Professionals",Metropolitan Melbourne,No additional commencements required,Environmental Scientists
+363,"Design, Engineering, Science and Transport Professionals",Metropolitan Melbourne,No additional commencements required,Agricultural and Forestry Scientists
+364,"Design, Engineering, Science and Transport Professionals",Metropolitan Melbourne,No additional commencements required,Architects and Landscape Architects
+365,"Design, Engineering, Science and Transport Professionals",Metropolitan Melbourne,No additional commencements required,Surveyors and Spatial Scientists
+366,"Design, Engineering, Science and Transport Professionals",Metropolitan Melbourne,No additional commencements required,"Chemists, and Food and Wine Scientists"
+367,Education Professionals,Barwon South West,High,Vocational Education Teachers \ Polytechnic Teachers
+368,Education Professionals,Barwon South West,Low,Private Tutors and Teachers
+369,Education Professionals,Gippsland,Medium,Vocational Education Teachers \ Polytechnic Teachers
+370,Education Professionals,Gippsland,Medium,Private Tutors and Teachers
+371,Education Professionals,Grampians,High,Vocational Education Teachers \ Polytechnic Teachers
+372,Education Professionals,Grampians,Low,Private Tutors and Teachers
+373,Education Professionals,Hume,Low,Private Tutors and Teachers
+374,Education Professionals,Hume,Medium,Vocational Education Teachers \ Polytechnic Teachers
+375,Education Professionals,Loddon Mallee,High,Vocational Education Teachers \ Polytechnic Teachers
+376,Education Professionals,Loddon Mallee,Low,Private Tutors and Teachers
+377,Education Professionals,Metropolitan Melbourne,High,Private Tutors and Teachers
+378,Education Professionals,Metropolitan Melbourne,Very high,Vocational Education Teachers \ Polytechnic Teachers
+379,Electrotechnology and Telecommunications Trades Workers,Barwon South West,Low,Telecommunications Trades Workers
+380,Electrotechnology and Telecommunications Trades Workers,Barwon South West,No additional commencements required,Electronics Trades Workers
+381,Electrotechnology and Telecommunications Trades Workers,Barwon South West,No additional commencements required,Electrical Distribution Trades Workers
+382,Electrotechnology and Telecommunications Trades Workers,Barwon South West,Occupation requires apprenticeship training,Airconditioning and Refrigeration Mechanics
+383,Electrotechnology and Telecommunications Trades Workers,Barwon South West,Occupation requires apprenticeship training,Electricians
+384,Electrotechnology and Telecommunications Trades Workers,Gippsland,Low,Telecommunications Trades Workers
+385,Electrotechnology and Telecommunications Trades Workers,Gippsland,No additional commencements required,Electronics Trades Workers
+386,Electrotechnology and Telecommunications Trades Workers,Gippsland,No additional commencements required,Electrical Distribution Trades Workers
+387,Electrotechnology and Telecommunications Trades Workers,Gippsland,Occupation requires apprenticeship training,Airconditioning and Refrigeration Mechanics
+388,Electrotechnology and Telecommunications Trades Workers,Gippsland,Occupation requires apprenticeship training,Electricians
+389,Electrotechnology and Telecommunications Trades Workers,Grampians,Low,Electronics Trades Workers
+390,Electrotechnology and Telecommunications Trades Workers,Grampians,Low,Telecommunications Trades Workers
+391,Electrotechnology and Telecommunications Trades Workers,Grampians,No additional commencements required,Electrical Distribution Trades Workers
+392,Electrotechnology and Telecommunications Trades Workers,Grampians,Occupation requires apprenticeship training,Airconditioning and Refrigeration Mechanics
+393,Electrotechnology and Telecommunications Trades Workers,Grampians,Occupation requires apprenticeship training,Electricians
+394,Electrotechnology and Telecommunications Trades Workers,Hume,Low,Electronics Trades Workers
+395,Electrotechnology and Telecommunications Trades Workers,Hume,Low,Telecommunications Trades Workers
+396,Electrotechnology and Telecommunications Trades Workers,Hume,No additional commencements required,Electrical Distribution Trades Workers
+397,Electrotechnology and Telecommunications Trades Workers,Hume,Occupation requires apprenticeship training,Airconditioning and Refrigeration Mechanics
+398,Electrotechnology and Telecommunications Trades Workers,Hume,Occupation requires apprenticeship training,Electricians
+399,Electrotechnology and Telecommunications Trades Workers,Loddon Mallee,Low,Electronics Trades Workers
+400,Electrotechnology and Telecommunications Trades Workers,Loddon Mallee,Low,Telecommunications Trades Workers
+401,Electrotechnology and Telecommunications Trades Workers,Loddon Mallee,No additional commencements required,Electrical Distribution Trades Workers
+402,Electrotechnology and Telecommunications Trades Workers,Loddon Mallee,Occupation requires apprenticeship training,Airconditioning and Refrigeration Mechanics
+403,Electrotechnology and Telecommunications Trades Workers,Loddon Mallee,Occupation requires apprenticeship training,Electricians
+404,Electrotechnology and Telecommunications Trades Workers,Metropolitan Melbourne,Low,Telecommunications Trades Workers
+405,Electrotechnology and Telecommunications Trades Workers,Metropolitan Melbourne,No additional commencements required,Electronics Trades Workers
+406,Electrotechnology and Telecommunications Trades Workers,Metropolitan Melbourne,No additional commencements required,Electrical Distribution Trades Workers
+407,Electrotechnology and Telecommunications Trades Workers,Metropolitan Melbourne,Occupation requires apprenticeship training,Airconditioning and Refrigeration Mechanics
+408,Electrotechnology and Telecommunications Trades Workers,Metropolitan Melbourne,Occupation requires apprenticeship training,Electricians
+409,"Engineering, ICT and Science Technicians",Barwon South West,Low,Science Technicians
+410,"Engineering, ICT and Science Technicians",Barwon South West,Low,Electrical Engineering Draftspersons and Technicians
+411,"Engineering, ICT and Science Technicians",Barwon South West,Low,Safety Inspectors
+412,"Engineering, ICT and Science Technicians",Barwon South West,Low,Agricultural Technicians
+413,"Engineering, ICT and Science Technicians",Barwon South West,Low,Electronic Engineering Draftspersons and Technicians
+414,"Engineering, ICT and Science Technicians",Barwon South West,Low,Telecommunications Technical Specialists
+415,"Engineering, ICT and Science Technicians",Barwon South West,Low,Primary Products Inspectors
+416,"Engineering, ICT and Science Technicians",Barwon South West,Low,Mechanical Engineering Draftspersons and Technicians
+417,"Engineering, ICT and Science Technicians",Barwon South West,Medium,Medical Technicians
+418,"Engineering, ICT and Science Technicians",Barwon South West,Medium,Other Building and Engineering Technicians
+419,"Engineering, ICT and Science Technicians",Barwon South West,Medium,"Architectural, Building and Surveying Technicians"
+420,"Engineering, ICT and Science Technicians",Barwon South West,Medium,Civil Engineering Draftspersons and Technicians
+421,"Engineering, ICT and Science Technicians",Barwon South West,Medium,ICT Support Technicians
+422,"Engineering, ICT and Science Technicians",Gippsland,Low,ICT Support Technicians
+423,"Engineering, ICT and Science Technicians",Gippsland,Low,Electrical Engineering Draftspersons and Technicians
+424,"Engineering, ICT and Science Technicians",Gippsland,Low,Science Technicians
+425,"Engineering, ICT and Science Technicians",Gippsland,Low,Mechanical Engineering Draftspersons and Technicians
+426,"Engineering, ICT and Science Technicians",Gippsland,Low,Agricultural Technicians
+427,"Engineering, ICT and Science Technicians",Gippsland,Low,Telecommunications Technical Specialists
+428,"Engineering, ICT and Science Technicians",Gippsland,Low,Electronic Engineering Draftspersons and Technicians
+429,"Engineering, ICT and Science Technicians",Gippsland,Low,Safety Inspectors
+430,"Engineering, ICT and Science Technicians",Gippsland,Low,Primary Products Inspectors
+431,"Engineering, ICT and Science Technicians",Gippsland,Medium,Other Building and Engineering Technicians
+432,"Engineering, ICT and Science Technicians",Gippsland,Medium,Medical Technicians
+433,"Engineering, ICT and Science Technicians",Gippsland,Medium,Civil Engineering Draftspersons and Technicians
+434,"Engineering, ICT and Science Technicians",Gippsland,Medium,"Architectural, Building and Surveying Technicians"
+435,"Engineering, ICT and Science Technicians",Grampians,Low,Science Technicians
+436,"Engineering, ICT and Science Technicians",Grampians,Low,ICT Support Technicians
+437,"Engineering, ICT and Science Technicians",Grampians,Low,Agricultural Technicians
+438,"Engineering, ICT and Science Technicians",Grampians,Low,Electrical Engineering Draftspersons and Technicians
+439,"Engineering, ICT and Science Technicians",Grampians,Low,Safety Inspectors
+440,"Engineering, ICT and Science Technicians",Grampians,Low,Primary Products Inspectors
+441,"Engineering, ICT and Science Technicians",Grampians,Low,Mechanical Engineering Draftspersons and Technicians
+442,"Engineering, ICT and Science Technicians",Grampians,Low,Electronic Engineering Draftspersons and Technicians
+443,"Engineering, ICT and Science Technicians",Grampians,Medium,Other Building and Engineering Technicians
+444,"Engineering, ICT and Science Technicians",Grampians,Medium,Medical Technicians
+445,"Engineering, ICT and Science Technicians",Grampians,Medium,"Architectural, Building and Surveying Technicians"
+446,"Engineering, ICT and Science Technicians",Grampians,Medium,Civil Engineering Draftspersons and Technicians
+447,"Engineering, ICT and Science Technicians",Grampians,No additional commencements required,Telecommunications Technical Specialists
+448,"Engineering, ICT and Science Technicians",Hume,Low,Electrical Engineering Draftspersons and Technicians
+449,"Engineering, ICT and Science Technicians",Hume,Low,Science Technicians
+450,"Engineering, ICT and Science Technicians",Hume,Low,ICT Support Technicians
+451,"Engineering, ICT and Science Technicians",Hume,Low,Electronic Engineering Draftspersons and Technicians
+452,"Engineering, ICT and Science Technicians",Hume,Low,Agricultural Technicians
+453,"Engineering, ICT and Science Technicians",Hume,Low,Safety Inspectors
+454,"Engineering, ICT and Science Technicians",Hume,Low,Mechanical Engineering Draftspersons and Technicians
+455,"Engineering, ICT and Science Technicians",Hume,Low,Primary Products Inspectors
+456,"Engineering, ICT and Science Technicians",Hume,Medium,Medical Technicians
+457,"Engineering, ICT and Science Technicians",Hume,Medium,Other Building and Engineering Technicians
+458,"Engineering, ICT and Science Technicians",Hume,Medium,Civil Engineering Draftspersons and Technicians
+459,"Engineering, ICT and Science Technicians",Hume,Medium,"Architectural, Building and Surveying Technicians"
+460,"Engineering, ICT and Science Technicians",Hume,No additional commencements required,Telecommunications Technical Specialists
+461,"Engineering, ICT and Science Technicians",Loddon Mallee,Low,Electrical Engineering Draftspersons and Technicians
+462,"Engineering, ICT and Science Technicians",Loddon Mallee,Low,ICT Support Technicians
+463,"Engineering, ICT and Science Technicians",Loddon Mallee,Low,Agricultural Technicians
+464,"Engineering, ICT and Science Technicians",Loddon Mallee,Low,Telecommunications Technical Specialists
+465,"Engineering, ICT and Science Technicians",Loddon Mallee,Low,Safety Inspectors
+466,"Engineering, ICT and Science Technicians",Loddon Mallee,Low,Mechanical Engineering Draftspersons and Technicians
+467,"Engineering, ICT and Science Technicians",Loddon Mallee,Low,Primary Products Inspectors
+468,"Engineering, ICT and Science Technicians",Loddon Mallee,Low,Electronic Engineering Draftspersons and Technicians
+469,"Engineering, ICT and Science Technicians",Loddon Mallee,Medium,Other Building and Engineering Technicians
+470,"Engineering, ICT and Science Technicians",Loddon Mallee,Medium,Medical Technicians
+471,"Engineering, ICT and Science Technicians",Loddon Mallee,Medium,Civil Engineering Draftspersons and Technicians
+472,"Engineering, ICT and Science Technicians",Loddon Mallee,Medium,Science Technicians
+473,"Engineering, ICT and Science Technicians",Loddon Mallee,Medium,"Architectural, Building and Surveying Technicians"
+474,"Engineering, ICT and Science Technicians",Metropolitan Melbourne,High,Civil Engineering Draftspersons and Technicians
+475,"Engineering, ICT and Science Technicians",Metropolitan Melbourne,High,"Architectural, Building and Surveying Technicians"
+476,"Engineering, ICT and Science Technicians",Metropolitan Melbourne,High,Medical Technicians
+477,"Engineering, ICT and Science Technicians",Metropolitan Melbourne,High,Other Building and Engineering Technicians
+478,"Engineering, ICT and Science Technicians",Metropolitan Melbourne,Low,ICT Support Technicians
+479,"Engineering, ICT and Science Technicians",Metropolitan Melbourne,Low,Mechanical Engineering Draftspersons and Technicians
+480,"Engineering, ICT and Science Technicians",Metropolitan Melbourne,Low,Agricultural Technicians
+481,"Engineering, ICT and Science Technicians",Metropolitan Melbourne,Low,Primary Products Inspectors
+482,"Engineering, ICT and Science Technicians",Metropolitan Melbourne,Medium,Electrical Engineering Draftspersons and Technicians
+483,"Engineering, ICT and Science Technicians",Metropolitan Melbourne,Medium,Science Technicians
+484,"Engineering, ICT and Science Technicians",Metropolitan Melbourne,Medium,Electronic Engineering Draftspersons and Technicians
+485,"Engineering, ICT and Science Technicians",Metropolitan Melbourne,Medium,Safety Inspectors
+486,"Engineering, ICT and Science Technicians",Metropolitan Melbourne,No additional commencements required,Telecommunications Technical Specialists
+487,Factory Process Workers,Barwon South West,Low,Food and Drink Factory Workers
+488,Factory Process Workers,Barwon South West,Low,Product Assemblers
+489,Factory Process Workers,Barwon South West,Low,"Meat, Poultry and Seafood Process Workers"
+490,Factory Process Workers,Barwon South West,Low,Product Quality Controllers
+491,Factory Process Workers,Barwon South West,Low,"Meat Boners and Slicers, and Slaughterers"
+492,Factory Process Workers,Barwon South West,Low,Metal Engineering Process Workers
+493,Factory Process Workers,Barwon South West,Low,Timber and Wood Process Workers
+494,Factory Process Workers,Barwon South West,Medium,Packers
+495,Factory Process Workers,Barwon South West,No additional commencements required,Other Factory Process Workers
+496,Factory Process Workers,Gippsland,Low,Packers
+497,Factory Process Workers,Gippsland,Low,Food and Drink Factory Workers
+498,Factory Process Workers,Gippsland,Low,"Meat Boners and Slicers, and Slaughterers"
+499,Factory Process Workers,Gippsland,Low,Product Assemblers
+500,Factory Process Workers,Gippsland,Low,Metal Engineering Process Workers
+501,Factory Process Workers,Gippsland,Low,Timber and Wood Process Workers
+502,Factory Process Workers,Gippsland,Low,Product Quality Controllers
+503,Factory Process Workers,Gippsland,Low,"Meat, Poultry and Seafood Process Workers"
+504,Factory Process Workers,Gippsland,Low,Other Factory Process Workers
+505,Factory Process Workers,Grampians,Low,Product Assemblers
+506,Factory Process Workers,Grampians,Low,"Meat, Poultry and Seafood Process Workers"
+507,Factory Process Workers,Grampians,Low,Food and Drink Factory Workers
+508,Factory Process Workers,Grampians,Low,Metal Engineering Process Workers
+509,Factory Process Workers,Grampians,Low,"Meat Boners and Slicers, and Slaughterers"
+510,Factory Process Workers,Grampians,Low,Product Quality Controllers
+511,Factory Process Workers,Grampians,Low,Other Factory Process Workers
+512,Factory Process Workers,Grampians,Medium,Packers
+513,Factory Process Workers,Grampians,No additional commencements required,Timber and Wood Process Workers
+514,Factory Process Workers,Hume,Low,"Meat, Poultry and Seafood Process Workers"
+515,Factory Process Workers,Hume,Low,Product Assemblers
+516,Factory Process Workers,Hume,Low,Metal Engineering Process Workers
+517,Factory Process Workers,Hume,Low,Other Factory Process Workers
+518,Factory Process Workers,Hume,Low,Product Quality Controllers
+519,Factory Process Workers,Hume,Low,Timber and Wood Process Workers
+520,Factory Process Workers,Hume,Medium,Packers
+521,Factory Process Workers,Hume,Medium,Food and Drink Factory Workers
+522,Factory Process Workers,Hume,Medium,"Meat Boners and Slicers, and Slaughterers"
+523,Factory Process Workers,Loddon Mallee,Low,Food and Drink Factory Workers
+524,Factory Process Workers,Loddon Mallee,Low,"Meat Boners and Slicers, and Slaughterers"
+525,Factory Process Workers,Loddon Mallee,Low,Metal Engineering Process Workers
+526,Factory Process Workers,Loddon Mallee,Low,Product Assemblers
+527,Factory Process Workers,Loddon Mallee,Low,Product Quality Controllers
+528,Factory Process Workers,Loddon Mallee,Low,Other Factory Process Workers
+529,Factory Process Workers,Loddon Mallee,Low,Timber and Wood Process Workers
+530,Factory Process Workers,Loddon Mallee,Medium,Packers
+531,Factory Process Workers,Loddon Mallee,Medium,"Meat, Poultry and Seafood Process Workers"
+532,Factory Process Workers,Metropolitan Melbourne,High,Packers
+533,Factory Process Workers,Metropolitan Melbourne,High,Product Assemblers
+534,Factory Process Workers,Metropolitan Melbourne,Low,Other Factory Process Workers
+535,Factory Process Workers,Metropolitan Melbourne,Low,"Meat Boners and Slicers, and Slaughterers"
+536,Factory Process Workers,Metropolitan Melbourne,Low,Timber and Wood Process Workers
+537,Factory Process Workers,Metropolitan Melbourne,Medium,Food and Drink Factory Workers
+538,Factory Process Workers,Metropolitan Melbourne,Medium,Metal Engineering Process Workers
+539,Factory Process Workers,Metropolitan Melbourne,Medium,Product Quality Controllers
+540,Factory Process Workers,Metropolitan Melbourne,Medium,"Meat, Poultry and Seafood Process Workers"
+541,"Farm, Forestry and Garden Workers",Barwon South West,Low,"Other Farm, Forestry and Garden Workers"
+542,"Farm, Forestry and Garden Workers",Barwon South West,Low,Garden and Nursery Labourers
+543,"Farm, Forestry and Garden Workers",Barwon South West,Low,Aquaculture Workers
+544,"Farm, Forestry and Garden Workers",Barwon South West,Low,Mixed Crop and Livestock Farm Workers
+545,"Farm, Forestry and Garden Workers",Barwon South West,Low,Crop Farm Workers
+546,"Farm, Forestry and Garden Workers",Barwon South West,Low,Forestry and Logging Workers
+547,"Farm, Forestry and Garden Workers",Barwon South West,Medium,Livestock Farm Workers
+548,"Farm, Forestry and Garden Workers",Gippsland,Low,Livestock Farm Workers
+549,"Farm, Forestry and Garden Workers",Gippsland,Low,Garden and Nursery Labourers
+550,"Farm, Forestry and Garden Workers",Gippsland,Low,"Other Farm, Forestry and Garden Workers"
+551,"Farm, Forestry and Garden Workers",Gippsland,Low,Crop Farm Workers
+552,"Farm, Forestry and Garden Workers",Gippsland,Low,Forestry and Logging Workers
+553,"Farm, Forestry and Garden Workers",Gippsland,No additional commencements required,Aquaculture Workers
+554,"Farm, Forestry and Garden Workers",Gippsland,No additional commencements required,Mixed Crop and Livestock Farm Workers
+555,"Farm, Forestry and Garden Workers",Grampians,Low,"Other Farm, Forestry and Garden Workers"
+556,"Farm, Forestry and Garden Workers",Grampians,Low,Crop Farm Workers
+557,"Farm, Forestry and Garden Workers",Grampians,Low,Livestock Farm Workers
+558,"Farm, Forestry and Garden Workers",Grampians,Low,Garden and Nursery Labourers
+559,"Farm, Forestry and Garden Workers",Grampians,Low,Mixed Crop and Livestock Farm Workers
+560,"Farm, Forestry and Garden Workers",Grampians,No additional commencements required,Aquaculture Workers
+561,"Farm, Forestry and Garden Workers",Grampians,No additional commencements required,Forestry and Logging Workers
+562,"Farm, Forestry and Garden Workers",Hume,Low,Crop Farm Workers
+563,"Farm, Forestry and Garden Workers",Hume,Low,Livestock Farm Workers
+564,"Farm, Forestry and Garden Workers",Hume,Low,Forestry and Logging Workers
+565,"Farm, Forestry and Garden Workers",Hume,Medium,Garden and Nursery Labourers
+566,"Farm, Forestry and Garden Workers",Hume,Medium,"Other Farm, Forestry and Garden Workers"
+567,"Farm, Forestry and Garden Workers",Hume,No additional commencements required,Aquaculture Workers
+568,"Farm, Forestry and Garden Workers",Hume,No additional commencements required,Mixed Crop and Livestock Farm Workers
+569,"Farm, Forestry and Garden Workers",Loddon Mallee,Low,Crop Farm Workers
+570,"Farm, Forestry and Garden Workers",Loddon Mallee,Low,Livestock Farm Workers
+571,"Farm, Forestry and Garden Workers",Loddon Mallee,Low,Garden and Nursery Labourers
+572,"Farm, Forestry and Garden Workers",Loddon Mallee,Low,Mixed Crop and Livestock Farm Workers
+573,"Farm, Forestry and Garden Workers",Loddon Mallee,Low,Forestry and Logging Workers
+574,"Farm, Forestry and Garden Workers",Loddon Mallee,Medium,"Other Farm, Forestry and Garden Workers"
+575,"Farm, Forestry and Garden Workers",Loddon Mallee,No additional commencements required,Aquaculture Workers
+576,"Farm, Forestry and Garden Workers",Metropolitan Melbourne,Low,Crop Farm Workers
+577,"Farm, Forestry and Garden Workers",Metropolitan Melbourne,Low,Livestock Farm Workers
+578,"Farm, Forestry and Garden Workers",Metropolitan Melbourne,Low,Forestry and Logging Workers
+579,"Farm, Forestry and Garden Workers",Metropolitan Melbourne,Medium,"Other Farm, Forestry and Garden Workers"
+580,"Farm, Forestry and Garden Workers",Metropolitan Melbourne,Medium,Garden and Nursery Labourers
+581,"Farm, Forestry and Garden Workers",Metropolitan Melbourne,No additional commencements required,Aquaculture Workers
+582,"Farm, Forestry and Garden Workers",Metropolitan Melbourne,No additional commencements required,Mixed Crop and Livestock Farm Workers
+583,Farmers and Farm Managers,Barwon South West,Low,Crop Farmers
+584,Farmers and Farm Managers,Barwon South West,Low,Mixed Crop and Livestock Farmers
+585,Farmers and Farm Managers,Barwon South West,Medium,Livestock Farmers
+586,Farmers and Farm Managers,Gippsland,Low,Crop Farmers
+587,Farmers and Farm Managers,Gippsland,Medium,Livestock Farmers
+588,Farmers and Farm Managers,Gippsland,No additional commencements required,Mixed Crop and Livestock Farmers
+589,Farmers and Farm Managers,Grampians,Low,Livestock Farmers
+590,Farmers and Farm Managers,Grampians,Low,Crop Farmers
+591,Farmers and Farm Managers,Grampians,Medium,Mixed Crop and Livestock Farmers
+592,Farmers and Farm Managers,Hume,Low,Crop Farmers
+593,Farmers and Farm Managers,Hume,Low,Mixed Crop and Livestock Farmers
+594,Farmers and Farm Managers,Hume,Medium,Livestock Farmers
+595,Farmers and Farm Managers,Loddon Mallee,Medium,Mixed Crop and Livestock Farmers
+596,Farmers and Farm Managers,Loddon Mallee,Medium,Crop Farmers
+597,Farmers and Farm Managers,Loddon Mallee,Medium,Livestock Farmers
+598,Farmers and Farm Managers,Metropolitan Melbourne,Low,Crop Farmers
+599,Farmers and Farm Managers,Metropolitan Melbourne,Low,Livestock Farmers
+600,Farmers and Farm Managers,Metropolitan Melbourne,Low,Mixed Crop and Livestock Farmers
+601,Food Preparation Assistants,Barwon South West,High,Kitchenhands
+602,Food Preparation Assistants,Barwon South West,Low,Food Trades Assistants
+603,Food Preparation Assistants,Gippsland,Low,Food Trades Assistants
+604,Food Preparation Assistants,Gippsland,Medium,Kitchenhands
+605,Food Preparation Assistants,Grampians,Medium,Kitchenhands
+606,Food Preparation Assistants,Grampians,No additional commencements required,Food Trades Assistants
+607,Food Preparation Assistants,Hume,Low,Food Trades Assistants
+608,Food Preparation Assistants,Hume,Medium,Kitchenhands
+609,Food Preparation Assistants,Loddon Mallee,Low,Food Trades Assistants
+610,Food Preparation Assistants,Loddon Mallee,Medium,Kitchenhands
+611,Food Preparation Assistants,Metropolitan Melbourne,Medium,Food Trades Assistants
+612,Food Preparation Assistants,Metropolitan Melbourne,Very high,Kitchenhands
+613,Food Trades Workers,Barwon South West,High,Chefs
+614,Food Trades Workers,Barwon South West,High,Cooks
+615,Food Trades Workers,Barwon South West,Medium,Bakers and Pastrycooks
+616,Food Trades Workers,Barwon South West,Medium,Butchers and Smallgoods Makers
+617,Food Trades Workers,Gippsland,High,Chefs
+618,Food Trades Workers,Gippsland,Low,Butchers and Smallgoods Makers
+619,Food Trades Workers,Gippsland,Medium,Cooks
+620,Food Trades Workers,Gippsland,Medium,Bakers and Pastrycooks
+621,Food Trades Workers,Grampians,High,Chefs
+622,Food Trades Workers,Grampians,Low,Butchers and Smallgoods Makers
+623,Food Trades Workers,Grampians,Medium,Cooks
+624,Food Trades Workers,Grampians,Medium,Bakers and Pastrycooks
+625,Food Trades Workers,Hume,High,Chefs
+626,Food Trades Workers,Hume,High,Cooks
+627,Food Trades Workers,Hume,Medium,Bakers and Pastrycooks
+628,Food Trades Workers,Hume,Medium,Butchers and Smallgoods Makers
+629,Food Trades Workers,Loddon Mallee,High,Chefs
+630,Food Trades Workers,Loddon Mallee,Low,Butchers and Smallgoods Makers
+631,Food Trades Workers,Loddon Mallee,Medium,Cooks
+632,Food Trades Workers,Loddon Mallee,Medium,Bakers and Pastrycooks
+633,Food Trades Workers,Metropolitan Melbourne,High,Bakers and Pastrycooks
+634,Food Trades Workers,Metropolitan Melbourne,High,Cooks
+635,Food Trades Workers,Metropolitan Melbourne,High,Butchers and Smallgoods Makers
+636,Food Trades Workers,Metropolitan Melbourne,Very high,Chefs
+637,General Clerical Workers,Barwon South West,High,General Clerks
+638,General Clerical Workers,Barwon South West,Low,Keyboard Operators
+639,General Clerical Workers,Gippsland,High,General Clerks
+640,General Clerical Workers,Gippsland,Low,Keyboard Operators
+641,General Clerical Workers,Grampians,High,General Clerks
+642,General Clerical Workers,Grampians,Low,Keyboard Operators
+643,General Clerical Workers,Hume,High,General Clerks
+644,General Clerical Workers,Hume,Low,Keyboard Operators
+645,General Clerical Workers,Loddon Mallee,High,General Clerks
+646,General Clerical Workers,Loddon Mallee,Low,Keyboard Operators
+647,General Clerical Workers,Metropolitan Melbourne,Medium,Keyboard Operators
+648,General Clerical Workers,Metropolitan Melbourne,Very high,General Clerks
+649,Health and Welfare Support Workers,Barwon South West,Low,Ambulance Officers and Paramedics
+650,Health and Welfare Support Workers,Barwon South West,Low,Diversional Therapists
+651,Health and Welfare Support Workers,Barwon South West,Low,Indigenous Health Workers
+652,Health and Welfare Support Workers,Barwon South West,Low,Massage Therapists
+653,Health and Welfare Support Workers,Barwon South West,Medium,Enrolled and Mothercraft Nurses
+654,Health and Welfare Support Workers,Barwon South West,No additional commencements required,Welfare Support Workers
+655,Health and Welfare Support Workers,Barwon South West,No additional commencements required,"Dental Hygienists, Technicians and Therapists"
+656,Health and Welfare Support Workers,Gippsland,Low,Ambulance Officers and Paramedics
+657,Health and Welfare Support Workers,Gippsland,Low,Indigenous Health Workers
+658,Health and Welfare Support Workers,Gippsland,Low,Massage Therapists
+659,Health and Welfare Support Workers,Gippsland,Low,Diversional Therapists
+660,Health and Welfare Support Workers,Gippsland,Medium,Enrolled and Mothercraft Nurses
+661,Health and Welfare Support Workers,Gippsland,No additional commencements required,"Dental Hygienists, Technicians and Therapists"
+662,Health and Welfare Support Workers,Gippsland,No additional commencements required,Welfare Support Workers
+663,Health and Welfare Support Workers,Grampians,Low,Ambulance Officers and Paramedics
+664,Health and Welfare Support Workers,Grampians,Low,Massage Therapists
+665,Health and Welfare Support Workers,Grampians,Low,Indigenous Health Workers
+666,Health and Welfare Support Workers,Grampians,Medium,Enrolled and Mothercraft Nurses
+667,Health and Welfare Support Workers,Grampians,No additional commencements required,Welfare Support Workers
+668,Health and Welfare Support Workers,Grampians,No additional commencements required,Diversional Therapists
+669,Health and Welfare Support Workers,Grampians,No additional commencements required,"Dental Hygienists, Technicians and Therapists"
+670,Health and Welfare Support Workers,Hume,Low,Ambulance Officers and Paramedics
+671,Health and Welfare Support Workers,Hume,Low,Indigenous Health Workers
+672,Health and Welfare Support Workers,Hume,Low,Diversional Therapists
+673,Health and Welfare Support Workers,Hume,Low,Massage Therapists
+674,Health and Welfare Support Workers,Hume,Medium,Enrolled and Mothercraft Nurses
+675,Health and Welfare Support Workers,Hume,No additional commencements required,Welfare Support Workers
+676,Health and Welfare Support Workers,Hume,No additional commencements required,"Dental Hygienists, Technicians and Therapists"
+677,Health and Welfare Support Workers,Loddon Mallee,Low,Indigenous Health Workers
+678,Health and Welfare Support Workers,Loddon Mallee,Low,Ambulance Officers and Paramedics
+679,Health and Welfare Support Workers,Loddon Mallee,Low,Massage Therapists
+680,Health and Welfare Support Workers,Loddon Mallee,Low,Diversional Therapists
+681,Health and Welfare Support Workers,Loddon Mallee,Medium,Enrolled and Mothercraft Nurses
+682,Health and Welfare Support Workers,Loddon Mallee,No additional commencements required,Welfare Support Workers
+683,Health and Welfare Support Workers,Loddon Mallee,No additional commencements required,"Dental Hygienists, Technicians and Therapists"
+684,Health and Welfare Support Workers,Metropolitan Melbourne,High,Enrolled and Mothercraft Nurses
+685,Health and Welfare Support Workers,Metropolitan Melbourne,Low,Indigenous Health Workers
+686,Health and Welfare Support Workers,Metropolitan Melbourne,Low,Diversional Therapists
+687,Health and Welfare Support Workers,Metropolitan Melbourne,Low,Massage Therapists
+688,Health and Welfare Support Workers,Metropolitan Melbourne,Medium,Ambulance Officers and Paramedics
+689,Health and Welfare Support Workers,Metropolitan Melbourne,No additional commencements required,Welfare Support Workers
+690,Health and Welfare Support Workers,Metropolitan Melbourne,No additional commencements required,"Dental Hygienists, Technicians and Therapists"
+691,Health Professionals,Barwon South West,Low,Occupational and Environmental Health Professionals
+692,Health Professionals,Barwon South West,Low,Other Health Diagnostic and Promotion Professionals
+693,Health Professionals,Barwon South West,No additional commencements required,Complementary Health Therapists
+694,Health Professionals,Gippsland,Low,Occupational and Environmental Health Professionals
+695,Health Professionals,Gippsland,Low,Other Health Diagnostic and Promotion Professionals
+696,Health Professionals,Gippsland,No additional commencements required,Complementary Health Therapists
+697,Health Professionals,Grampians,Low,Occupational and Environmental Health Professionals
+698,Health Professionals,Grampians,Low,Other Health Diagnostic and Promotion Professionals
+699,Health Professionals,Grampians,No additional commencements required,Complementary Health Therapists
+700,Health Professionals,Hume,Low,Occupational and Environmental Health Professionals
+701,Health Professionals,Hume,Low,Other Health Diagnostic and Promotion Professionals
+702,Health Professionals,Hume,No additional commencements required,Complementary Health Therapists
+703,Health Professionals,Loddon Mallee,Low,Occupational and Environmental Health Professionals
+704,Health Professionals,Loddon Mallee,Low,Other Health Diagnostic and Promotion Professionals
+705,Health Professionals,Loddon Mallee,No additional commencements required,Complementary Health Therapists
+706,Health Professionals,Metropolitan Melbourne,Low,Other Health Diagnostic and Promotion Professionals
+707,Health Professionals,Metropolitan Melbourne,Medium,Occupational and Environmental Health Professionals
+708,Health Professionals,Metropolitan Melbourne,No additional commencements required,Complementary Health Therapists
+709,Hospitality Workers,Barwon South West,High,Waiters
+710,Hospitality Workers,Barwon South West,High,Bar Attendants and Baristas
+711,Hospitality Workers,Barwon South West,Low,Hotel Service Managers
+712,Hospitality Workers,Barwon South West,Low,Gaming Workers
+713,Hospitality Workers,Gippsland,Low,Hotel Service Managers
+714,Hospitality Workers,Gippsland,Low,Gaming Workers
+715,Hospitality Workers,Gippsland,Medium,Bar Attendants and Baristas
+716,Hospitality Workers,Gippsland,Medium,Waiters
+717,Hospitality Workers,Grampians,Low,Hotel Service Managers
+718,Hospitality Workers,Grampians,Low,Gaming Workers
+719,Hospitality Workers,Grampians,Medium,Waiters
+720,Hospitality Workers,Grampians,Medium,Bar Attendants and Baristas
+721,Hospitality Workers,Hume,High,Bar Attendants and Baristas
+722,Hospitality Workers,Hume,High,Waiters
+723,Hospitality Workers,Hume,Low,Hotel Service Managers
+724,Hospitality Workers,Hume,Low,Gaming Workers
+725,Hospitality Workers,Loddon Mallee,Low,Gaming Workers
+726,Hospitality Workers,Loddon Mallee,Low,Hotel Service Managers
+727,Hospitality Workers,Loddon Mallee,Medium,Bar Attendants and Baristas
+728,Hospitality Workers,Loddon Mallee,Medium,Waiters
+729,Hospitality Workers,Metropolitan Melbourne,High,Gaming Workers
+730,Hospitality Workers,Metropolitan Melbourne,Medium,Hotel Service Managers
+731,Hospitality Workers,Metropolitan Melbourne,Very high,Waiters
+732,Hospitality Workers,Metropolitan Melbourne,Very high,Bar Attendants and Baristas
+733,"Hospitality, Retail and Service Managers",Barwon South West,Low,Call or Contact Centre and Customer Service Managers
+734,"Hospitality, Retail and Service Managers",Barwon South West,Low,Conference and Event Organisers
+735,"Hospitality, Retail and Service Managers",Barwon South West,Low,"Amusement, Fitness and Sports Centre Managers"
+736,"Hospitality, Retail and Service Managers",Barwon South West,Medium,Cafe and Restaurant Managers
+737,"Hospitality, Retail and Service Managers",Barwon South West,Medium,Retail Managers
+738,"Hospitality, Retail and Service Managers",Gippsland,Low,Call or Contact Centre and Customer Service Managers
+739,"Hospitality, Retail and Service Managers",Gippsland,Low,"Amusement, Fitness and Sports Centre Managers"
+740,"Hospitality, Retail and Service Managers",Gippsland,Low,Conference and Event Organisers
+741,"Hospitality, Retail and Service Managers",Gippsland,Medium,Cafe and Restaurant Managers
+742,"Hospitality, Retail and Service Managers",Gippsland,Medium,Retail Managers
+743,"Hospitality, Retail and Service Managers",Grampians,Low,Call or Contact Centre and Customer Service Managers
+744,"Hospitality, Retail and Service Managers",Grampians,Low,"Amusement, Fitness and Sports Centre Managers"
+745,"Hospitality, Retail and Service Managers",Grampians,Low,Conference and Event Organisers
+746,"Hospitality, Retail and Service Managers",Grampians,Medium,Cafe and Restaurant Managers
+747,"Hospitality, Retail and Service Managers",Grampians,Medium,Retail Managers
+748,"Hospitality, Retail and Service Managers",Hume,Low,Call or Contact Centre and Customer Service Managers
+749,"Hospitality, Retail and Service Managers",Hume,Low,Conference and Event Organisers
+750,"Hospitality, Retail and Service Managers",Hume,Low,"Amusement, Fitness and Sports Centre Managers"
+751,"Hospitality, Retail and Service Managers",Hume,Medium,Cafe and Restaurant Managers
+752,"Hospitality, Retail and Service Managers",Hume,Medium,Retail Managers
+753,"Hospitality, Retail and Service Managers",Loddon Mallee,Low,Call or Contact Centre and Customer Service Managers
+754,"Hospitality, Retail and Service Managers",Loddon Mallee,Low,Conference and Event Organisers
+755,"Hospitality, Retail and Service Managers",Loddon Mallee,Low,"Amusement, Fitness and Sports Centre Managers"
+756,"Hospitality, Retail and Service Managers",Loddon Mallee,Medium,Cafe and Restaurant Managers
+757,"Hospitality, Retail and Service Managers",Loddon Mallee,Medium,Retail Managers
+758,"Hospitality, Retail and Service Managers",Metropolitan Melbourne,High,Retail Managers
+759,"Hospitality, Retail and Service Managers",Metropolitan Melbourne,Medium,Call or Contact Centre and Customer Service Managers
+760,"Hospitality, Retail and Service Managers",Metropolitan Melbourne,Medium,Conference and Event Organisers
+761,"Hospitality, Retail and Service Managers",Metropolitan Melbourne,Medium,"Amusement, Fitness and Sports Centre Managers"
+762,"Hospitality, Retail and Service Managers",Metropolitan Melbourne,Very high,Cafe and Restaurant Managers
+763,ICT Professionals,Barwon South West,Low,Software and Applications Programmers
+764,ICT Professionals,Barwon South West,Low,Computer Network Professionals
+765,ICT Professionals,Barwon South West,Low,ICT Support and Test Engineers
+766,ICT Professionals,Barwon South West,Low,Telecommunications Engineering Professionals
+767,ICT Professionals,Barwon South West,Medium,"Database and Systems Administrators, and ICT Security Specialists"
+768,ICT Professionals,Gippsland,Low,Computer Network Professionals
+769,ICT Professionals,Gippsland,Low,Software and Applications Programmers
+770,ICT Professionals,Gippsland,Medium,"Database and Systems Administrators, and ICT Security Specialists"
+771,ICT Professionals,Gippsland,No additional commencements required,ICT Support and Test Engineers
+772,ICT Professionals,Gippsland,No additional commencements required,Telecommunications Engineering Professionals
+773,ICT Professionals,Grampians,Low,Computer Network Professionals
+774,ICT Professionals,Grampians,Low,Software and Applications Programmers
+775,ICT Professionals,Grampians,Low,Telecommunications Engineering Professionals
+776,ICT Professionals,Grampians,Low,ICT Support and Test Engineers
+777,ICT Professionals,Grampians,Medium,"Database and Systems Administrators, and ICT Security Specialists"
+778,ICT Professionals,Hume,Low,Telecommunications Engineering Professionals
+779,ICT Professionals,Hume,Low,Software and Applications Programmers
+780,ICT Professionals,Hume,Medium,"Database and Systems Administrators, and ICT Security Specialists"
+781,ICT Professionals,Hume,Medium,Computer Network Professionals
+782,ICT Professionals,Hume,No additional commencements required,ICT Support and Test Engineers
+783,ICT Professionals,Loddon Mallee,Low,Software and Applications Programmers
+784,ICT Professionals,Loddon Mallee,Low,Telecommunications Engineering Professionals
+785,ICT Professionals,Loddon Mallee,Low,ICT Support and Test Engineers
+786,ICT Professionals,Loddon Mallee,Medium,"Database and Systems Administrators, and ICT Security Specialists"
+787,ICT Professionals,Loddon Mallee,Medium,Computer Network Professionals
+788,ICT Professionals,Metropolitan Melbourne,High,"Database and Systems Administrators, and ICT Security Specialists"
+789,ICT Professionals,Metropolitan Melbourne,Medium,Computer Network Professionals
+790,ICT Professionals,Metropolitan Melbourne,Medium,Telecommunications Engineering Professionals
+791,ICT Professionals,Metropolitan Melbourne,Medium,ICT Support and Test Engineers
+792,ICT Professionals,Metropolitan Melbourne,No additional commencements required,Software and Applications Programmers
+793,Inquiry Clerks and Receptionists,Barwon South West,High,Receptionists
+794,Inquiry Clerks and Receptionists,Gippsland,Medium,Receptionists
+795,Inquiry Clerks and Receptionists,Grampians,Medium,Receptionists
+796,Inquiry Clerks and Receptionists,Hume,High,Receptionists
+797,Inquiry Clerks and Receptionists,Loddon Mallee,Medium,Receptionists
+798,Inquiry Clerks and Receptionists,Metropolitan Melbourne,Very high,Receptionists
+799,"Legal, Social and Welfare Professionals",Barwon South West,Low,Social Workers
+800,"Legal, Social and Welfare Professionals",Barwon South West,Low,Counsellors
+801,"Legal, Social and Welfare Professionals",Barwon South West,Low,Social Professionals
+802,"Legal, Social and Welfare Professionals",Barwon South West,Medium,"Welfare, Recreation and Community Arts Workers"
+803,"Legal, Social and Welfare Professionals",Barwon South West,No additional commencements required,Judicial and Other Legal Professionals
+804,"Legal, Social and Welfare Professionals",Gippsland,Low,Social Workers
+805,"Legal, Social and Welfare Professionals",Gippsland,Low,Counsellors
+806,"Legal, Social and Welfare Professionals",Gippsland,Low,Social Professionals
+807,"Legal, Social and Welfare Professionals",Gippsland,Medium,"Welfare, Recreation and Community Arts Workers"
+808,"Legal, Social and Welfare Professionals",Gippsland,No additional commencements required,Judicial and Other Legal Professionals
+809,"Legal, Social and Welfare Professionals",Grampians,Low,"Welfare, Recreation and Community Arts Workers"
+810,"Legal, Social and Welfare Professionals",Grampians,Low,Social Workers
+811,"Legal, Social and Welfare Professionals",Grampians,Low,Counsellors
+812,"Legal, Social and Welfare Professionals",Grampians,No additional commencements required,Judicial and Other Legal Professionals
+813,"Legal, Social and Welfare Professionals",Grampians,No additional commencements required,Social Professionals
+814,"Legal, Social and Welfare Professionals",Hume,Low,Social Workers
+815,"Legal, Social and Welfare Professionals",Hume,Low,Counsellors
+816,"Legal, Social and Welfare Professionals",Hume,Low,Social Professionals
+817,"Legal, Social and Welfare Professionals",Hume,Medium,"Welfare, Recreation and Community Arts Workers"
+818,"Legal, Social and Welfare Professionals",Hume,No additional commencements required,Judicial and Other Legal Professionals
+819,"Legal, Social and Welfare Professionals",Loddon Mallee,Low,Social Workers
+820,"Legal, Social and Welfare Professionals",Loddon Mallee,Low,Counsellors
+821,"Legal, Social and Welfare Professionals",Loddon Mallee,Medium,"Welfare, Recreation and Community Arts Workers"
+822,"Legal, Social and Welfare Professionals",Loddon Mallee,No additional commencements required,Social Professionals
+823,"Legal, Social and Welfare Professionals",Loddon Mallee,No additional commencements required,Judicial and Other Legal Professionals
+824,"Legal, Social and Welfare Professionals",Metropolitan Melbourne,Low,Social Professionals
+825,"Legal, Social and Welfare Professionals",Metropolitan Melbourne,Medium,"Welfare, Recreation and Community Arts Workers"
+826,"Legal, Social and Welfare Professionals",Metropolitan Melbourne,Medium,Social Workers
+827,"Legal, Social and Welfare Professionals",Metropolitan Melbourne,No additional commencements required,Counsellors
+828,"Legal, Social and Welfare Professionals",Metropolitan Melbourne,No additional commencements required,Judicial and Other Legal Professionals
+829,Machine and Stationary Plant Operators,Barwon South West,Low,Paper and Wood Processing Machine Operators
+830,Machine and Stationary Plant Operators,Barwon South West,Low,Industrial Spraypainters
+831,Machine and Stationary Plant Operators,Barwon South West,Low,Sewing Machinists
+832,Machine and Stationary Plant Operators,Barwon South West,Low,Textile and Footwear Production Machine Operators
+833,Machine and Stationary Plant Operators,Barwon South West,Medium,Other Stationary Plant Operators
+834,Machine and Stationary Plant Operators,Barwon South West,Medium,"Crane, Hoist and Lift Operators"
+835,Machine and Stationary Plant Operators,Barwon South West,Medium,Engineering Production Workers
+836,Machine and Stationary Plant Operators,Barwon South West,Medium,"Drillers, Miners and Shot Firers"
+837,Machine and Stationary Plant Operators,Barwon South West,No additional commencements required,Other Machine Operators
+838,Machine and Stationary Plant Operators,Gippsland,High,"Drillers, Miners and Shot Firers"
+839,Machine and Stationary Plant Operators,Gippsland,Low,Paper and Wood Processing Machine Operators
+840,Machine and Stationary Plant Operators,Gippsland,Low,Industrial Spraypainters
+841,Machine and Stationary Plant Operators,Gippsland,Low,Engineering Production Workers
+842,Machine and Stationary Plant Operators,Gippsland,Low,Textile and Footwear Production Machine Operators
+843,Machine and Stationary Plant Operators,Gippsland,Low,Sewing Machinists
+844,Machine and Stationary Plant Operators,Gippsland,Low,Other Machine Operators
+845,Machine and Stationary Plant Operators,Gippsland,Medium,Other Stationary Plant Operators
+846,Machine and Stationary Plant Operators,Gippsland,Medium,"Crane, Hoist and Lift Operators"
+847,Machine and Stationary Plant Operators,Grampians,Low,"Crane, Hoist and Lift Operators"
+848,Machine and Stationary Plant Operators,Grampians,Low,Engineering Production Workers
+849,Machine and Stationary Plant Operators,Grampians,Low,Industrial Spraypainters
+850,Machine and Stationary Plant Operators,Grampians,Low,Sewing Machinists
+851,Machine and Stationary Plant Operators,Grampians,Low,Textile and Footwear Production Machine Operators
+852,Machine and Stationary Plant Operators,Grampians,Low,Other Machine Operators
+853,Machine and Stationary Plant Operators,Grampians,Low,Paper and Wood Processing Machine Operators
+854,Machine and Stationary Plant Operators,Grampians,Medium,"Drillers, Miners and Shot Firers"
+855,Machine and Stationary Plant Operators,Grampians,Medium,Other Stationary Plant Operators
+856,Machine and Stationary Plant Operators,Hume,Low,Paper and Wood Processing Machine Operators
+857,Machine and Stationary Plant Operators,Hume,Low,Engineering Production Workers
+858,Machine and Stationary Plant Operators,Hume,Low,Sewing Machinists
+859,Machine and Stationary Plant Operators,Hume,Low,Industrial Spraypainters
+860,Machine and Stationary Plant Operators,Hume,Low,Other Machine Operators
+861,Machine and Stationary Plant Operators,Hume,Low,Textile and Footwear Production Machine Operators
+862,Machine and Stationary Plant Operators,Hume,Medium,Other Stationary Plant Operators
+863,Machine and Stationary Plant Operators,Hume,Medium,"Drillers, Miners and Shot Firers"
+864,Machine and Stationary Plant Operators,Hume,Medium,"Crane, Hoist and Lift Operators"
+865,Machine and Stationary Plant Operators,Loddon Mallee,Low,"Crane, Hoist and Lift Operators"
+866,Machine and Stationary Plant Operators,Loddon Mallee,Low,Engineering Production Workers
+867,Machine and Stationary Plant Operators,Loddon Mallee,Low,Sewing Machinists
+868,Machine and Stationary Plant Operators,Loddon Mallee,Low,Industrial Spraypainters
+869,Machine and Stationary Plant Operators,Loddon Mallee,Low,Paper and Wood Processing Machine Operators
+870,Machine and Stationary Plant Operators,Loddon Mallee,Low,Other Machine Operators
+871,Machine and Stationary Plant Operators,Loddon Mallee,Low,Textile and Footwear Production Machine Operators
+872,Machine and Stationary Plant Operators,Loddon Mallee,Medium,"Drillers, Miners and Shot Firers"
+873,Machine and Stationary Plant Operators,Loddon Mallee,Medium,Other Stationary Plant Operators
+874,Machine and Stationary Plant Operators,Metropolitan Melbourne,High,"Crane, Hoist and Lift Operators"
+875,Machine and Stationary Plant Operators,Metropolitan Melbourne,High,Engineering Production Workers
+876,Machine and Stationary Plant Operators,Metropolitan Melbourne,High,"Drillers, Miners and Shot Firers"
+877,Machine and Stationary Plant Operators,Metropolitan Melbourne,Low,Paper and Wood Processing Machine Operators
+878,Machine and Stationary Plant Operators,Metropolitan Melbourne,Low,Industrial Spraypainters
+879,Machine and Stationary Plant Operators,Metropolitan Melbourne,Low,Textile and Footwear Production Machine Operators
+880,Machine and Stationary Plant Operators,Metropolitan Melbourne,Low,Other Machine Operators
+881,Machine and Stationary Plant Operators,Metropolitan Melbourne,Medium,Other Stationary Plant Operators
+882,Machine and Stationary Plant Operators,Metropolitan Melbourne,Medium,Sewing Machinists
+883,Mobile Plant Operators,Barwon South West,Medium,Forklift Drivers
+884,Mobile Plant Operators,Barwon South West,Medium,Earthmoving Plant Operators
+885,Mobile Plant Operators,Barwon South West,Medium,"Agricultural, Forestry and Horticultural Plant Operators"
+886,Mobile Plant Operators,Gippsland,Low,"Agricultural, Forestry and Horticultural Plant Operators"
+887,Mobile Plant Operators,Gippsland,Medium,Earthmoving Plant Operators
+888,Mobile Plant Operators,Gippsland,Medium,Forklift Drivers
+889,Mobile Plant Operators,Grampians,Low,"Agricultural, Forestry and Horticultural Plant Operators"
+890,Mobile Plant Operators,Grampians,Medium,Earthmoving Plant Operators
+891,Mobile Plant Operators,Grampians,Medium,Forklift Drivers
+892,Mobile Plant Operators,Hume,High,Forklift Drivers
+893,Mobile Plant Operators,Hume,High,Earthmoving Plant Operators
+894,Mobile Plant Operators,Hume,Medium,"Agricultural, Forestry and Horticultural Plant Operators"
+895,Mobile Plant Operators,Loddon Mallee,Low,"Agricultural, Forestry and Horticultural Plant Operators"
+896,Mobile Plant Operators,Loddon Mallee,Medium,Earthmoving Plant Operators
+897,Mobile Plant Operators,Loddon Mallee,Medium,Forklift Drivers
+898,Mobile Plant Operators,Metropolitan Melbourne,High,Earthmoving Plant Operators
+899,Mobile Plant Operators,Metropolitan Melbourne,Low,"Agricultural, Forestry and Horticultural Plant Operators"
+900,Mobile Plant Operators,Metropolitan Melbourne,Very high,Forklift Drivers
+901,Numerical Clerks,Barwon South West,Low,Payroll Clerks
+902,Numerical Clerks,Barwon South West,Low,Credit and Loans Officers
+903,Numerical Clerks,Barwon South West,Medium,Accounting Clerks
+904,Numerical Clerks,Barwon South West,Medium,Bookkeepers
+905,Numerical Clerks,Gippsland,Low,Payroll Clerks
+906,Numerical Clerks,Gippsland,Low,Credit and Loans Officers
+907,Numerical Clerks,Gippsland,Medium,Accounting Clerks
+908,Numerical Clerks,Gippsland,Medium,Bookkeepers
+909,Numerical Clerks,Grampians,Low,Bookkeepers
+910,Numerical Clerks,Grampians,Low,Payroll Clerks
+911,Numerical Clerks,Grampians,Low,Credit and Loans Officers
+912,Numerical Clerks,Grampians,Medium,Accounting Clerks
+913,Numerical Clerks,Hume,Low,Bookkeepers
+914,Numerical Clerks,Hume,Low,Credit and Loans Officers
+915,Numerical Clerks,Hume,Medium,Accounting Clerks
+916,Numerical Clerks,Hume,Medium,Payroll Clerks
+917,Numerical Clerks,Loddon Mallee,Low,Credit and Loans Officers
+918,Numerical Clerks,Loddon Mallee,Medium,Accounting Clerks
+919,Numerical Clerks,Loddon Mallee,Medium,Bookkeepers
+920,Numerical Clerks,Loddon Mallee,Medium,Payroll Clerks
+921,Numerical Clerks,Metropolitan Melbourne,High,Bookkeepers
+922,Numerical Clerks,Metropolitan Melbourne,High,Payroll Clerks
+923,Numerical Clerks,Metropolitan Melbourne,Medium,Credit and Loans Officers
+924,Numerical Clerks,Metropolitan Melbourne,Very high,Accounting Clerks
+925,Office Managers and Program Administrators,Barwon South West,Low,Practice Managers
+926,Office Managers and Program Administrators,Barwon South West,Medium,Office Managers
+927,Office Managers and Program Administrators,Barwon South West,Medium,"Contract, Program and Project Administrators"
+928,Office Managers and Program Administrators,Gippsland,Low,Practice Managers
+929,Office Managers and Program Administrators,Gippsland,Medium,Office Managers
+930,Office Managers and Program Administrators,Gippsland,Medium,"Contract, Program and Project Administrators"
+931,Office Managers and Program Administrators,Grampians,Low,Practice Managers
+932,Office Managers and Program Administrators,Grampians,Medium,Office Managers
+933,Office Managers and Program Administrators,Grampians,Medium,"Contract, Program and Project Administrators"
+934,Office Managers and Program Administrators,Hume,Low,Practice Managers
+935,Office Managers and Program Administrators,Hume,Medium,Office Managers
+936,Office Managers and Program Administrators,Hume,Medium,"Contract, Program and Project Administrators"
+937,Office Managers and Program Administrators,Loddon Mallee,Low,Practice Managers
+938,Office Managers and Program Administrators,Loddon Mallee,Medium,Office Managers
+939,Office Managers and Program Administrators,Loddon Mallee,Medium,"Contract, Program and Project Administrators"
+940,Office Managers and Program Administrators,Metropolitan Melbourne,High,Office Managers
+941,Office Managers and Program Administrators,Metropolitan Melbourne,High,"Contract, Program and Project Administrators"
+942,Office Managers and Program Administrators,Metropolitan Melbourne,Medium,Practice Managers
+943,Other Clerical and Administrative Workers,Barwon South West,Low,Court and Legal Clerks
+944,Other Clerical and Administrative Workers,Barwon South West,Low,Conveyancers and Legal Executives
+945,Other Clerical and Administrative Workers,Barwon South West,Low,Transport and Despatch Clerks
+946,Other Clerical and Administrative Workers,Barwon South West,Low,Library Assistants
+947,Other Clerical and Administrative Workers,Barwon South West,Medium,Inspectors and Regulatory Officers
+948,Other Clerical and Administrative Workers,Barwon South West,Medium,Purchasing and Supply Logistics Clerks
+949,Other Clerical and Administrative Workers,Barwon South West,No additional commencements required,Other Miscellaneous Clerical and Administrative Workers
+950,Other Clerical and Administrative Workers,Gippsland,Low,Purchasing and Supply Logistics Clerks
+951,Other Clerical and Administrative Workers,Gippsland,Low,Court and Legal Clerks
+952,Other Clerical and Administrative Workers,Gippsland,Low,Library Assistants
+953,Other Clerical and Administrative Workers,Gippsland,Low,Transport and Despatch Clerks
+954,Other Clerical and Administrative Workers,Gippsland,Low,Other Miscellaneous Clerical and Administrative Workers
+955,Other Clerical and Administrative Workers,Gippsland,Medium,Conveyancers and Legal Executives
+956,Other Clerical and Administrative Workers,Gippsland,Medium,Inspectors and Regulatory Officers
+957,Other Clerical and Administrative Workers,Grampians,Low,Purchasing and Supply Logistics Clerks
+958,Other Clerical and Administrative Workers,Grampians,Low,Court and Legal Clerks
+959,Other Clerical and Administrative Workers,Grampians,Low,Conveyancers and Legal Executives
+960,Other Clerical and Administrative Workers,Grampians,Low,Other Miscellaneous Clerical and Administrative Workers
+961,Other Clerical and Administrative Workers,Grampians,Low,Library Assistants
+962,Other Clerical and Administrative Workers,Grampians,Low,Transport and Despatch Clerks
+963,Other Clerical and Administrative Workers,Grampians,Medium,Inspectors and Regulatory Officers
+964,Other Clerical and Administrative Workers,Hume,Low,Court and Legal Clerks
+965,Other Clerical and Administrative Workers,Hume,Low,Transport and Despatch Clerks
+966,Other Clerical and Administrative Workers,Hume,Low,Conveyancers and Legal Executives
+967,Other Clerical and Administrative Workers,Hume,Low,Library Assistants
+968,Other Clerical and Administrative Workers,Hume,Low,Other Miscellaneous Clerical and Administrative Workers
+969,Other Clerical and Administrative Workers,Hume,Medium,Inspectors and Regulatory Officers
+970,Other Clerical and Administrative Workers,Hume,Medium,Purchasing and Supply Logistics Clerks
+971,Other Clerical and Administrative Workers,Loddon Mallee,Low,Conveyancers and Legal Executives
+972,Other Clerical and Administrative Workers,Loddon Mallee,Low,Purchasing and Supply Logistics Clerks
+973,Other Clerical and Administrative Workers,Loddon Mallee,Low,Court and Legal Clerks
+974,Other Clerical and Administrative Workers,Loddon Mallee,Low,Transport and Despatch Clerks
+975,Other Clerical and Administrative Workers,Loddon Mallee,Low,Other Miscellaneous Clerical and Administrative Workers
+976,Other Clerical and Administrative Workers,Loddon Mallee,Low,Library Assistants
+977,Other Clerical and Administrative Workers,Loddon Mallee,Medium,Inspectors and Regulatory Officers
+978,Other Clerical and Administrative Workers,Metropolitan Melbourne,High,Purchasing and Supply Logistics Clerks
+979,Other Clerical and Administrative Workers,Metropolitan Melbourne,High,Inspectors and Regulatory Officers
+980,Other Clerical and Administrative Workers,Metropolitan Melbourne,High,Transport and Despatch Clerks
+981,Other Clerical and Administrative Workers,Metropolitan Melbourne,Low,Other Miscellaneous Clerical and Administrative Workers
+982,Other Clerical and Administrative Workers,Metropolitan Melbourne,Medium,Library Assistants
+983,Other Clerical and Administrative Workers,Metropolitan Melbourne,Medium,Conveyancers and Legal Executives
+984,Other Clerical and Administrative Workers,Metropolitan Melbourne,Medium,Court and Legal Clerks
+985,Other Labourers,Barwon South West,Low,Deck and Fishing Hands
+986,Other Labourers,Barwon South West,Low,Motor Vehicle Parts and Accessories Fitters
+987,Other Labourers,Barwon South West,Medium,Other Miscellaneous Labourers
+988,Other Labourers,Barwon South West,No additional commencements required,Printing Assistants and Table Workers
+989,Other Labourers,Gippsland,Low,Motor Vehicle Parts and Accessories Fitters
+990,Other Labourers,Gippsland,Low,Deck and Fishing Hands
+991,Other Labourers,Gippsland,Low,Other Miscellaneous Labourers
+992,Other Labourers,Gippsland,No additional commencements required,Printing Assistants and Table Workers
+993,Other Labourers,Grampians,Low,Other Miscellaneous Labourers
+994,Other Labourers,Grampians,Low,Motor Vehicle Parts and Accessories Fitters
+995,Other Labourers,Grampians,No additional commencements required,Deck and Fishing Hands
+996,Other Labourers,Grampians,No additional commencements required,Printing Assistants and Table Workers
+997,Other Labourers,Hume,Low,Motor Vehicle Parts and Accessories Fitters
+998,Other Labourers,Hume,Medium,Other Miscellaneous Labourers
+999,Other Labourers,Hume,No additional commencements required,Printing Assistants and Table Workers
+1000,Other Labourers,Hume,No additional commencements required,Deck and Fishing Hands
+1001,Other Labourers,Loddon Mallee,Low,Other Miscellaneous Labourers
+1002,Other Labourers,Loddon Mallee,Low,Motor Vehicle Parts and Accessories Fitters
+1003,Other Labourers,Loddon Mallee,Low,Deck and Fishing Hands
+1004,Other Labourers,Loddon Mallee,No additional commencements required,Printing Assistants and Table Workers
+1005,Other Labourers,Metropolitan Melbourne,High,Other Miscellaneous Labourers
+1006,Other Labourers,Metropolitan Melbourne,Low,Deck and Fishing Hands
+1007,Other Labourers,Metropolitan Melbourne,Low,Printing Assistants and Table Workers
+1008,Other Labourers,Metropolitan Melbourne,Medium,Motor Vehicle Parts and Accessories Fitters
+1009,Other Technicians and Trades Workers,Barwon South West,Low,Upholsterers
+1010,Other Technicians and Trades Workers,Barwon South West,Low,Clothing Trades Workers
+1011,Other Technicians and Trades Workers,Barwon South West,Low,"Gallery, Library and Museum Technicians"
+1012,Other Technicians and Trades Workers,Barwon South West,Low,Wood Machinists and Other Wood Trades Workers
+1013,Other Technicians and Trades Workers,Barwon South West,Medium,Hairdressers
+1014,Other Technicians and Trades Workers,Barwon South West,Medium,Other Miscellaneous Technicians and Trades Workers
+1015,Other Technicians and Trades Workers,Barwon South West,Medium,"Chemical, Gas, Petroleum and Power Generation Plant Operators"
+1016,Other Technicians and Trades Workers,Barwon South West,No additional commencements required,Performing Arts Technicians
+1017,Other Technicians and Trades Workers,Barwon South West,No additional commencements required,Graphic Pre-press Trades Workers
+1018,Other Technicians and Trades Workers,Barwon South West,No additional commencements required,Jewellers
+1019,Other Technicians and Trades Workers,Barwon South West,No additional commencements required,Canvas and Leather Goods Makers
+1020,Other Technicians and Trades Workers,Barwon South West,Occupation requires apprenticeship training,Signwriters
+1021,Other Technicians and Trades Workers,Barwon South West,Occupation requires apprenticeship training,Printers
+1022,Other Technicians and Trades Workers,Barwon South West,Occupation requires apprenticeship training,Cabinetmakers
+1023,Other Technicians and Trades Workers,Barwon South West,Occupation requires apprenticeship training,Print Finishers and Screen Printers
+1024,Other Technicians and Trades Workers,Barwon South West,Occupation requires apprenticeship training,Boat Builders and Shipwrights
+1025,Other Technicians and Trades Workers,Gippsland,Low,Upholsterers
+1026,Other Technicians and Trades Workers,Gippsland,Low,Other Miscellaneous Technicians and Trades Workers
+1027,Other Technicians and Trades Workers,Gippsland,Low,"Gallery, Library and Museum Technicians"
+1028,Other Technicians and Trades Workers,Gippsland,Low,Performing Arts Technicians
+1029,Other Technicians and Trades Workers,Gippsland,Low,Clothing Trades Workers
+1030,Other Technicians and Trades Workers,Gippsland,Medium,"Chemical, Gas, Petroleum and Power Generation Plant Operators"
+1031,Other Technicians and Trades Workers,Gippsland,Medium,Hairdressers
+1032,Other Technicians and Trades Workers,Gippsland,No additional commencements required,Wood Machinists and Other Wood Trades Workers
+1033,Other Technicians and Trades Workers,Gippsland,No additional commencements required,Canvas and Leather Goods Makers
+1034,Other Technicians and Trades Workers,Gippsland,No additional commencements required,Graphic Pre-press Trades Workers
+1035,Other Technicians and Trades Workers,Gippsland,No additional commencements required,Jewellers
+1036,Other Technicians and Trades Workers,Gippsland,Occupation requires apprenticeship training,Signwriters
+1037,Other Technicians and Trades Workers,Gippsland,Occupation requires apprenticeship training,Printers
+1038,Other Technicians and Trades Workers,Gippsland,Occupation requires apprenticeship training,Cabinetmakers
+1039,Other Technicians and Trades Workers,Gippsland,Occupation requires apprenticeship training,Print Finishers and Screen Printers
+1040,Other Technicians and Trades Workers,Gippsland,Occupation requires apprenticeship training,Boat Builders and Shipwrights
+1041,Other Technicians and Trades Workers,Grampians,Low,"Chemical, Gas, Petroleum and Power Generation Plant Operators"
+1042,Other Technicians and Trades Workers,Grampians,Low,"Gallery, Library and Museum Technicians"
+1043,Other Technicians and Trades Workers,Grampians,Low,Upholsterers
+1044,Other Technicians and Trades Workers,Grampians,Low,Performing Arts Technicians
+1045,Other Technicians and Trades Workers,Grampians,Low,Jewellers
+1046,Other Technicians and Trades Workers,Grampians,Low,Clothing Trades Workers
+1047,Other Technicians and Trades Workers,Grampians,Medium,Hairdressers
+1048,Other Technicians and Trades Workers,Grampians,Medium,Other Miscellaneous Technicians and Trades Workers
+1049,Other Technicians and Trades Workers,Grampians,No additional commencements required,Graphic Pre-press Trades Workers
+1050,Other Technicians and Trades Workers,Grampians,No additional commencements required,Wood Machinists and Other Wood Trades Workers
+1051,Other Technicians and Trades Workers,Grampians,No additional commencements required,Canvas and Leather Goods Makers
+1052,Other Technicians and Trades Workers,Grampians,Occupation requires apprenticeship training,Signwriters
+1053,Other Technicians and Trades Workers,Grampians,Occupation requires apprenticeship training,Printers
+1054,Other Technicians and Trades Workers,Grampians,Occupation requires apprenticeship training,Cabinetmakers
+1055,Other Technicians and Trades Workers,Grampians,Occupation requires apprenticeship training,Print Finishers and Screen Printers
+1056,Other Technicians and Trades Workers,Grampians,Occupation requires apprenticeship training,Boat Builders and Shipwrights
+1057,Other Technicians and Trades Workers,Hume,Low,Upholsterers
+1058,Other Technicians and Trades Workers,Hume,Low,"Chemical, Gas, Petroleum and Power Generation Plant Operators"
+1059,Other Technicians and Trades Workers,Hume,Low,Other Miscellaneous Technicians and Trades Workers
+1060,Other Technicians and Trades Workers,Hume,Low,Performing Arts Technicians
+1061,Other Technicians and Trades Workers,Hume,Low,"Gallery, Library and Museum Technicians"
+1062,Other Technicians and Trades Workers,Hume,Low,Wood Machinists and Other Wood Trades Workers
+1063,Other Technicians and Trades Workers,Hume,Low,Jewellers
+1064,Other Technicians and Trades Workers,Hume,Low,Clothing Trades Workers
+1065,Other Technicians and Trades Workers,Hume,Medium,Hairdressers
+1066,Other Technicians and Trades Workers,Hume,No additional commencements required,Canvas and Leather Goods Makers
+1067,Other Technicians and Trades Workers,Hume,No additional commencements required,Graphic Pre-press Trades Workers
+1068,Other Technicians and Trades Workers,Hume,Occupation requires apprenticeship training,Signwriters
+1069,Other Technicians and Trades Workers,Hume,Occupation requires apprenticeship training,Printers
+1070,Other Technicians and Trades Workers,Hume,Occupation requires apprenticeship training,Cabinetmakers
+1071,Other Technicians and Trades Workers,Hume,Occupation requires apprenticeship training,Print Finishers and Screen Printers
+1072,Other Technicians and Trades Workers,Hume,Occupation requires apprenticeship training,Boat Builders and Shipwrights
+1073,Other Technicians and Trades Workers,Loddon Mallee,Low,Upholsterers
+1074,Other Technicians and Trades Workers,Loddon Mallee,Low,Other Miscellaneous Technicians and Trades Workers
+1075,Other Technicians and Trades Workers,Loddon Mallee,Low,Performing Arts Technicians
+1076,Other Technicians and Trades Workers,Loddon Mallee,Low,"Gallery, Library and Museum Technicians"
+1077,Other Technicians and Trades Workers,Loddon Mallee,Low,Clothing Trades Workers
+1078,Other Technicians and Trades Workers,Loddon Mallee,Low,Jewellers
+1079,Other Technicians and Trades Workers,Loddon Mallee,Low,Wood Machinists and Other Wood Trades Workers
+1080,Other Technicians and Trades Workers,Loddon Mallee,Medium,Hairdressers
+1081,Other Technicians and Trades Workers,Loddon Mallee,No additional commencements required,Graphic Pre-press Trades Workers
+1082,Other Technicians and Trades Workers,Loddon Mallee,No additional commencements required,Canvas and Leather Goods Makers
+1083,Other Technicians and Trades Workers,Loddon Mallee,No additional commencements required,"Chemical, Gas, Petroleum and Power Generation Plant Operators"
+1084,Other Technicians and Trades Workers,Loddon Mallee,Occupation requires apprenticeship training,Signwriters
+1085,Other Technicians and Trades Workers,Loddon Mallee,Occupation requires apprenticeship training,Printers
+1086,Other Technicians and Trades Workers,Loddon Mallee,Occupation requires apprenticeship training,Cabinetmakers
+1087,Other Technicians and Trades Workers,Loddon Mallee,Occupation requires apprenticeship training,Print Finishers and Screen Printers
+1088,Other Technicians and Trades Workers,Loddon Mallee,Occupation requires apprenticeship training,Boat Builders and Shipwrights
+1089,Other Technicians and Trades Workers,Metropolitan Melbourne,Low,"Gallery, Library and Museum Technicians"
+1090,Other Technicians and Trades Workers,Metropolitan Melbourne,Low,Clothing Trades Workers
+1091,Other Technicians and Trades Workers,Metropolitan Melbourne,Medium,Other Miscellaneous Technicians and Trades Workers
+1092,Other Technicians and Trades Workers,Metropolitan Melbourne,Medium,Upholsterers
+1093,Other Technicians and Trades Workers,Metropolitan Melbourne,Medium,"Chemical, Gas, Petroleum and Power Generation Plant Operators"
+1094,Other Technicians and Trades Workers,Metropolitan Melbourne,No additional commencements required,Performing Arts Technicians
+1095,Other Technicians and Trades Workers,Metropolitan Melbourne,No additional commencements required,Wood Machinists and Other Wood Trades Workers
+1096,Other Technicians and Trades Workers,Metropolitan Melbourne,No additional commencements required,Graphic Pre-press Trades Workers
+1097,Other Technicians and Trades Workers,Metropolitan Melbourne,No additional commencements required,Canvas and Leather Goods Makers
+1098,Other Technicians and Trades Workers,Metropolitan Melbourne,No additional commencements required,Jewellers
+1099,Other Technicians and Trades Workers,Metropolitan Melbourne,Occupation requires apprenticeship training,Signwriters
+1100,Other Technicians and Trades Workers,Metropolitan Melbourne,Occupation requires apprenticeship training,Printers
+1101,Other Technicians and Trades Workers,Metropolitan Melbourne,Occupation requires apprenticeship training,Cabinetmakers
+1102,Other Technicians and Trades Workers,Metropolitan Melbourne,Occupation requires apprenticeship training,Print Finishers and Screen Printers
+1103,Other Technicians and Trades Workers,Metropolitan Melbourne,Occupation requires apprenticeship training,Boat Builders and Shipwrights
+1104,Other Technicians and Trades Workers,Metropolitan Melbourne,Very high,Hairdressers
+1105,Personal Assistants and Secretaries,Barwon South West,Low,Secretaries
+1106,Personal Assistants and Secretaries,Gippsland,Low,Secretaries
+1107,Personal Assistants and Secretaries,Grampians,Low,Secretaries
+1108,Personal Assistants and Secretaries,Hume,Low,Secretaries
+1109,Personal Assistants and Secretaries,Loddon Mallee,Low,Secretaries
+1110,Personal Assistants and Secretaries,Metropolitan Melbourne,Medium,Secretaries
+1111,Protective Service Workers,Barwon South West,Low,Prison Officers
+1112,Protective Service Workers,Barwon South West,Medium,Security Officers and Guards
+1113,Protective Service Workers,Gippsland,Low,Prison Officers
+1114,Protective Service Workers,Gippsland,Medium,Security Officers and Guards
+1115,Protective Service Workers,Grampians,Low,Prison Officers
+1116,Protective Service Workers,Grampians,Medium,Security Officers and Guards
+1117,Protective Service Workers,Hume,Low,Prison Officers
+1118,Protective Service Workers,Hume,Medium,Security Officers and Guards
+1119,Protective Service Workers,Loddon Mallee,Low,Prison Officers
+1120,Protective Service Workers,Loddon Mallee,Medium,Security Officers and Guards
+1121,Protective Service Workers,Metropolitan Melbourne,Medium,Prison Officers
+1122,Protective Service Workers,Metropolitan Melbourne,Very high,Security Officers and Guards
+1123,Road and Rail Drivers,Barwon South West,Medium,Truck Drivers
+1124,Road and Rail Drivers,Barwon South West,Medium,Bus and Coach Drivers
+1125,Road and Rail Drivers,Barwon South West,Medium,Train and Tram Drivers
+1126,Road and Rail Drivers,Gippsland,Low,Train and Tram Drivers
+1127,Road and Rail Drivers,Gippsland,Medium,Truck Drivers
+1128,Road and Rail Drivers,Gippsland,Medium,Bus and Coach Drivers
+1129,Road and Rail Drivers,Grampians,Medium,Truck Drivers
+1130,Road and Rail Drivers,Grampians,Medium,Train and Tram Drivers
+1131,Road and Rail Drivers,Grampians,Medium,Bus and Coach Drivers
+1132,Road and Rail Drivers,Hume,High,Truck Drivers
+1133,Road and Rail Drivers,Hume,Low,Train and Tram Drivers
+1134,Road and Rail Drivers,Hume,Medium,Bus and Coach Drivers
+1135,Road and Rail Drivers,Loddon Mallee,Low,Bus and Coach Drivers
+1136,Road and Rail Drivers,Loddon Mallee,Medium,Train and Tram Drivers
+1137,Road and Rail Drivers,Loddon Mallee,Medium,Truck Drivers
+1138,Road and Rail Drivers,Metropolitan Melbourne,High,Bus and Coach Drivers
+1139,Road and Rail Drivers,Metropolitan Melbourne,High,Train and Tram Drivers
+1140,Road and Rail Drivers,Metropolitan Melbourne,Very high,Truck Drivers
+1141,Sales Assistants and Salespersons,Barwon South West,High,Sales Assistants (General)
+1142,Sales Assistants and Salespersons,Barwon South West,Medium,Motor Vehicle and Vehicle Parts Salespersons
+1143,Sales Assistants and Salespersons,Barwon South West,Medium,Retail Supervisors
+1144,Sales Assistants and Salespersons,Barwon South West,Medium,Pharmacy Sales Assistants
+1145,Sales Assistants and Salespersons,Gippsland,High,Sales Assistants (General)
+1146,Sales Assistants and Salespersons,Gippsland,Low,Motor Vehicle and Vehicle Parts Salespersons
+1147,Sales Assistants and Salespersons,Gippsland,Low,Retail Supervisors
+1148,Sales Assistants and Salespersons,Gippsland,Low,Pharmacy Sales Assistants
+1149,Sales Assistants and Salespersons,Grampians,High,Sales Assistants (General)
+1150,Sales Assistants and Salespersons,Grampians,Low,Motor Vehicle and Vehicle Parts Salespersons
+1151,Sales Assistants and Salespersons,Grampians,Low,Pharmacy Sales Assistants
+1152,Sales Assistants and Salespersons,Grampians,Low,Retail Supervisors
+1153,Sales Assistants and Salespersons,Hume,High,Sales Assistants (General)
+1154,Sales Assistants and Salespersons,Hume,Medium,Motor Vehicle and Vehicle Parts Salespersons
+1155,Sales Assistants and Salespersons,Hume,Medium,Pharmacy Sales Assistants
+1156,Sales Assistants and Salespersons,Hume,Medium,Retail Supervisors
+1157,Sales Assistants and Salespersons,Loddon Mallee,High,Sales Assistants (General)
+1158,Sales Assistants and Salespersons,Loddon Mallee,Low,Retail Supervisors
+1159,Sales Assistants and Salespersons,Loddon Mallee,Low,Pharmacy Sales Assistants
+1160,Sales Assistants and Salespersons,Loddon Mallee,Medium,Motor Vehicle and Vehicle Parts Salespersons
+1161,Sales Assistants and Salespersons,Metropolitan Melbourne,High,Motor Vehicle and Vehicle Parts Salespersons
+1162,Sales Assistants and Salespersons,Metropolitan Melbourne,High,Retail Supervisors
+1163,Sales Assistants and Salespersons,Metropolitan Melbourne,High,Pharmacy Sales Assistants
+1164,Sales Assistants and Salespersons,Metropolitan Melbourne,Very high,Sales Assistants (General)
+1165,Sales Representatives and Agents,Barwon South West,Low,"Auctioneers, and Stock and Station Agents"
+1166,Sales Representatives and Agents,Barwon South West,Medium,Sales Representatives
+1167,Sales Representatives and Agents,Barwon South West,No additional commencements required,Real Estate Sales Agents
+1168,Sales Representatives and Agents,Gippsland,Low,Sales Representatives
+1169,Sales Representatives and Agents,Gippsland,Low,"Auctioneers, and Stock and Station Agents"
+1170,Sales Representatives and Agents,Gippsland,No additional commencements required,Real Estate Sales Agents
+1171,Sales Representatives and Agents,Grampians,Low,Sales Representatives
+1172,Sales Representatives and Agents,Grampians,Low,"Auctioneers, and Stock and Station Agents"
+1173,Sales Representatives and Agents,Grampians,No additional commencements required,Real Estate Sales Agents
+1174,Sales Representatives and Agents,Hume,Low,Sales Representatives
+1175,Sales Representatives and Agents,Hume,Low,"Auctioneers, and Stock and Station Agents"
+1176,Sales Representatives and Agents,Hume,Medium,Real Estate Sales Agents
+1177,Sales Representatives and Agents,Loddon Mallee,Low,Sales Representatives
+1178,Sales Representatives and Agents,Loddon Mallee,Low,"Auctioneers, and Stock and Station Agents"
+1179,Sales Representatives and Agents,Loddon Mallee,No additional commencements required,Real Estate Sales Agents
+1180,Sales Representatives and Agents,Metropolitan Melbourne,High,Sales Representatives
+1181,Sales Representatives and Agents,Metropolitan Melbourne,No additional commencements required,"Auctioneers, and Stock and Station Agents"
+1182,Sales Representatives and Agents,Metropolitan Melbourne,No additional commencements required,Real Estate Sales Agents
+1183,Sales Support Workers,Barwon South West,High,Checkout Operators and Office Cashiers
+1184,Sales Support Workers,Barwon South West,Low,Visual Merchandisers
+1185,Sales Support Workers,Gippsland,Medium,Checkout Operators and Office Cashiers
+1186,Sales Support Workers,Gippsland,No additional commencements required,Visual Merchandisers
+1187,Sales Support Workers,Grampians,Medium,Checkout Operators and Office Cashiers
+1188,Sales Support Workers,Grampians,No additional commencements required,Visual Merchandisers
+1189,Sales Support Workers,Hume,High,Checkout Operators and Office Cashiers
+1190,Sales Support Workers,Hume,No additional commencements required,Visual Merchandisers
+1191,Sales Support Workers,Loddon Mallee,Low,Visual Merchandisers
+1192,Sales Support Workers,Loddon Mallee,Medium,Checkout Operators and Office Cashiers
+1193,Sales Support Workers,Metropolitan Melbourne,Medium,Visual Merchandisers
+1194,Sales Support Workers,Metropolitan Melbourne,Very high,Checkout Operators and Office Cashiers
+1195,Skilled Animal and Horticultural Workers,Barwon South West,Medium,Gardeners
+1196,Skilled Animal and Horticultural Workers,Barwon South West,Medium,Veterinary Nurses
+1197,Skilled Animal and Horticultural Workers,Barwon South West,Medium,Greenkeepers
+1198,Skilled Animal and Horticultural Workers,Barwon South West,No additional commencements required,Animal Attendants and Trainers
+1199,Skilled Animal and Horticultural Workers,Barwon South West,No additional commencements required,Shearers
+1200,Skilled Animal and Horticultural Workers,Barwon South West,No additional commencements required,Florists
+1201,Skilled Animal and Horticultural Workers,Barwon South West,No additional commencements required,Nurserypersons
+1202,Skilled Animal and Horticultural Workers,Gippsland,Low,Greenkeepers
+1203,Skilled Animal and Horticultural Workers,Gippsland,Low,Animal Attendants and Trainers
+1204,Skilled Animal and Horticultural Workers,Gippsland,Low,Florists
+1205,Skilled Animal and Horticultural Workers,Gippsland,Medium,Gardeners
+1206,Skilled Animal and Horticultural Workers,Gippsland,No additional commencements required,Nurserypersons
+1207,Skilled Animal and Horticultural Workers,Gippsland,No additional commencements required,Shearers
+1208,Skilled Animal and Horticultural Workers,Gippsland,No additional commencements required,Veterinary Nurses
+1209,Skilled Animal and Horticultural Workers,Grampians,Low,Greenkeepers
+1210,Skilled Animal and Horticultural Workers,Grampians,Medium,Gardeners
+1211,Skilled Animal and Horticultural Workers,Grampians,Medium,Animal Attendants and Trainers
+1212,Skilled Animal and Horticultural Workers,Grampians,No additional commencements required,Florists
+1213,Skilled Animal and Horticultural Workers,Grampians,No additional commencements required,Shearers
+1214,Skilled Animal and Horticultural Workers,Grampians,No additional commencements required,Nurserypersons
+1215,Skilled Animal and Horticultural Workers,Grampians,No additional commencements required,Veterinary Nurses
+1216,Skilled Animal and Horticultural Workers,Hume,Low,Florists
+1217,Skilled Animal and Horticultural Workers,Hume,Medium,Gardeners
+1218,Skilled Animal and Horticultural Workers,Hume,Medium,Animal Attendants and Trainers
+1219,Skilled Animal and Horticultural Workers,Hume,Medium,Greenkeepers
+1220,Skilled Animal and Horticultural Workers,Hume,No additional commencements required,Shearers
+1221,Skilled Animal and Horticultural Workers,Hume,No additional commencements required,Nurserypersons
+1222,Skilled Animal and Horticultural Workers,Hume,No additional commencements required,Veterinary Nurses
+1223,Skilled Animal and Horticultural Workers,Loddon Mallee,Low,Florists
+1224,Skilled Animal and Horticultural Workers,Loddon Mallee,Medium,Gardeners
+1225,Skilled Animal and Horticultural Workers,Loddon Mallee,Medium,Veterinary Nurses
+1226,Skilled Animal and Horticultural Workers,Loddon Mallee,Medium,Greenkeepers
+1227,Skilled Animal and Horticultural Workers,Loddon Mallee,No additional commencements required,Animal Attendants and Trainers
+1228,Skilled Animal and Horticultural Workers,Loddon Mallee,No additional commencements required,Nurserypersons
+1229,Skilled Animal and Horticultural Workers,Loddon Mallee,No additional commencements required,Shearers
+1230,Skilled Animal and Horticultural Workers,Metropolitan Melbourne,Medium,Greenkeepers
+1231,Skilled Animal and Horticultural Workers,Metropolitan Melbourne,Medium,Gardeners
+1232,Skilled Animal and Horticultural Workers,Metropolitan Melbourne,No additional commencements required,Animal Attendants and Trainers
+1233,Skilled Animal and Horticultural Workers,Metropolitan Melbourne,No additional commencements required,Nurserypersons
+1234,Skilled Animal and Horticultural Workers,Metropolitan Melbourne,No additional commencements required,Florists
+1235,Skilled Animal and Horticultural Workers,Metropolitan Melbourne,No additional commencements required,Veterinary Nurses
+1236,Skilled Animal and Horticultural Workers,Metropolitan Melbourne,No additional commencements required,Shearers
+1237,Specialist Managers,Barwon South West,Low,Manufacturers
+1238,Specialist Managers,Barwon South West,Low,"Supply, Distribution and Procurement Managers"
+1239,Specialist Managers,Barwon South West,Low,"Advertising, Public Relations and Sales Managers"
+1240,Specialist Managers,Barwon South West,Low,"Importers, Exporters and Wholesalers"
+1241,Specialist Managers,Barwon South West,Low,Health and Welfare Services Managers
+1242,Specialist Managers,Barwon South West,Low,Corporate Services Managers
+1243,Specialist Managers,Barwon South West,Medium,Construction Managers
+1244,Specialist Managers,Barwon South West,Medium,Other Specialist Managers
+1245,Specialist Managers,Barwon South West,Medium,Production Managers
+1246,Specialist Managers,Barwon South West,Medium,Human Resource Managers
+1247,Specialist Managers,Gippsland,High,Construction Managers
+1248,Specialist Managers,Gippsland,Low,"Importers, Exporters and Wholesalers"
+1249,Specialist Managers,Gippsland,Low,"Advertising, Public Relations and Sales Managers"
+1250,Specialist Managers,Gippsland,Low,"Supply, Distribution and Procurement Managers"
+1251,Specialist Managers,Gippsland,Low,Health and Welfare Services Managers
+1252,Specialist Managers,Gippsland,Medium,Other Specialist Managers
+1253,Specialist Managers,Gippsland,Medium,Manufacturers
+1254,Specialist Managers,Gippsland,Medium,Production Managers
+1255,Specialist Managers,Gippsland,Medium,Human Resource Managers
+1256,Specialist Managers,Gippsland,No additional commencements required,Corporate Services Managers
+1257,Specialist Managers,Grampians,Low,Human Resource Managers
+1258,Specialist Managers,Grampians,Low,"Supply, Distribution and Procurement Managers"
+1259,Specialist Managers,Grampians,Low,"Advertising, Public Relations and Sales Managers"
+1260,Specialist Managers,Grampians,Low,"Importers, Exporters and Wholesalers"
+1261,Specialist Managers,Grampians,Low,Health and Welfare Services Managers
+1262,Specialist Managers,Grampians,Low,Corporate Services Managers
+1263,Specialist Managers,Grampians,Medium,Construction Managers
+1264,Specialist Managers,Grampians,Medium,Production Managers
+1265,Specialist Managers,Grampians,Medium,Other Specialist Managers
+1266,Specialist Managers,Grampians,Medium,Manufacturers
+1267,Specialist Managers,Hume,Low,Human Resource Managers
+1268,Specialist Managers,Hume,Low,"Importers, Exporters and Wholesalers"
+1269,Specialist Managers,Hume,Low,"Supply, Distribution and Procurement Managers"
+1270,Specialist Managers,Hume,Low,"Advertising, Public Relations and Sales Managers"
+1271,Specialist Managers,Hume,Low,Health and Welfare Services Managers
+1272,Specialist Managers,Hume,Medium,Manufacturers
+1273,Specialist Managers,Hume,Medium,Construction Managers
+1274,Specialist Managers,Hume,Medium,Other Specialist Managers
+1275,Specialist Managers,Hume,Medium,Production Managers
+1276,Specialist Managers,Hume,No additional commencements required,Corporate Services Managers
+1277,Specialist Managers,Loddon Mallee,Low,"Supply, Distribution and Procurement Managers"
+1278,Specialist Managers,Loddon Mallee,Low,"Importers, Exporters and Wholesalers"
+1279,Specialist Managers,Loddon Mallee,Low,"Advertising, Public Relations and Sales Managers"
+1280,Specialist Managers,Loddon Mallee,Low,Health and Welfare Services Managers
+1281,Specialist Managers,Loddon Mallee,Low,Corporate Services Managers
+1282,Specialist Managers,Loddon Mallee,Medium,Construction Managers
+1283,Specialist Managers,Loddon Mallee,Medium,Other Specialist Managers
+1284,Specialist Managers,Loddon Mallee,Medium,Production Managers
+1285,Specialist Managers,Loddon Mallee,Medium,Human Resource Managers
+1286,Specialist Managers,Loddon Mallee,Medium,Manufacturers
+1287,Specialist Managers,Metropolitan Melbourne,High,Other Specialist Managers
+1288,Specialist Managers,Metropolitan Melbourne,High,Construction Managers
+1289,Specialist Managers,Metropolitan Melbourne,High,Production Managers
+1290,Specialist Managers,Metropolitan Melbourne,High,Human Resource Managers
+1291,Specialist Managers,Metropolitan Melbourne,High,Manufacturers
+1292,Specialist Managers,Metropolitan Melbourne,Low,Corporate Services Managers
+1293,Specialist Managers,Metropolitan Melbourne,Low,Health and Welfare Services Managers
+1294,Specialist Managers,Metropolitan Melbourne,Medium,"Advertising, Public Relations and Sales Managers"
+1295,Specialist Managers,Metropolitan Melbourne,Medium,"Supply, Distribution and Procurement Managers"
+1296,Specialist Managers,Metropolitan Melbourne,Medium,"Importers, Exporters and Wholesalers"
+1297,Sports and Personal Service Workers,Barwon South West,Low,Driving Instructors
+1298,Sports and Personal Service Workers,Barwon South West,Low,Tourism and Travel Advisers
+1299,Sports and Personal Service Workers,Barwon South West,Low,Sportspersons
+1300,Sports and Personal Service Workers,Barwon South West,Low,Other Personal Service Workers
+1301,Sports and Personal Service Workers,Barwon South West,Low,"Gallery, Museum and Tour Guides"
+1302,Sports and Personal Service Workers,Barwon South West,Low,Outdoor Adventure Guides
+1303,Sports and Personal Service Workers,Barwon South West,Medium,"Sports Coaches, Instructors and Officials"
+1304,Sports and Personal Service Workers,Barwon South West,Medium,Fitness Instructors
+1305,Sports and Personal Service Workers,Barwon South West,Medium,Beauty Therapists
+1306,Sports and Personal Service Workers,Barwon South West,No additional commencements required,Travel Attendants
+1307,Sports and Personal Service Workers,Gippsland,Low,Beauty Therapists
+1308,Sports and Personal Service Workers,Gippsland,Low,Driving Instructors
+1309,Sports and Personal Service Workers,Gippsland,Low,Other Personal Service Workers
+1310,Sports and Personal Service Workers,Gippsland,Low,"Gallery, Museum and Tour Guides"
+1311,Sports and Personal Service Workers,Gippsland,Low,Tourism and Travel Advisers
+1312,Sports and Personal Service Workers,Gippsland,Low,Outdoor Adventure Guides
+1313,Sports and Personal Service Workers,Gippsland,Low,Sportspersons
+1314,Sports and Personal Service Workers,Gippsland,Medium,"Sports Coaches, Instructors and Officials"
+1315,Sports and Personal Service Workers,Gippsland,Medium,Fitness Instructors
+1316,Sports and Personal Service Workers,Gippsland,No additional commencements required,Travel Attendants
+1317,Sports and Personal Service Workers,Grampians,Low,Driving Instructors
+1318,Sports and Personal Service Workers,Grampians,Low,Other Personal Service Workers
+1319,Sports and Personal Service Workers,Grampians,Low,"Gallery, Museum and Tour Guides"
+1320,Sports and Personal Service Workers,Grampians,Low,Tourism and Travel Advisers
+1321,Sports and Personal Service Workers,Grampians,Low,Sportspersons
+1322,Sports and Personal Service Workers,Grampians,Low,Outdoor Adventure Guides
+1323,Sports and Personal Service Workers,Grampians,Medium,Beauty Therapists
+1324,Sports and Personal Service Workers,Grampians,Medium,"Sports Coaches, Instructors and Officials"
+1325,Sports and Personal Service Workers,Grampians,Medium,Fitness Instructors
+1326,Sports and Personal Service Workers,Grampians,No additional commencements required,Travel Attendants
+1327,Sports and Personal Service Workers,Hume,Low,Driving Instructors
+1328,Sports and Personal Service Workers,Hume,Low,Sportspersons
+1329,Sports and Personal Service Workers,Hume,Low,Other Personal Service Workers
+1330,Sports and Personal Service Workers,Hume,Low,Tourism and Travel Advisers
+1331,Sports and Personal Service Workers,Hume,Low,Outdoor Adventure Guides
+1332,Sports and Personal Service Workers,Hume,Low,"Gallery, Museum and Tour Guides"
+1333,Sports and Personal Service Workers,Hume,Medium,Beauty Therapists
+1334,Sports and Personal Service Workers,Hume,Medium,"Sports Coaches, Instructors and Officials"
+1335,Sports and Personal Service Workers,Hume,Medium,Fitness Instructors
+1336,Sports and Personal Service Workers,Hume,No additional commencements required,Travel Attendants
+1337,Sports and Personal Service Workers,Loddon Mallee,Low,Other Personal Service Workers
+1338,Sports and Personal Service Workers,Loddon Mallee,Low,Tourism and Travel Advisers
+1339,Sports and Personal Service Workers,Loddon Mallee,Low,Sportspersons
+1340,Sports and Personal Service Workers,Loddon Mallee,Low,"Gallery, Museum and Tour Guides"
+1341,Sports and Personal Service Workers,Loddon Mallee,Low,Travel Attendants
+1342,Sports and Personal Service Workers,Loddon Mallee,Low,Outdoor Adventure Guides
+1343,Sports and Personal Service Workers,Loddon Mallee,Medium,Fitness Instructors
+1344,Sports and Personal Service Workers,Loddon Mallee,Medium,"Sports Coaches, Instructors and Officials"
+1345,Sports and Personal Service Workers,Loddon Mallee,Medium,Beauty Therapists
+1346,Sports and Personal Service Workers,Loddon Mallee,Medium,Driving Instructors
+1347,Sports and Personal Service Workers,Metropolitan Melbourne,High,Fitness Instructors
+1348,Sports and Personal Service Workers,Metropolitan Melbourne,High,"Sports Coaches, Instructors and Officials"
+1349,Sports and Personal Service Workers,Metropolitan Melbourne,High,Beauty Therapists
+1350,Sports and Personal Service Workers,Metropolitan Melbourne,High,Driving Instructors
+1351,Sports and Personal Service Workers,Metropolitan Melbourne,Low,"Gallery, Museum and Tour Guides"
+1352,Sports and Personal Service Workers,Metropolitan Melbourne,Medium,Travel Attendants
+1353,Sports and Personal Service Workers,Metropolitan Melbourne,Medium,Tourism and Travel Advisers
+1354,Sports and Personal Service Workers,Metropolitan Melbourne,Medium,Other Personal Service Workers
+1355,Sports and Personal Service Workers,Metropolitan Melbourne,Medium,Sportspersons
+1356,Sports and Personal Service Workers,Metropolitan Melbourne,No additional commencements required,Outdoor Adventure Guides
+1357,Storepersons,Barwon South West,Medium,Storepersons
+1358,Storepersons,Gippsland,Low,Storepersons
+1359,Storepersons,Grampians,Medium,Storepersons
+1360,Storepersons,Hume,Medium,Storepersons
+1361,Storepersons,Loddon Mallee,Medium,Storepersons
+1362,Storepersons,Metropolitan Melbourne,Very high,Storepersons

@@ -1,0 +1,1 @@
+import{h as e,aD as n,aE as t,I as o,R as c}from"./main.js";const i=({rowRef:r,doActions:a})=>{const s=()=>{a(c.INSERT,{})};return r.current.handleInsert=s,e.jsx(n,{theme:t,children:e.jsx(o,{onClick:s,color:"primary",children:e.jsx("i",{className:"fa-solid fa-circle-plus"})})})};export{i as default};
