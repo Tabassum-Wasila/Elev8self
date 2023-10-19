@@ -1,0 +1,915 @@
+number,ANZSCO_Code,Occupation_title,Current_National_Labour_Market_Rating,National Future Demand Rating,VIC_Current_Rating
+1,111111,Chief Executive or Managing Director,NS,Moderate,NS
+2,111211,Corporate General Manager,NS,Moderate,NS
+3,121111,Aquaculture Farmer,NS,Moderate,NS
+4,121311,Apiarist,S,Moderate,S
+5,121312,Beef Cattle Farmer,NS,Soft,NS
+6,121313,Dairy Cattle Farmer,NS,Soft,NS
+7,121314,Deer Farmer,NS,Soft,NS
+8,121315,Goat Farmer,NS,Soft,NS
+9,121316,Horse Breeder,NS,Soft,NS
+10,121318,Pig Farmer,NS,Soft,NS
+11,121321,Poultry Farmer,NS,Soft,NS
+12,121322,Sheep Farmer,NS,Soft,NS
+13,121323,Mixed Cattle and Sheep Farmer,NS,Soft,NS
+14,121399,Livestock Farmers nec,NS,Soft,NS
+15,121511,Cotton Grower,NS,Soft,NS
+16,121512,"Grain, Oilseed, Pulse or Pasture Grower / Field Crop Grower",NS,Soft,NS
+17,121513,Sugar Cane Grower,NS,Soft,NS
+18,121599,Broadacre Crop Growers nec,NS,Soft,NS
+19,121611,Flower Grower,NS,Soft,NS
+20,121612,Fruit Grower,NS,Soft,NS
+21,121613,Nut Grower,NS,Soft,NS
+22,121614,Production Nursery Grower,NS,Soft,NS
+23,121615,Turf Grower,NS,Soft,NS
+24,121616,Vegetable Grower (Aus) / Market Gardener (NZ),NS,Soft,NS
+25,121617,Wine Grape Grower,NS,Soft,NS
+26,121699,Horticultural Crop Growers nec,NS,Soft,NS
+27,121711,Broadacre Crop and Livestock Farmer,NS,Soft,NS
+28,121799,Mixed Production Farmers nec,NS,Soft,NS
+29,131112,Sales and Marketing Manager,NS,Moderate,NS
+30,131113,Advertising Manager,NS,Moderate,NS
+31,131114,Public Relations Manager,NS,Moderate,NS
+32,132111,Corporate Services Manager,NS,Moderate,NS
+33,132211,Finance Manager,NS,Moderate,NS
+34,132311,Human Resource Manager,NS,Strong,NS
+35,132411,Policy and Planning Manager,NS,Moderate,NS
+36,132511,Research and Development Manager,S,Strong,S
+37,133111,Construction Project Manager,S,Moderate,S
+38,133112,Project Builder,S,Moderate,S
+39,133211,Engineering Manager,S,Moderate,S
+40,133311,Importer or Exporter,NS,Moderate,NS
+41,133312,Wholesaler,NS,Moderate,NS
+42,133411,Manufacturer,NS,Moderate,NS
+43,133511,Production Manager (Forestry),NS,Moderate,NS
+44,133512,Production Manager (Manufacturing),NS,Moderate,NS
+45,133513,Production Manager (Mining),NS,Moderate,NS
+46,133611,Supply and Distribution Manager,NS,Moderate,NS
+47,133612,Procurement Manager,NS,Moderate,NS
+48,134111,Child Care Centre Manager,NS,Moderate,NS
+49,134211,Medical Administrator / Medical Superintendent,NS,Strong,NS
+50,134212,Nursing Clinical Director,NS,Strong,NS
+51,134213,Primary Health Organisation Manager,NS,Strong,NS
+52,134214,Welfare Centre Manager,NS,Strong,NS
+53,134299,Health and Welfare Services Managers nec,NS,Strong,NS
+54,134311,School Principal,NS,Moderate,NS
+55,134411,Faculty Head,NS,Strong,NS
+56,134412,Regional Education Manager,NS,Strong,NS
+57,134499,Education Managers nec,NS,Strong,NS
+58,135111,Chief Information Officer,NS,Strong,NS
+59,135112,ICT Project Manager,NS,Strong,NS
+60,135199,ICT Managers nec,NS,Strong,NS
+61,139911,Arts Administrator or Manager,NS,Strong,NS
+62,139912,Environmental Manager,NS,Strong,NS
+63,139913,Laboratory Manager,NS,Strong,NS
+64,139914,Quality Assurance Manager,S,Strong,S
+65,139915,Sports Administrator,NS,Strong,NS
+66,139999,Specialist Managers nec,NS,Strong,NS
+67,141111,Cafe or Restaurant Manager,NS,Moderate,NS
+68,141211,Caravan Park and Camping Ground Manager,NS,Moderate,NS
+69,141311,Hotel or Motel Manager,S,Moderate,S
+70,141411,Licensed Club Manager,S,Moderate,S
+71,141911,Bed and Breakfast Operator,NS,Moderate,NS
+72,141912,Retirement Village Manager,NS,Moderate,NS
+73,141999,Accommodation and Hospitality Managers nec,NS,Moderate,NS
+74,142111,Retail Manager (General),S,Moderate,S
+75,142112,Antique Dealer,NS,Moderate,NS
+76,142113,Betting Agency Manager,NS,Moderate,NS
+77,142114,Hair or Beauty Salon Manager,S,Moderate,S
+78,142115,Post Office Manager,NS,Moderate,NS
+79,142116,Travel Agency Manager,NS,Moderate,NS
+80,149111,Amusement Centre Manager,NS,Moderate,S
+81,149112,Fitness Centre Manager,NS,Moderate,NS
+82,149113,Sports Centre Manager,NS,Moderate,NS
+83,149211,Call or Contact Centre Manager,NS,Moderate,NS
+84,149212,Customer Service Manager,NS,Moderate,NS
+85,149311,Conference and Event Organiser,NS,Moderate,NS
+86,149411,Fleet Manager,NS,Moderate,NS
+87,149412,Railway Station Manager,NS,Moderate,NS
+88,149413,Transport Company Manager,NS,Moderate,NS
+89,149911,Boarding Kennel or Cattery Operator,NS,Strong,S
+90,149912,Cinema or Theatre Manager,NS,Strong,S
+91,149913,Facilities Manager,NS,Strong,NS
+92,149914,Financial Institution Branch Manager,NS,Strong,NS
+93,149915,Equipment Hire Manager,NS,Strong,S
+94,149999,"Hospitality, Retail and Service Managers nec",NS,Strong,S
+95,211111,Actor,NS,Soft,NS
+96,211112,Dancer or Choreographer,NS,Soft,NS
+97,211113,Entertainer or Variety Artist,NS,Soft,NS
+98,211199,"Actors, Dancers and Other Entertainers nec",NS,Soft,NS
+99,211211,Composer,NS,Strong,NS
+100,211212,Music Director,NS,Strong,NS
+101,211213,Musician (Instrumental),NS,Strong,NS
+102,211214,Singer,NS,Strong,NS
+103,211299,Music Professionals nec,NS,Strong,NS
+104,211311,Photographer,NS,Moderate,NS
+105,211411,Painter (Visual Arts),NS,Strong,NS
+106,211412,Potter or Ceramic Artist,NS,Strong,NS
+107,211413,Sculptor,NS,Strong,NS
+108,211499,Visual Arts and Crafts Professionals nec,NS,Strong,NS
+109,212111,Artistic Director,NS,Moderate,NS
+110,212112,Media Producer (excluding Video),NS,Moderate,NS
+111,212113,Radio Presenter,NS,Moderate,NS
+112,212114,Television Presenter,NS,Moderate,NS
+113,212211,Author,NS,Moderate,NS
+114,212212,Book or Script Editor,NS,Moderate,NS
+115,212311,"Art Director (Film, Television or Stage)",NS,Moderate,NS
+116,212312,"Director (Film, Television, Radio or Stage)",NS,Moderate,NS
+117,212313,Director of Photography,NS,Moderate,NS
+118,212314,Film and Video Editor,NS,Moderate,NS
+119,212315,Program Director (Television or Radio),NS,Moderate,NS
+120,212316,Stage Manager,NS,Moderate,NS
+121,212317,Technical Director,NS,Moderate,NS
+122,212318,Video Producer,NS,Moderate,NS
+123,212399,"Film, Television, Radio and Stage Directors nec",NS,Moderate,NS
+124,212411,Copywriter,NS,Moderate,NS
+125,212412,Newspaper or Periodical Editor,NS,Moderate,NS
+126,212413,Print Journalist,NS,Moderate,NS
+127,212414,Radio Journalist,NS,Moderate,NS
+128,212415,Technical Writer,NS,Moderate,NS
+129,212416,Television Journalist,NS,Moderate,NS
+130,212499,Journalists and Other Writers nec,NS,Moderate,NS
+131,221111,Accountant (General),NS,Moderate,NS
+132,221112,Management Accountant,NS,Moderate,NS
+133,221113,Taxation Accountant,NS,Moderate,NS
+134,221211,Company Secretary,NS,Moderate,NS
+135,221212,Corporate Treasurer,NS,Moderate,NS
+136,221213,External Auditor,S,Moderate,S
+137,221214,Internal Auditor,S,Moderate,S
+138,222111,Commodities Trader,NS,Moderate,NS
+139,222112,Finance Broker,NS,Moderate,NS
+140,222113,Insurance Broker,S,Moderate,S
+141,222199,Financial Brokers nec,NS,Moderate,NS
+142,222211,Financial Market Dealer,NS,Soft,NS
+143,222212,Futures Trader,NS,Soft,NS
+144,222213,Stockbroking Dealer,NS,Soft,NS
+145,222299,Financial Dealers nec,NS,Soft,NS
+146,222311,Financial Investment Adviser,NS,Moderate,NS
+147,222312,Financial Investment Manager,NS,Moderate,NS
+148,223111,Human Resource Adviser,NS,Strong,NS
+149,223112,Recruitment Consultant,NS,Strong,NS
+150,223113,Workplace Relations Adviser,NS,Strong,NS
+151,223311,Training and Development Professional,NS,Strong,NS
+152,224111,Actuary,NS,Strong,NS
+153,224112,Mathematician,NS,Strong,NS
+154,224113,Statistician,NS,Strong,NS
+155,224211,Archivist,NS,Moderate,NS
+156,224212,Gallery or Museum Curator,NS,Moderate,NS
+157,224213,Health Information Manager,NS,Moderate,NS
+158,224214,Records Manager,NS,Moderate,NS
+159,224311,Economist,NS,Moderate,NS
+160,224411,Intelligence Officer,NS,Moderate,NS
+161,224412,Policy Analyst,NS,Moderate,NS
+162,224511,Land Economist,NS,Strong,NS
+163,224512,Valuer,NS,Strong,NS
+164,224611,Librarian,NS,Moderate,S
+165,224711,Management Consultant,NS,Strong,NS
+166,224712,Organisation and Methods Analyst,NS,Strong,NS
+167,224911,Electorate Officer,NS,Strong,NS
+168,224912,Liaison Officer,NS,Strong,NS
+169,224913,Migration Agent / Immigration Consultant,NS,Strong,NS
+170,224914,Patents Examiner,NS,Strong,NS
+171,224999,Information and Organisation Professionals nec,NS,Strong,NS
+172,225111,Advertising Specialist,NS,Moderate,S
+173,225112,Market Research Analyst,NS,Moderate,NS
+174,225113,Marketing Specialist,S,Moderate,S
+175,225114,Content Creator (Marketing),NS,Moderate,NS
+176,225115,Digital Marketing Analyst,NS,Moderate,NS
+177,225211,ICT Account Manager,NS,Moderate,NS
+178,225212,ICT Business Development Manager,NS,Moderate,NS
+179,225213,ICT Sales Representative,NS,Moderate,NS
+180,225311,Public Relations Professional,NS,Moderate,NS
+181,225411,Sales Representative (Industrial Products),S,Moderate,S
+182,225412,Sales Representative (Medical and Pharmaceutical Products),NS,Moderate,NS
+183,225499,Technical Sales Representatives nec,NS,Moderate,NS
+184,231111,Aeroplane Pilot,NS,Moderate,NS
+185,231112,Air Traffic Controller,NS,Moderate,NS
+186,231113,Flying Instructor,NS,Moderate,NS
+187,231114,Helicopter Pilot,NS,Moderate,NS
+188,231199,Air Transport Professionals nec,NS,Moderate,NS
+189,231211,Master Fisher,NS,Soft,S
+190,231212,Ship's Engineer,NS,Soft,S
+191,231213,Ship's Master,NS,Soft,S
+192,231214,Ship's Officer,NS,Soft,S
+193,231215,Marine Surveyor,NS,Soft,S
+194,231299,Marine Transport Professionals nec,NS,Soft,S
+195,232111,Architect,NS,Soft,NS
+196,232112,Landscape Architect,NS,Soft,NS
+197,232212,Surveyor,S,Soft,S
+198,232213,Cartographer,NS,Soft,NS
+199,232214,Other Spatial Scientist,NS,Soft,NS
+200,232311,Fashion Designer,NS,Moderate,NS
+201,232312,Industrial Designer,NS,Moderate,NS
+202,232313,Jewellery Designer,NS,Moderate,NS
+203,232411,Graphic Designer,NS,Moderate,NS
+204,232412,Illustrator,NS,Moderate,NS
+205,232413,Multimedia Designer,NS,Moderate,NS
+206,232414,Web Designer,NS,Moderate,NS
+207,232511,Interior Designer,NS,Moderate,NS
+208,232611,Urban and Regional Planner,NS,Soft,NS
+209,233111,Chemical Engineer,S,Moderate,S
+210,233112,Materials Engineer,S,Moderate,S
+211,233211,Civil Engineer,S,Moderate,S
+212,233212,Geotechnical Engineer,S,Strong,S
+213,233213,Quantity Surveyor,S,Moderate,S
+214,233214,Structural Engineer,S,Moderate,S
+215,233215,Transport Engineer,S,Moderate,S
+216,233311,Electrical Engineer,S,Moderate,S
+217,233411,Electronics Engineer,S,Soft,S
+218,233511,Industrial Engineer,NS,Soft,NS
+219,233512,Mechanical Engineer,S,Soft,S
+220,233513,Production or Plant Engineer,S,Soft,S
+221,233611,Mining Engineer (excluding Petroleum),S,Strong,S
+222,233612,Petroleum Engineer,S,Strong,S
+223,233911,Aeronautical Engineer,NS,Moderate,NS
+224,233912,Agricultural Engineer,NS,Moderate,NS
+225,233913,Biomedical Engineer,NS,Moderate,NS
+226,233914,Engineering Technologist,NS,Moderate,NS
+227,233915,Environmental Engineer,S,Moderate,S
+228,233916,Naval Architect / Marine Designer,NS,Moderate,NS
+229,233999,Engineering Professionals nec,S,Moderate,S
+230,234111,Agricultural Consultant,S,Moderate,S
+231,234113,Forester / Forest Scientist,NS,Moderate,NS
+232,234114,Agricultural Research Scientist,S,Moderate,S
+233,234115,Agronomist,S,Moderate,S
+234,234116,Aquaculture or Fisheries Scientist,NS,Moderate,NS
+235,234211,Chemist,NS,Moderate,NS
+236,234212,Food Technologist,S,Moderate,S
+237,234213,Wine Maker,NS,Moderate,NS
+238,234311,Conservation Officer,NS,Soft,NS
+239,234312,Environmental Consultant,NS,Soft,NS
+240,234313,Environmental Research Scientist,NS,Soft,NS
+241,234314,Park Ranger,NS,Soft,NS
+242,234399,Environmental Scientists nec,NS,Soft,NS
+243,234411,Geologist,S,Soft,S
+244,234412,Geophysicist,S,Soft,S
+245,234413,Hydrogeologist,S,Soft,S
+246,234511,Life Scientist (General),NS,Moderate,NS
+247,234513,Biochemist,NS,Moderate,NS
+248,234514,Biotechnologist,NS,Moderate,NS
+249,234515,Botanist,NS,Moderate,NS
+250,234516,Marine Biologist,NS,Moderate,NS
+251,234517,Microbiologist,NS,Moderate,NS
+252,234521,Entomologist,NS,Moderate,NS
+253,234522,Zoologist,NS,Moderate,NS
+254,234599,Life Scientists nec,NS,Moderate,NS
+255,234611,Medical Laboratory Scientist,NS,Moderate,NS
+256,234612,Respiratory Scientist,NS,Soft,NS
+257,234711,Veterinarian,S,Moderate,S
+258,234911,Conservator,NS,Soft,NS
+259,234912,Metallurgist,S,Strong,S
+260,234913,Meteorologist,NS,Soft,NS
+261,234914,Physicist,NS,Soft,NS
+262,234915,Exercise Physiologist,NS,Soft,NS
+263,234999,Natural and Physical Science Professionals nec,NS,Soft,NS
+264,241111,Early Childhood (Pre-primary School) Teacher,S,Strong,S
+265,241213,Primary School Teacher,S,Moderate,S
+266,241311,Middle School Teacher / Intermediate School Teacher,NS,Moderate,NS
+267,241411,Secondary School Teacher,S,Moderate,S
+268,241511,Special Needs Teacher,S,Moderate,S
+269,241512,Teacher of the Hearing Impaired,S,Moderate,S
+270,241513,Teacher of the Sight Impaired,S,Moderate,S
+271,241599,Special Education Teachers nec,S,Moderate,S
+272,242111,University Lecturer,NS,Moderate,NS
+273,242112,University Tutor,NS,Moderate,NS
+274,242211,Vocational Education Teacher / Polytechnic Teacher,S,Moderate,S
+275,249111,Education Adviser,NS,Strong,NS
+276,249112,Education Reviewer,NS,Strong,NS
+277,249211,Art Teacher (Private Tuition),NS,Strong,NS
+278,249212,Dance Teacher (Private Tuition),NS,Strong,NS
+279,249213,Drama Teacher (Private Tuition),NS,Strong,NS
+280,249214,Music Teacher (Private Tuition),NS,Strong,NS
+281,249299,Private Tutors and Teachers nec,NS,Strong,NS
+282,249311,Teacher of English to Speakers of Other Languages,NS,Moderate,NS
+283,251111,Dietitian,NS,Moderate,NS
+284,251112,Nutritionist,NS,Moderate,NS
+285,251211,Medical Diagnostic Radiographer,S,Moderate,S
+286,251212,Medical Radiation Therapist,S,Moderate,S
+287,251213,Nuclear Medicine Technologist,NS,Moderate,NS
+288,251214,Sonographer,S,Moderate,S
+289,251311,Environmental Health Officer,NS,Moderate,NS
+290,251312,Occupational Health and Safety Adviser,NS,Moderate,NS
+291,251411,Optometrist,S,Moderate,S
+292,251412,Orthoptist,NS,Moderate,NS
+293,251511,Hospital Pharmacist,S,Moderate,S
+294,251512,Industrial Pharmacist,NS,Moderate,NS
+295,251513,Retail Pharmacist,S,Moderate,S
+296,251911,Health Promotion Officer,NS,Moderate,NS
+297,251912,Orthotist or Prosthetist,S,Moderate,S
+298,251999,Health Diagnostic and Promotion Professionals nec,S,Moderate,S
+299,252111,Chiropractor,NS,Moderate,NS
+300,252112,Osteopath,NS,Moderate,NS
+301,252211,Acupuncturist,NS,Moderate,NS
+302,252212,Homoeopath,NS,Moderate,NS
+303,252213,Naturopath,NS,Moderate,NS
+304,252214,Traditional Chinese Medicine Practitioner,NS,Moderate,NS
+305,252299,Complementary Health Therapists nec,NS,Moderate,NS
+306,252311,Dental Specialist,NS,Moderate,NS
+307,252312,Dentist,S,Moderate,S
+308,252411,Occupational Therapist,S,Moderate,S
+309,252511,Physiotherapist,S,Moderate,S
+310,252611,Podiatrist,S,Moderate,S
+311,252711,Audiologist,NS,Moderate,NS
+312,252712,Speech Pathologist / Speech Language Therapist,S,Moderate,S
+313,253111,General Practitioner,S,Moderate,S
+314,253112,Resident Medical Officer,S,Moderate,S
+315,253211,Anaesthetist,R,Soft,R
+316,253311,Specialist Physician (General Medicine),S,Moderate,S
+317,253312,Cardiologist,S,Moderate,S
+318,253313,Clinical Haematologist,S,Moderate,S
+319,253314,Medical Oncologist,S,Moderate,S
+320,253315,Endocrinologist,S,Moderate,S
+321,253316,Gastroenterologist,S,Moderate,S
+322,253317,Intensive Care Specialist,S,Moderate,S
+323,253318,Neurologist,S,Moderate,S
+324,253321,Paediatrician,S,Moderate,S
+325,253322,Renal Medicine Specialist,S,Moderate,S
+326,253323,Rheumatologist,S,Moderate,S
+327,253324,Thoracic Medicine Specialist,S,Moderate,S
+328,253399,Specialist Physicians nec,S,Moderate,S
+329,253411,Psychiatrist,S,Moderate,S
+330,253511,Surgeon (General),S,Moderate,S
+331,253512,Cardiothoracic Surgeon,S,Moderate,S
+332,253513,Neurosurgeon,S,Moderate,S
+333,253514,Orthopaedic Surgeon,S,Moderate,S
+334,253515,Otorhinolaryngologist,S,Moderate,S
+335,253516,Paediatric Surgeon,S,Moderate,S
+336,253517,Plastic and Reconstructive Surgeon,S,Moderate,S
+337,253518,Urologist,S,Moderate,S
+338,253521,Vascular Surgeon,S,Moderate,S
+339,253911,Dermatologist,R,Moderate,R
+340,253912,Emergency Medicine Specialist,S,Moderate,S
+341,253913,Obstetrician and Gynaecologist,R,Moderate,R
+342,253914,Ophthalmologist,S,Moderate,S
+343,253915,Pathologist,S,Moderate,S
+344,253917,Diagnostic and Interventional Radiologist,R,Moderate,R
+345,253918,Radiation Oncologist,NS,Moderate,NS
+346,253999,Medical Practitioners nec,S,Moderate,S
+347,254111,Midwife,S,Strong,S
+348,254211,Nurse Educator,NS,Moderate,NS
+349,254212,Nurse Researcher,S,Moderate,S
+350,254311,Nurse Manager,NS,Moderate,NS
+351,254411,Nurse Practitioner,S,Strong,S
+352,254412,Registered Nurse (Aged Care),S,Strong,S
+353,254413,Registered Nurse (Child and Family Health),S,Strong,S
+354,254414,Registered Nurse (Community Health),S,Strong,S
+355,254415,Registered Nurse (Critical Care and Emergency),S,Strong,S
+356,254416,Registered Nurse (Developmental Disability),S,Strong,S
+357,254417,Registered Nurse (Disability and Rehabilitation),S,Strong,S
+358,254418,Registered Nurse (Medical),S,Strong,S
+359,254421,Registered Nurse (Medical Practice),S,Strong,S
+360,254422,Registered Nurse (Mental Health),S,Strong,S
+361,254423,Registered Nurse (Perioperative),S,Strong,S
+362,254424,Registered Nurse (Surgical),S,Strong,S
+363,254425,Registered Nurse (Paediatrics),S,Strong,S
+364,254499,Registered Nurses nec,S,Strong,S
+365,261111,ICT Business Analyst,S,Moderate,S
+366,261112,Systems Analyst,S,Strong,S
+367,261113,User Experience Designer (ICT),NS,Strong,NS
+368,261211,Multimedia Specialist,S,Strong,S
+369,261212,Web Developer,S,Strong,S
+370,261311,Analyst Programmer,S,Strong,S
+371,261312,Developer Programmer,S,Strong,S
+372,261313,Software Engineer,S,Strong,S
+373,261314,Software Tester,S,Strong,S
+374,261315,Cyber Security Engineer,S,Moderate,S
+375,261316,Devops Engineer,S,Moderate,S
+376,261317,Penetration Tester,S,Strong,S
+377,261399,Software and Applications Programmers nec,S,Strong,S
+378,262111,Database Administrator,S,Strong,S
+379,262113,Systems Administrator,NS,Strong,NS
+380,262114,Cyber Governance Risk and Compliance Specialist,S,Strong,S
+381,262115,Cyber Security Advice and Assessment Specialist,S,Strong,S
+382,262116,Cyber Security Analyst,S,Strong,S
+383,262117,Cyber Security Architect,S,Strong,S
+384,262118,Cyber Security Operations Coordinator,S,Strong,S
+385,263111,Computer Network and Systems Engineer,S,Strong,S
+386,263112,Network Administrator,S,Strong,S
+387,263113,Network Analyst,S,Strong,S
+388,263211,ICT Quality Assurance Engineer,S,Strong,S
+389,263212,ICT Support Engineer,NS,Moderate,NS
+390,263213,ICT Systems Test Engineer,S,Strong,S
+391,263299,ICT Support and Test Engineers nec,NS,Strong,NS
+392,263311,Telecommunications Engineer,NS,Strong,NS
+393,263312,Telecommunications Network Engineer,NS,Strong,NS
+394,271111,Barrister,NS,Moderate,NS
+395,271214,Intellectual Property Lawyer,NS,Moderate,NS
+396,271299,Judicial and Other Legal Professionals nec,NS,Moderate,NS
+397,271311,Solicitor,NS,Moderate,NS
+398,272111,Careers Counsellor,NS,Moderate,S
+399,272112,Drug and Alcohol Counsellor,NS,Moderate,S
+400,272113,Family and Marriage Counsellor,NS,Moderate,S
+401,272114,Rehabilitation Counsellor,NS,Moderate,S
+402,272115,Student Counsellor,NS,Moderate,S
+403,272199,Counsellors nec,NS,Moderate,S
+404,272211,Minister of Religion,NS,Moderate,NS
+405,272311,Clinical Psychologist,S,Moderate,S
+406,272312,Educational Psychologist,S,Moderate,S
+407,272313,Organisational Psychologist,S,Moderate,S
+408,272314,Psychotherapist,NS,Moderate,NS
+409,272399,Psychologists nec,S,Moderate,S
+410,272411,Historian,NS,Moderate,NS
+411,272412,Interpreter,NS,Moderate,NS
+412,272413,Translator,NS,Moderate,NS
+413,272414,Archaeologist,NS,Moderate,NS
+414,272499,Social Professionals nec,NS,Moderate,NS
+415,272511,Social Worker,NS,Strong,S
+416,272611,Community Arts Worker,NS,Strong,NS
+417,272612,Recreation Officer / Recreation Coordinator,NS,Strong,NS
+418,272613,Welfare Worker,NS,Strong,NS
+419,311112,Agricultural and Agritech Technician,S,Moderate,S
+420,311113,Animal Husbandry Technician,NS,Moderate,NS
+421,311114,Aquaculture or Fisheries Technician,NS,Moderate,NS
+422,311115,Irrigation Designer,NS,Moderate,NS
+423,311211,Anaesthetic Technician,NS,Moderate,NS
+424,311212,Cardiac Technician,NS,Moderate,NS
+425,311213,Medical Laboratory Technician,NS,Moderate,NS
+426,311214,Operating Theatre Technician,NS,Moderate,NS
+427,311215,Pharmacy Technician,NS,Moderate,NS
+428,311216,Pathology Collector / Phlebotomist,NS,Moderate,NS
+429,311217,Respiratory Technician,NS,Moderate,NS
+430,311299,Medical Technicians nec,NS,Moderate,NS
+431,311311,Fisheries Officer,NS,Soft,NS
+432,311312,Meat Inspector,S,Soft,S
+433,311313,Biosecurity Officer,NS,Soft,NS
+434,311314,Primary Products Quality Assurance Officer,NS,Soft,NS
+435,311399,Primary Products Assurance and Inspection Officers nec,NS,Soft,NS
+436,311411,Chemistry Technician,NS,Moderate,NS
+437,311412,Earth Science Technician,NS,Moderate,NS
+438,311413,Life Science Technician,NS,Moderate,NS
+439,311414,School Laboratory Technician,NS,Moderate,NS
+440,311415,Hydrographer,NS,Moderate,NS
+441,311499,Science Technicians nec,NS,Moderate,NS
+442,312111,Architectural Draftsperson,NS,Moderate,NS
+443,312112,Building Associate,NS,Moderate,NS
+444,312113,Building Inspector,S,Moderate,S
+445,312114,Construction Estimator,S,Moderate,S
+446,312115,Plumbing Inspector,NS,Moderate,NS
+447,312116,Surveying or Spatial Science Technician,NS,Moderate,NS
+448,312199,"Architectural, Building and Surveying Technicians nec",NS,Moderate,NS
+449,312211,Civil Engineering Draftsperson,S,Strong,S
+450,312212,Civil Engineering Technician,S,Strong,S
+451,312311,Electrical Engineering Draftsperson,NS,Moderate,NS
+452,312312,Electrical Engineering Technician,NS,Moderate,NS
+453,312411,Electronic Engineering Draftsperson,NS,Moderate,NS
+454,312412,Electronic Engineering Technician,NS,Moderate,NS
+455,312511,Mechanical Engineering Draftsperson,S,Strong,S
+456,312512,Mechanical Engineering Technician,S,Strong,S
+457,312611,Safety Inspector,NS,Moderate,NS
+458,312911,Maintenance Planner,NS,Moderate,NS
+459,312912,Metallurgical or Materials Technician,S,Moderate,NS
+460,312913,Mine Deputy,NS,Moderate,NS
+461,312914,Other Draftsperson,NS,Moderate,NS
+462,312999,Building and Engineering Technicians nec,NS,Moderate,NS
+463,313111,Hardware Technician,NS,Strong,NS
+464,313112,ICT Customer Support Officer,NS,Strong,NS
+465,313113,Web Administrator,NS,Strong,NS
+466,313199,ICT Support Technicians nec,NS,Strong,NS
+467,313211,Radiocommunications Technician,NS,Strong,NS
+468,313212,Telecommunications Field Engineer,NS,Strong,NS
+469,313213,Telecommunications Network Planner,NS,Strong,NS
+470,313214,Telecommunications Technical Officer or Technologist,NS,Strong,NS
+471,321111,Automotive Electrician,S,Moderate,S
+472,321211,Motor Mechanic (General),S,Moderate,S
+473,321212,Diesel Motor Mechanic,S,Moderate,S
+474,321213,Motorcycle Mechanic,S,Moderate,S
+475,321214,Small Engine Mechanic,S,Moderate,S
+476,322111,Blacksmith,S,Moderate,S
+477,322112,Electroplater,S,Moderate,S
+478,322113,Farrier,S,Moderate,S
+479,322114,Metal Casting Trades Worker,S,Moderate,S
+480,322115,Metal Polisher,S,Moderate,S
+481,322211,Sheetmetal Trades Worker,S,Moderate,S
+482,322311,Metal Fabricator,S,Soft,S
+483,322312,Pressure Welder,S,Soft,S
+484,322313,Welder (First Class) (Aus) / Welder (NZ),S,Soft,S
+485,323111,Aircraft Maintenance Engineer (Avionics),S,Moderate,S
+486,323112,Aircraft Maintenance Engineer (Mechanical),S,Moderate,S
+487,323113,Aircraft Maintenance Engineer (Structures),S,Moderate,S
+488,323211,Fitter (General),S,Moderate,S
+489,323212,Fitter and Turner,S,Moderate,S
+490,323213,Fitter-Welder,S,Moderate,S
+491,323214,Metal Machinist (First Class),S,Moderate,S
+492,323215,"Textile, Clothing and Footwear Mechanic",NS,Moderate,NS
+493,323299,Metal Fitters and Machinists nec,NS,Moderate,NS
+494,323311,Engraver,NS,Moderate,NS
+495,323312,Gunsmith,NS,Moderate,NS
+496,323313,Locksmith,S,Moderate,S
+497,323314,Precision Instrument Maker and Repairer,S,Moderate,S
+498,323315,Saw Doctor,NS,Moderate,NS
+499,323316,Watch and Clock Maker and Repairer,NS,Moderate,NS
+500,323411,Engineering Patternmaker,S,Moderate,S
+501,323412,Toolmaker,S,Moderate,S
+502,324111,Panelbeater,S,Moderate,S
+503,324211,Vehicle Body Builder,S,Moderate,S
+504,324212,Vehicle Trimmer,S,Moderate,S
+505,324311,Vehicle Painter,S,Moderate,S
+506,331111,Bricklayer,S,Soft,S
+507,331112,Stonemason,S,Soft,S
+508,331211,Carpenter and Joiner,S,Soft,S
+509,331212,Carpenter,S,Soft,S
+510,331213,Joiner,S,Soft,S
+511,332111,Floor Finisher,S,Soft,S
+512,332211,Painting Trades Worker,S,Soft,S
+513,333111,Glazier,S,Moderate,S
+514,333211,Fibrous Plasterer,S,Moderate,S
+515,333212,Solid Plasterer,S,Moderate,S
+516,333311,Roof Tiler,S,Moderate,S
+517,333411,Wall and Floor Tiler,S,Moderate,S
+518,334111,Plumber (General),S,Soft,S
+519,334112,Airconditioning and Mechanical Services Plumber,S,Soft,S
+520,334113,Drainer / Drainlayer,S,Soft,S
+521,334114,Gasfitter,S,Soft,S
+522,334115,Roof Plumber,S,Soft,S
+523,341111,Electrician (General),S,Strong,S
+524,341112,Electrician (Special Class),S,Strong,S
+525,341113,Lift Mechanic,NS,Moderate,NS
+526,342111,Airconditioning and Refrigeration Mechanic,S,Moderate,S
+527,342211,Electrical Linesworker / Electrical Line Mechanic,S,Moderate,S
+528,342212,Technical Cable Jointer,S,Moderate,S
+529,342311,Business Machine Mechanic,NS,Moderate,NS
+530,342312,Communications Operator,NS,Moderate,NS
+531,342313,Electronic Equipment Trades Worker,S,Moderate,S
+532,342314,Electronic Instrument Trades Worker (General),NS,Moderate,NS
+533,342315,Electronic Instrument Trades Worker (Special Class),S,Moderate,S
+534,342411,Cabler (Data and Telecommunications),S,Soft,S
+535,342412,Telecommunications Cable Jointer,S,Soft,S
+536,342413,Telecommunications Linesworker / Telecommunications Line Mechanic,S,Soft,S
+537,342414,Telecommunications Technician,S,Soft,S
+538,351111,Baker,S,Moderate,S
+539,351112,Pastrycook,S,Moderate,S
+540,351211,Butcher or Smallgoods Maker,S,Moderate,S
+541,351311,Chef,S,Moderate,S
+542,351411,Cook,S,Moderate,S
+543,361111,Dog Handler or Trainer,NS,Moderate,NS
+544,361112,Horse Trainer,S,Moderate,S
+545,361113,Pet Groomer,NS,Moderate,NS
+546,361114,Zookeeper,NS,Moderate,NS
+547,361115,Kennel Hand,NS,Moderate,NS
+548,361116,Track Rider,NS,Moderate,NS
+549,361199,Animal Attendants and Trainers nec,NS,Moderate,NS
+550,361311,Veterinary Nurse,S,Strong,S
+551,362111,Florist,NS,Soft,NS
+552,362312,Sports Turf Manager,NS,Moderate,NS
+553,362313,Sports Turf Trades Worker,S,Moderate,S
+554,362411,Nurseryperson,S,Moderate,S
+555,362511,Arborist,S,Moderate,S
+556,362512,Tree Worker,S,Moderate,S
+557,362611,Gardener (General),S,Moderate,S
+558,362711,Landscape Gardener,S,Moderate,S
+559,362712,Irrigation Technician,NS,Moderate,NS
+560,363111,Aquaculture Supervisor,NS,Moderate,NS
+561,363112,Fishing Leading Hand,NS,Moderate,NS
+562,363113,Forestry Operations Supervisor,NS,Moderate,NS
+563,363114,Horticultural Supervisor or Specialist,NS,Moderate,NS
+564,363115,Senior Broadacre Crop and Livestock Farm Worker,NS,Moderate,NS
+565,363116,Senior Broadacre Crop Farm Worker,NS,Moderate,NS
+566,363117,Vineyard Supervisor,NS,Moderate,NS
+567,363199,"Senior Aquaculture, Crop and Forestry Workers nec",NS,Moderate,NS
+568,363211,Senior Beef Cattle Station Worker,NS,Moderate,NS
+569,363212,Senior Cattle and Sheep Farm Worker,NS,Moderate,NS
+570,363213,Senior Dairy Cattle Farm Worker,NS,Moderate,NS
+571,363214,Senior Piggery Stockperson,S,Moderate,S
+572,363215,Senior Sheep Farm Worker,NS,Moderate,NS
+573,363299,Senior Livestock Farm Workers nec,NS,Moderate,NS
+574,363311,Shearer,R,Strong,R
+575,363312,Wool Classer,R,Moderate,R
+576,391111,Hairdresser,S,Moderate,S
+577,392111,Print Finisher,S,Moderate,S
+578,392112,Screen Printer,S,Moderate,S
+579,392211,Graphic Pre-press Trades Worker,NS,Moderate,NS
+580,392311,Printing Machinist,NS,Soft,NS
+581,392312,Small Offset Printer,NS,Soft,NS
+582,393111,Canvas Goods Fabricator,NS,Soft,NS
+583,393112,Leather Goods Maker,NS,Soft,NS
+584,393113,Sail Maker,NS,Soft,NS
+585,393114,Shoemaker,NS,Soft,NS
+586,393211,Apparel Cutter,NS,Moderate,NS
+587,393212,Clothing Patternmaker,NS,Moderate,NS
+588,393213,Dressmaker or Tailor,NS,Moderate,NS
+589,393299,Clothing Trades Workers nec,NS,Moderate,NS
+590,393311,Upholsterer,S,Moderate,S
+591,394111,Cabinetmaker,S,Moderate,S
+592,394211,Furniture Finisher,S,Soft,S
+593,394212,Picture Framer,S,Soft,S
+594,394213,Wood Machinist,S,Soft,S
+595,394214,Wood Turner,NS,Soft,NS
+596,394299,Wood Machinists and Other Wood Trades Workers nec,NS,Soft,NS
+597,399111,Boat Builder and Repairer,NS,Moderate,NS
+598,399112,Shipwright,NS,Moderate,NS
+599,399211,Chemical Plant Operator,NS,Moderate,NS
+600,399212,Gas or Petroleum Operator,NS,Moderate,NS
+601,399213,Power Generation Plant Operator,NS,Moderate,NS
+602,399311,Gallery or Museum Technician,NS,Moderate,NS
+603,399312,Library Technician,NS,Moderate,NS
+604,399411,Jeweller,NS,Soft,NS
+605,399511,Broadcast Transmitter Operator,NS,Moderate,NS
+606,399512,"Camera Operator (Film, Television or Video)",NS,Moderate,NS
+607,399513,Light Technician,NS,Moderate,NS
+608,399514,Make Up Artist,NS,Moderate,NS
+609,399515,Musical Instrument Maker or Repairer,NS,Moderate,NS
+610,399516,Sound Technician,NS,Moderate,NS
+611,399517,Television Equipment Operator,NS,Moderate,NS
+612,399599,Performing Arts Technicians nec,NS,Moderate,NS
+613,399611,Signwriter,NS,Moderate,NS
+614,399911,Diver,NS,Moderate,NS
+615,399912,Interior Decorator,NS,Moderate,NS
+616,399913,Optical Dispenser / Dispensing Optician,S,Moderate,S
+617,399914,Optical Mechanic,S,Moderate,S
+618,399915,Photographer's Assistant,NS,Moderate,NS
+619,399916,Plastics Technician,S,Moderate,S
+620,399918,Fire Protection Equipment Technician,S,Moderate,S
+621,399999,Technicians and Trades Workers nec,S,Moderate,S
+622,411111,Ambulance Officer,NS,Strong,NS
+623,411112,Intensive Care Ambulance Paramedic (Aus) / Ambulance Paramedic (NZ),NS,Strong,NS
+624,411211,Dental Hygienist,S,Moderate,S
+625,411212,Dental Prosthetist,S,Moderate,S
+626,411213,Dental Technician,S,Moderate,S
+627,411214,Dental Therapist,S,Moderate,S
+628,411311,Diversional Therapist,S,Moderate,S
+629,411411,Enrolled Nurse,S,Strong,S
+630,411412,Mothercraft Nurse,NS,Moderate,NS
+631,411511,Aboriginal and Torres Strait Islander Health Worker,NS,Strong,NS
+632,411611,Massage Therapist,NS,Strong,NS
+633,411711,Community Worker,NS,Strong,NS
+634,411712,Disabilities Services Officer,NS,Strong,NS
+635,411713,Family Support Worker,NS,Strong,NS
+636,411714,Parole or Probation Officer,NS,Strong,NS
+637,411715,Residential Care Officer,S,Strong,S
+638,411716,Youth Worker,S,Strong,S
+639,421111,Child Care Worker,S,Strong,S
+640,421112,Family Day Care Worker,NS,Moderate,NS
+641,421113,Nanny,NS,Moderate,NS
+642,421114,Out of School Hours Care Worker,NS,Moderate,NS
+643,422111,Aboriginal and Torres Strait Islander Education Worker,NS,Moderate,S
+644,422112,Integration Aide,NS,Moderate,S
+645,422115,Preschool Aide,NS,Moderate,S
+646,422116,Teachers' Aide,NS,Moderate,S
+647,423111,Aged or Disabled Carer,S,Strong,S
+648,423211,Dental Assistant,S,Strong,S
+649,423311,Hospital Orderly,NS,Moderate,NS
+650,423312,Nursing Support Worker,NS,Moderate,NS
+651,423313,Personal Care Assistant,S,Moderate,S
+652,423314,Therapy Aide,NS,Moderate,NS
+653,423411,Child or Youth Residential Care Assistant,NS,Strong,NS
+654,423412,Hostel Parent,NS,Strong,NS
+655,423413,Refuge Worker,NS,Strong,NS
+656,431111,Bar Attendant,NS,Strong,NS
+657,431112,Barista,NS,Strong,S
+658,431311,Gaming Worker,NS,Strong,NS
+659,431411,Hotel Service Manager,NS,Strong,S
+660,431511,Waiter,NS,Strong,NS
+661,441211,Emergency Service Worker,NS,Soft,NS
+662,441212,Fire Fighter,NS,Soft,NS
+663,441311,Detective,NS,Soft,NS
+664,441312,Police Officer,NS,Soft,NS
+665,442111,Prison Officer,NS,Moderate,NS
+666,442213,Crowd Controller,NS,Strong,NS
+667,442214,Private Investigator,NS,Strong,NS
+668,442216,Security Consultant,NS,Strong,NS
+669,442217,Security Officer,S,Strong,S
+670,451111,Beauty Therapist,S,Strong,S
+671,451211,Driving Instructor,NS,Strong,NS
+672,451311,Funeral Director,NS,Moderate,NS
+673,451399,Funeral Workers nec,NS,Moderate,NS
+674,451411,Gallery or Museum Guide,NS,Moderate,NS
+675,451412,Tour Guide,S,Moderate,S
+676,451511,Natural Remedy Consultant,NS,Strong,NS
+677,451512,Weight Loss Consultant,NS,Strong,NS
+678,451513,Herbalist (Western),NS,Strong,NS
+679,451611,Tourist Information Officer,NS,Moderate,NS
+680,451612,Travel Consultant,S,Moderate,S
+681,451711,Flight Attendant,NS,Moderate,NS
+682,451799,Travel Attendants nec,NS,Moderate,NS
+683,451811,Civil Celebrant,NS,Moderate,NS
+684,451814,Body Artist,NS,Moderate,NS
+685,451815,First Aid Trainer,NS,Moderate,NS
+686,451816,Religious Assistant,NS,Moderate,NS
+687,451899,Personal Service Workers nec,NS,Moderate,NS
+688,452111,Fitness Instructor,NS,Strong,NS
+689,452211,Bungy Jump Master,NS,Moderate,NS
+690,452212,Fishing Guide,NS,Moderate,NS
+691,452213,Hunting Guide,NS,Moderate,NS
+692,452214,Mountain or Glacier Guide,NS,Moderate,NS
+693,452215,Outdoor Adventure Instructor,NS,Moderate,NS
+694,452216,Trekking Guide,NS,Moderate,NS
+695,452217,Whitewater Rafting Guide,NS,Moderate,NS
+696,452299,Outdoor Adventure Guides nec,NS,Moderate,NS
+697,452311,Diving Instructor (Open Water),NS,Moderate,NS
+698,452312,Gymnastics Coach or Instructor,S,Moderate,S
+699,452313,Horse Riding Coach or Instructor,NS,Moderate,NS
+700,452314,Snowsport Instructor,NS,Moderate,NS
+701,452315,Swimming Coach or Instructor,S,Moderate,S
+702,452316,Tennis Coach,NS,Moderate,NS
+703,452317,Other Sports Coach or Instructor,NS,Moderate,NS
+704,452318,Dog and Horse Racing Official,NS,Moderate,NS
+705,452321,Sports Development Officer,NS,Moderate,NS
+706,452322,Sports Umpire,NS,Moderate,NS
+707,452323,Other Sports Official,NS,Moderate,NS
+708,452411,Footballer,NS,Moderate,NS
+709,452412,Golfer,NS,Moderate,NS
+710,452413,Jockey,NS,Moderate,NS
+711,452414,Lifeguard,NS,Moderate,NS
+712,452499,Sportspersons nec,NS,Moderate,NS
+713,511111,Contract Administrator,S,Strong,S
+714,511112,Program or Project Administrator,S,Strong,S
+715,512111,Office Manager,NS,Moderate,NS
+716,512211,Health Practice Manager,NS,Moderate,NS
+717,512299,Practice Managers nec,NS,Moderate,NS
+718,521111,Personal Assistant,NS,Moderate,NS
+719,521211,Secretary (General),NS,Soft,NS
+720,521212,Legal Secretary,NS,Soft,NS
+721,531111,General Clerk,NS,Moderate,NS
+722,532111,Data Entry Operator,NS,Moderate,NS
+723,532112,Machine Shorthand Reporter,NS,Moderate,NS
+724,532113,Word Processing Operator,NS,Moderate,NS
+725,541111,Call or Contact Centre Team Leader,NS,Strong,NS
+726,541112,Call or Contact Centre Operator,NS,Strong,NS
+727,541211,Information Officer,NS,Strong,NS
+728,542111,Receptionist (General),NS,Moderate,NS
+729,542112,Admissions Clerk,NS,Moderate,NS
+730,542113,Hotel or Motel Receptionist,NS,Moderate,NS
+731,542114,Medical Receptionist,NS,Moderate,NS
+732,551111,Accounts Clerk,NS,Moderate,NS
+733,551112,Cost Clerk,NS,Moderate,NS
+734,551211,Bookkeeper,NS,Soft,NS
+735,551311,Payroll Clerk,NS,Moderate,NS
+736,552111,Bank Worker,NS,Soft,NS
+737,552211,Credit or Loans Officer (Aus) / Finance Clerk (NZ),NS,Moderate,S
+738,552311,Bookmaker,NS,Moderate,S
+739,552312,Insurance Consultant,NS,Moderate,S
+740,552313,Money Market Clerk,NS,Moderate,S
+741,552314,Statistical Clerk,NS,Moderate,S
+742,591112,Production Clerk,NS,Strong,NS
+743,591113,Purchasing Officer,NS,Strong,NS
+744,591115,Stock Clerk,NS,Strong,NS
+745,591116,Warehouse Administrator,NS,Strong,NS
+746,591117,Order Clerk,NS,Strong,NS
+747,591211,Despatching and Receiving Clerk,NS,Strong,NS
+748,591212,Import-Export Clerk,NS,Strong,NS
+749,599111,Conveyancer,S,Strong,S
+750,599112,Legal Executive,NS,Strong,NS
+751,599211,Clerk of Court,NS,Strong,NS
+752,599212,Court Bailiff or Sheriff (Aus) / Court Collections Officer (NZ),NS,Strong,NS
+753,599213,Court Orderly (Aus) / Court Registry Officer (NZ),NS,Strong,NS
+754,599214,Law Clerk,NS,Strong,NS
+755,599215,Trust Officer,NS,Strong,NS
+756,599311,Debt Collector,NS,Strong,NS
+757,599411,Human Resource Clerk,NS,Strong,NS
+758,599511,Customs Officer,NS,Strong,S
+759,599512,Immigration Officer,NS,Strong,S
+760,599513,Motor Vehicle Licence Examiner,NS,Strong,S
+761,599514,"Invasive Pest, Weed and Disease Inspector",NS,Strong,S
+762,599515,Social Security Assessor,NS,Strong,S
+763,599516,Taxation Inspector,NS,Strong,S
+764,599517,Train Examiner,NS,Strong,S
+765,599518,Transport Operations Inspector,NS,Strong,S
+766,599521,Water Inspector,NS,Strong,S
+767,599599,Inspectors and Regulatory Officers nec,NS,Strong,S
+768,599611,Insurance Investigator,NS,Moderate,NS
+769,599612,Insurance Loss Adjuster,NS,Moderate,NS
+770,599613,Insurance Risk Surveyor,NS,Moderate,NS
+771,599711,Library Assistant,NS,Strong,NS
+772,599912,"Production Assistant (Film, Television, Radio or Stage)",NS,Strong,NS
+773,599913,Proof Reader,NS,Strong,NS
+774,599914,Radio Despatcher,NS,Strong,NS
+775,599915,Clinical Coder,NS,Strong,NS
+776,599916,Facilities Administrator,NS,Strong,NS
+777,599999,Clerical and Administrative Workers nec,NS,Strong,NS
+778,611111,Auctioneer,NS,Moderate,NS
+779,611112,Stock and Station Agent,NS,Moderate,NS
+780,611211,Insurance Agent,S,Moderate,S
+781,611311,Sales Representative (Building and Plumbing Supplies),NS,Strong,NS
+782,611312,Sales Representative (Business Services),NS,Strong,NS
+783,611313,Sales Representative (Motor Vehicle Parts and Accessories),NS,Strong,NS
+784,611314,Sales Representative (Personal and Household Goods),NS,Strong,NS
+785,611399,Sales Representatives nec,NS,Strong,NS
+786,612111,Business Broker,NS,Moderate,NS
+787,612112,Property Manager,NS,Moderate,NS
+788,612113,Real Estate Agency Principal / Real Estate Agency Licensee,NS,Moderate,NS
+789,612114,Real Estate Agent,NS,Moderate,NS
+790,612115,Real Estate Representative,NS,Moderate,NS
+791,621311,Motor Vehicle or Caravan Salesperson,NS,Strong,NS
+792,621312,Motor Vehicle Parts Interpreter / Automotive Parts Salesperson,NS,Strong,NS
+793,621411,Pharmacy Sales Assistant,NS,Moderate,NS
+794,621511,Retail Supervisor,NS,Moderate,NS
+795,639211,Retail Buyer,NS,Strong,NS
+796,639212,Wool Buyer,NS,Strong,NS
+797,639511,Visual Merchandiser,NS,Strong,NS
+798,639911,Other Sales Support Worker,NS,Strong,NS
+799,711111,Clay Products Machine Operator,NS,Moderate,NS
+800,711112,Concrete Products Machine Operator,NS,Moderate,NS
+801,711113,Glass Production Machine Operator,NS,Moderate,NS
+802,711114,Stone Processing Machine Operator,NS,Moderate,NS
+803,711199,"Clay, Concrete, Glass and Stone Processing Machine Operators nec",NS,Moderate,NS
+804,711211,Industrial Spraypainter,S,Moderate,S
+805,711311,Paper Products Machine Operator,NS,Moderate,NS
+806,711313,Sawmilling Operator,NS,Moderate,NS
+807,711314,Other Wood Processing Machine Operator,NS,Moderate,NS
+808,711411,Photographic Developer and Printer,NS,Moderate,NS
+809,711511,Plastic Cablemaking Machine Operator,NS,Strong,NS
+810,711512,Plastic Compounding and Reclamation Machine Operator,NS,Strong,NS
+811,711513,Plastics Fabricator or Welder,NS,Strong,NS
+812,711514,Plastics Production Machine Operator (General),S,Strong,S
+813,711515,Reinforced Plastic and Composite Production Worker,NS,Strong,NS
+814,711516,Rubber Production Machine Operator,NS,Strong,NS
+815,711599,Plastics and Rubber Production Machine Operators nec,NS,Strong,NS
+816,711611,Sewing Machinist,NS,Strong,NS
+817,711711,Footwear Production Machine Operator,NS,Strong,NS
+818,711712,Hide and Skin Processing Machine Operator,NS,Strong,NS
+819,711713,Knitting Machine Operator,NS,Strong,NS
+820,711714,Textile Dyeing and Finishing Machine Operator,NS,Strong,NS
+821,711715,Weaving Machine Operator,NS,Strong,NS
+822,711716,Yarn Carding and Spinning Machine Operator,NS,Strong,NS
+823,711799,Textile and Footwear Production Machine Operators nec,NS,Strong,NS
+824,711911,Chemical Production Machine Operator,NS,Moderate,NS
+825,711912,Motion Picture Projectionist,NS,Moderate,NS
+826,711913,Sand Blaster,NS,Moderate,NS
+827,711914,Sterilisation Technician,NS,Moderate,NS
+828,711999,Machine Operators nec,NS,Moderate,NS
+829,712111,"Crane, Hoist or Lift Operator",S,Moderate,S
+830,712211,Driller,S,Strong,S
+831,712212,Miner,S,Strong,S
+832,712213,Shot Firer,NS,Strong,NS
+833,712311,Engineering Production Worker,NS,Moderate,NS
+834,712911,Boiler or Engine Operator,NS,Moderate,NS
+835,712912,Bulk Materials Handling Plant Operator,NS,Moderate,NS
+836,712913,Cement Production Plant Operator,NS,Moderate,NS
+837,712914,Concrete Batching Plant Operator,NS,Moderate,NS
+838,712915,Concrete Pump Operator,NS,Moderate,NS
+839,712916,Paper and Pulp Mill Operator,NS,Moderate,NS
+840,712917,Railway Signal Operator,NS,Moderate,NS
+841,712918,Train Controller,NS,Moderate,NS
+842,712921,Waste Water or Water Plant Operator,NS,Moderate,NS
+843,712922,Weighbridge Operator,NS,Moderate,NS
+844,712999,Stationary Plant Operators nec,NS,Moderate,NS
+845,721111,Agricultural and Horticultural Mobile Plant Operator,R,Moderate,R
+846,721112,Logging Plant Operator,R,Moderate,R
+847,721211,Earthmoving Plant Operator (General),S,Moderate,S
+848,721212,Backhoe Operator,S,Moderate,S
+849,721213,Bulldozer Operator,S,Moderate,S
+850,721214,Excavator Operator,S,Moderate,S
+851,721215,Grader Operator,S,Moderate,S
+852,721216,Loader Operator,S,Moderate,S
+853,721311,Forklift Driver,NS,Moderate,NS
+854,721911,Aircraft Baggage Handler and Airline Ground Crew,S,Moderate,S
+855,721912,Linemarker,S,Moderate,S
+856,721913,Paving Plant Operator,S,Moderate,S
+857,721914,Railway Track Plant Operator,S,Moderate,S
+858,721915,Road Roller Operator,S,Moderate,S
+859,721916,Streetsweeper Operator,S,Moderate,S
+860,721999,Mobile Plant Operators nec,S,Moderate,S
+861,731111,Chauffeur,NS,Moderate,NS
+862,731112,Taxi Driver,NS,Moderate,NS
+863,731199,Automobile Drivers nec,NS,Moderate,NS
+864,731211,Bus Driver,S,Moderate,S
+865,731212,Charter and Tour Bus Driver,NS,Moderate,NS
+866,731213,Passenger Coach Driver,NS,Moderate,NS
+867,731311,Train Driver,NS,Moderate,NS
+868,731312,Tram Driver,NS,Moderate,NS
+869,732111,Delivery Driver,NS,Strong,NS
+870,733111,Truck Driver (General),S,Moderate,S
+871,733112,Aircraft Refueller,NS,Moderate,NS
+872,733113,Furniture Removalist,NS,Moderate,NS
+873,733114,Tanker Driver,NS,Moderate,NS
+874,733115,Tow Truck Driver,NS,Moderate,NS
+875,741111,Storeperson,NS,Strong,NS
+876,811611,Carpet Cleaner,NS,Strong,NS
+877,821311,Fencer,NS,Moderate,NS
+878,821411,Building Insulation Installer,NS,Strong,NS
+879,821412,Home Improvement Installer,S,Strong,S
+880,821611,Railway Track Worker,NS,Moderate,S
+881,821711,Construction Rigger,S,Moderate,S
+882,821712,Scaffolder,S,Moderate,S
+883,821713,Steel Fixer,S,Moderate,S
+884,821714,Structural Steel Erector,S,Moderate,S
+885,821911,Crane Chaser,S,Moderate,S
+886,831211,Meat Boner and Slicer,S,Strong,S
+887,831212,Slaughterer,S,Strong,S
+888,839311,Product Examiner,NS,Strong,NS
+889,839312,Product Grader,NS,Strong,NS
+890,839313,Product Tester,NS,Strong,NS
+891,842211,Cotton Farm Worker,NS,Moderate,NS
+892,842214,"Grain, Oilseed, Pulse and Pasture Farm Worker (Aus) / Field Farm Worker (NZ)",NS,Moderate,NS
+893,842217,Sugar Cane Farm Worker,NS,Moderate,NS
+894,842222,Vineyard Worker,NS,Moderate,NS
+895,842311,Beef Cattle Farm Worker,NS,Moderate,NS
+896,842312,Cattle and Sheep Farm Worker,NS,Moderate,NS
+897,842313,Dairy Cattle Farm Worker,NS,Moderate,NS
+898,842314,Livestock Husbandry Worker,NS,Moderate,NS
+899,842315,Piggery Farm Worker,S,Moderate,S
+900,842316,Poultry Farm Worker,NS,Moderate,NS
+901,842317,Sheep Farm Worker,NS,Moderate,NS
+902,843111,Forestry Worker,NS,Strong,NS
+903,843112,Logging Assistant,NS,Strong,NS
+904,843113,Tree Faller,NS,Strong,NS
+905,843411,Pest Control Technician,NS,Moderate,NS
+906,899211,Deck Hand,NS,Moderate,NS
+907,899212,Fishing Hand,NS,Moderate,NS
+908,899411,Motor Vehicle Parts and Accessories Fitter (General),S,Moderate,S
+909,899412,Autoglazier,NS,Moderate,NS
+910,899413,Exhaust and Muffler Repairer,NS,Moderate,NS
+911,899414,Radiator Repairer,NS,Moderate,NS
+912,899415,Tyre Fitter,NS,Moderate,NS
+913,899511,Printer's Assistant,NS,Moderate,NS
+914,899512,Printing Table Worker,NS,Moderate,NS

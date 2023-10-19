@@ -1,0 +1,915 @@
+number,ANZSCO_Code,Occupation_title
+1,111111,Chief Executive or Managing Director
+2,111211,Corporate General Manager
+3,121111,Aquaculture Farmer
+4,121311,Apiarist
+5,121312,Beef Cattle Farmer
+6,121313,Dairy Cattle Farmer
+7,121314,Deer Farmer
+8,121315,Goat Farmer
+9,121316,Horse Breeder
+10,121318,Pig Farmer
+11,121321,Poultry Farmer
+12,121322,Sheep Farmer
+13,121323,Mixed Cattle and Sheep Farmer
+14,121399,Livestock Farmers nec
+15,121511,Cotton Grower
+16,121512,"Grain, Oilseed, Pulse or Pasture Grower / Field Crop Grower"
+17,121513,Sugar Cane Grower
+18,121599,Broadacre Crop Growers nec
+19,121611,Flower Grower
+20,121612,Fruit Grower
+21,121613,Nut Grower
+22,121614,Production Nursery Grower
+23,121615,Turf Grower
+24,121616,Vegetable Grower (Aus) / Market Gardener (NZ)
+25,121617,Wine Grape Grower
+26,121699,Horticultural Crop Growers nec
+27,121711,Broadacre Crop and Livestock Farmer
+28,121799,Mixed Production Farmers nec
+29,131112,Sales and Marketing Manager
+30,131113,Advertising Manager
+31,131114,Public Relations Manager
+32,132111,Corporate Services Manager
+33,132211,Finance Manager
+34,132311,Human Resource Manager
+35,132411,Policy and Planning Manager
+36,132511,Research and Development Manager
+37,133111,Construction Project Manager
+38,133112,Project Builder
+39,133211,Engineering Manager
+40,133311,Importer or Exporter
+41,133312,Wholesaler
+42,133411,Manufacturer
+43,133511,Production Manager (Forestry)
+44,133512,Production Manager (Manufacturing)
+45,133513,Production Manager (Mining)
+46,133611,Supply and Distribution Manager
+47,133612,Procurement Manager
+48,134111,Child Care Centre Manager
+49,134211,Medical Administrator / Medical Superintendent
+50,134212,Nursing Clinical Director
+51,134213,Primary Health Organisation Manager
+52,134214,Welfare Centre Manager
+53,134299,Health and Welfare Services Managers nec
+54,134311,School Principal
+55,134411,Faculty Head
+56,134412,Regional Education Manager
+57,134499,Education Managers nec
+58,135111,Chief Information Officer
+59,135112,ICT Project Manager
+60,135199,ICT Managers nec
+61,139911,Arts Administrator or Manager
+62,139912,Environmental Manager
+63,139913,Laboratory Manager
+64,139914,Quality Assurance Manager
+65,139915,Sports Administrator
+66,139999,Specialist Managers nec
+67,141111,Cafe or Restaurant Manager
+68,141211,Caravan Park and Camping Ground Manager
+69,141311,Hotel or Motel Manager
+70,141411,Licensed Club Manager
+71,141911,Bed and Breakfast Operator
+72,141912,Retirement Village Manager
+73,141999,Accommodation and Hospitality Managers nec
+74,142111,Retail Manager (General)
+75,142112,Antique Dealer
+76,142113,Betting Agency Manager
+77,142114,Hair or Beauty Salon Manager
+78,142115,Post Office Manager
+79,142116,Travel Agency Manager
+80,149111,Amusement Centre Manager
+81,149112,Fitness Centre Manager
+82,149113,Sports Centre Manager
+83,149211,Call or Contact Centre Manager
+84,149212,Customer Service Manager
+85,149311,Conference and Event Organiser
+86,149411,Fleet Manager
+87,149412,Railway Station Manager
+88,149413,Transport Company Manager
+89,149911,Boarding Kennel or Cattery Operator
+90,149912,Cinema or Theatre Manager
+91,149913,Facilities Manager
+92,149914,Financial Institution Branch Manager
+93,149915,Equipment Hire Manager
+94,149999,"Hospitality, Retail and Service Managers nec"
+95,211111,Actor
+96,211112,Dancer or Choreographer
+97,211113,Entertainer or Variety Artist
+98,211199,"Actors, Dancers and Other Entertainers nec"
+99,211211,Composer
+100,211212,Music Director
+101,211213,Musician (Instrumental)
+102,211214,Singer
+103,211299,Music Professionals nec
+104,211311,Photographer
+105,211411,Painter (Visual Arts)
+106,211412,Potter or Ceramic Artist
+107,211413,Sculptor
+108,211499,Visual Arts and Crafts Professionals nec
+109,212111,Artistic Director
+110,212112,Media Producer (excluding Video)
+111,212113,Radio Presenter
+112,212114,Television Presenter
+113,212211,Author
+114,212212,Book or Script Editor
+115,212311,"Art Director (Film, Television or Stage)"
+116,212312,"Director (Film, Television, Radio or Stage)"
+117,212313,Director of Photography
+118,212314,Film and Video Editor
+119,212315,Program Director (Television or Radio)
+120,212316,Stage Manager
+121,212317,Technical Director
+122,212318,Video Producer
+123,212399,"Film, Television, Radio and Stage Directors nec"
+124,212411,Copywriter
+125,212412,Newspaper or Periodical Editor
+126,212413,Print Journalist
+127,212414,Radio Journalist
+128,212415,Technical Writer
+129,212416,Television Journalist
+130,212499,Journalists and Other Writers nec
+131,221111,Accountant (General)
+132,221112,Management Accountant
+133,221113,Taxation Accountant
+134,221211,Company Secretary
+135,221212,Corporate Treasurer
+136,221213,External Auditor
+137,221214,Internal Auditor
+138,222111,Commodities Trader
+139,222112,Finance Broker
+140,222113,Insurance Broker
+141,222199,Financial Brokers nec
+142,222211,Financial Market Dealer
+143,222212,Futures Trader
+144,222213,Stockbroking Dealer
+145,222299,Financial Dealers nec
+146,222311,Financial Investment Adviser
+147,222312,Financial Investment Manager
+148,223111,Human Resource Adviser
+149,223112,Recruitment Consultant
+150,223113,Workplace Relations Adviser
+151,223311,Training and Development Professional
+152,224111,Actuary
+153,224112,Mathematician
+154,224113,Statistician
+155,224211,Archivist
+156,224212,Gallery or Museum Curator
+157,224213,Health Information Manager
+158,224214,Records Manager
+159,224311,Economist
+160,224411,Intelligence Officer
+161,224412,Policy Analyst
+162,224511,Land Economist
+163,224512,Valuer
+164,224611,Librarian
+165,224711,Management Consultant
+166,224712,Organisation and Methods Analyst
+167,224911,Electorate Officer
+168,224912,Liaison Officer
+169,224913,Migration Agent / Immigration Consultant
+170,224914,Patents Examiner
+171,224999,Information and Organisation Professionals nec
+172,225111,Advertising Specialist
+173,225112,Market Research Analyst
+174,225113,Marketing Specialist
+175,225114,Content Creator (Marketing)
+176,225115,Digital Marketing Analyst
+177,225211,ICT Account Manager
+178,225212,ICT Business Development Manager
+179,225213,ICT Sales Representative
+180,225311,Public Relations Professional
+181,225411,Sales Representative (Industrial Products)
+182,225412,Sales Representative (Medical and Pharmaceutical Products)
+183,225499,Technical Sales Representatives nec
+184,231111,Aeroplane Pilot
+185,231112,Air Traffic Controller
+186,231113,Flying Instructor
+187,231114,Helicopter Pilot
+188,231199,Air Transport Professionals nec
+189,231211,Master Fisher
+190,231212,Ship's Engineer
+191,231213,Ship's Master
+192,231214,Ship's Officer
+193,231215,Marine Surveyor
+194,231299,Marine Transport Professionals nec
+195,232111,Architect
+196,232112,Landscape Architect
+197,232212,Surveyor
+198,232213,Cartographer
+199,232214,Other Spatial Scientist
+200,232311,Fashion Designer
+201,232312,Industrial Designer
+202,232313,Jewellery Designer
+203,232411,Graphic Designer
+204,232412,Illustrator
+205,232413,Multimedia Designer
+206,232414,Web Designer
+207,232511,Interior Designer
+208,232611,Urban and Regional Planner
+209,233111,Chemical Engineer
+210,233112,Materials Engineer
+211,233211,Civil Engineer
+212,233212,Geotechnical Engineer
+213,233213,Quantity Surveyor
+214,233214,Structural Engineer
+215,233215,Transport Engineer
+216,233311,Electrical Engineer
+217,233411,Electronics Engineer
+218,233511,Industrial Engineer
+219,233512,Mechanical Engineer
+220,233513,Production or Plant Engineer
+221,233611,Mining Engineer (excluding Petroleum)
+222,233612,Petroleum Engineer
+223,233911,Aeronautical Engineer
+224,233912,Agricultural Engineer
+225,233913,Biomedical Engineer
+226,233914,Engineering Technologist
+227,233915,Environmental Engineer
+228,233916,Naval Architect / Marine Designer
+229,233999,Engineering Professionals nec
+230,234111,Agricultural Consultant
+231,234113,Forester / Forest Scientist
+232,234114,Agricultural Research Scientist
+233,234115,Agronomist
+234,234116,Aquaculture or Fisheries Scientist
+235,234211,Chemist
+236,234212,Food Technologist
+237,234213,Wine Maker
+238,234311,Conservation Officer
+239,234312,Environmental Consultant
+240,234313,Environmental Research Scientist
+241,234314,Park Ranger
+242,234399,Environmental Scientists nec
+243,234411,Geologist
+244,234412,Geophysicist
+245,234413,Hydrogeologist
+246,234511,Life Scientist (General)
+247,234513,Biochemist
+248,234514,Biotechnologist
+249,234515,Botanist
+250,234516,Marine Biologist
+251,234517,Microbiologist
+252,234521,Entomologist
+253,234522,Zoologist
+254,234599,Life Scientists nec
+255,234611,Medical Laboratory Scientist
+256,234612,Respiratory Scientist
+257,234711,Veterinarian
+258,234911,Conservator
+259,234912,Metallurgist
+260,234913,Meteorologist
+261,234914,Physicist
+262,234915,Exercise Physiologist
+263,234999,Natural and Physical Science Professionals nec
+264,241111,Early Childhood (Pre-primary School) Teacher
+265,241213,Primary School Teacher
+266,241311,Middle School Teacher / Intermediate School Teacher
+267,241411,Secondary School Teacher
+268,241511,Special Needs Teacher
+269,241512,Teacher of the Hearing Impaired
+270,241513,Teacher of the Sight Impaired
+271,241599,Special Education Teachers nec
+272,242111,University Lecturer
+273,242112,University Tutor
+274,242211,Vocational Education Teacher / Polytechnic Teacher
+275,249111,Education Adviser
+276,249112,Education Reviewer
+277,249211,Art Teacher (Private Tuition)
+278,249212,Dance Teacher (Private Tuition)
+279,249213,Drama Teacher (Private Tuition)
+280,249214,Music Teacher (Private Tuition)
+281,249299,Private Tutors and Teachers nec
+282,249311,Teacher of English to Speakers of Other Languages
+283,251111,Dietitian
+284,251112,Nutritionist
+285,251211,Medical Diagnostic Radiographer
+286,251212,Medical Radiation Therapist
+287,251213,Nuclear Medicine Technologist
+288,251214,Sonographer
+289,251311,Environmental Health Officer
+290,251312,Occupational Health and Safety Adviser
+291,251411,Optometrist
+292,251412,Orthoptist
+293,251511,Hospital Pharmacist
+294,251512,Industrial Pharmacist
+295,251513,Retail Pharmacist
+296,251911,Health Promotion Officer
+297,251912,Orthotist or Prosthetist
+298,251999,Health Diagnostic and Promotion Professionals nec
+299,252111,Chiropractor
+300,252112,Osteopath
+301,252211,Acupuncturist
+302,252212,Homoeopath
+303,252213,Naturopath
+304,252214,Traditional Chinese Medicine Practitioner
+305,252299,Complementary Health Therapists nec
+306,252311,Dental Specialist
+307,252312,Dentist
+308,252411,Occupational Therapist
+309,252511,Physiotherapist
+310,252611,Podiatrist
+311,252711,Audiologist
+312,252712,Speech Pathologist / Speech Language Therapist
+313,253111,General Practitioner
+314,253112,Resident Medical Officer
+315,253211,Anaesthetist
+316,253311,Specialist Physician (General Medicine)
+317,253312,Cardiologist
+318,253313,Clinical Haematologist
+319,253314,Medical Oncologist
+320,253315,Endocrinologist
+321,253316,Gastroenterologist
+322,253317,Intensive Care Specialist
+323,253318,Neurologist
+324,253321,Paediatrician
+325,253322,Renal Medicine Specialist
+326,253323,Rheumatologist
+327,253324,Thoracic Medicine Specialist
+328,253399,Specialist Physicians nec
+329,253411,Psychiatrist
+330,253511,Surgeon (General)
+331,253512,Cardiothoracic Surgeon
+332,253513,Neurosurgeon
+333,253514,Orthopaedic Surgeon
+334,253515,Otorhinolaryngologist
+335,253516,Paediatric Surgeon
+336,253517,Plastic and Reconstructive Surgeon
+337,253518,Urologist
+338,253521,Vascular Surgeon
+339,253911,Dermatologist
+340,253912,Emergency Medicine Specialist
+341,253913,Obstetrician and Gynaecologist
+342,253914,Ophthalmologist
+343,253915,Pathologist
+344,253917,Diagnostic and Interventional Radiologist
+345,253918,Radiation Oncologist
+346,253999,Medical Practitioners nec
+347,254111,Midwife
+348,254211,Nurse Educator
+349,254212,Nurse Researcher
+350,254311,Nurse Manager
+351,254411,Nurse Practitioner
+352,254412,Registered Nurse (Aged Care)
+353,254413,Registered Nurse (Child and Family Health)
+354,254414,Registered Nurse (Community Health)
+355,254415,Registered Nurse (Critical Care and Emergency)
+356,254416,Registered Nurse (Developmental Disability)
+357,254417,Registered Nurse (Disability and Rehabilitation)
+358,254418,Registered Nurse (Medical)
+359,254421,Registered Nurse (Medical Practice)
+360,254422,Registered Nurse (Mental Health)
+361,254423,Registered Nurse (Perioperative)
+362,254424,Registered Nurse (Surgical)
+363,254425,Registered Nurse (Paediatrics)
+364,254499,Registered Nurses nec
+365,261111,ICT Business Analyst
+366,261112,Systems Analyst
+367,261113,User Experience Designer (ICT)
+368,261211,Multimedia Specialist
+369,261212,Web Developer
+370,261311,Analyst Programmer
+371,261312,Developer Programmer
+372,261313,Software Engineer
+373,261314,Software Tester
+374,261315,Cyber Security Engineer
+375,261316,Devops Engineer
+376,261317,Penetration Tester
+377,261399,Software and Applications Programmers nec
+378,262111,Database Administrator
+379,262113,Systems Administrator
+380,262114,Cyber Governance Risk and Compliance Specialist
+381,262115,Cyber Security Advice and Assessment Specialist
+382,262116,Cyber Security Analyst
+383,262117,Cyber Security Architect
+384,262118,Cyber Security Operations Coordinator
+385,263111,Computer Network and Systems Engineer
+386,263112,Network Administrator
+387,263113,Network Analyst
+388,263211,ICT Quality Assurance Engineer
+389,263212,ICT Support Engineer
+390,263213,ICT Systems Test Engineer
+391,263299,ICT Support and Test Engineers nec
+392,263311,Telecommunications Engineer
+393,263312,Telecommunications Network Engineer
+394,271111,Barrister
+395,271214,Intellectual Property Lawyer
+396,271299,Judicial and Other Legal Professionals nec
+397,271311,Solicitor
+398,272111,Careers Counsellor
+399,272112,Drug and Alcohol Counsellor
+400,272113,Family and Marriage Counsellor
+401,272114,Rehabilitation Counsellor
+402,272115,Student Counsellor
+403,272199,Counsellors nec
+404,272211,Minister of Religion
+405,272311,Clinical Psychologist
+406,272312,Educational Psychologist
+407,272313,Organisational Psychologist
+408,272314,Psychotherapist
+409,272399,Psychologists nec
+410,272411,Historian
+411,272412,Interpreter
+412,272413,Translator
+413,272414,Archaeologist
+414,272499,Social Professionals nec
+415,272511,Social Worker
+416,272611,Community Arts Worker
+417,272612,Recreation Officer / Recreation Coordinator
+418,272613,Welfare Worker
+419,311112,Agricultural and Agritech Technician
+420,311113,Animal Husbandry Technician
+421,311114,Aquaculture or Fisheries Technician
+422,311115,Irrigation Designer
+423,311211,Anaesthetic Technician
+424,311212,Cardiac Technician
+425,311213,Medical Laboratory Technician
+426,311214,Operating Theatre Technician
+427,311215,Pharmacy Technician
+428,311216,Pathology Collector / Phlebotomist
+429,311217,Respiratory Technician
+430,311299,Medical Technicians nec
+431,311311,Fisheries Officer
+432,311312,Meat Inspector
+433,311313,Biosecurity Officer
+434,311314,Primary Products Quality Assurance Officer
+435,311399,Primary Products Assurance and Inspection Officers nec
+436,311411,Chemistry Technician
+437,311412,Earth Science Technician
+438,311413,Life Science Technician
+439,311414,School Laboratory Technician
+440,311415,Hydrographer
+441,311499,Science Technicians nec
+442,312111,Architectural Draftsperson
+443,312112,Building Associate
+444,312113,Building Inspector
+445,312114,Construction Estimator
+446,312115,Plumbing Inspector
+447,312116,Surveying or Spatial Science Technician
+448,312199,"Architectural, Building and Surveying Technicians nec"
+449,312211,Civil Engineering Draftsperson
+450,312212,Civil Engineering Technician
+451,312311,Electrical Engineering Draftsperson
+452,312312,Electrical Engineering Technician
+453,312411,Electronic Engineering Draftsperson
+454,312412,Electronic Engineering Technician
+455,312511,Mechanical Engineering Draftsperson
+456,312512,Mechanical Engineering Technician
+457,312611,Safety Inspector
+458,312911,Maintenance Planner
+459,312912,Metallurgical or Materials Technician
+460,312913,Mine Deputy
+461,312914,Other Draftsperson
+462,312999,Building and Engineering Technicians nec
+463,313111,Hardware Technician
+464,313112,ICT Customer Support Officer
+465,313113,Web Administrator
+466,313199,ICT Support Technicians nec
+467,313211,Radiocommunications Technician
+468,313212,Telecommunications Field Engineer
+469,313213,Telecommunications Network Planner
+470,313214,Telecommunications Technical Officer or Technologist
+471,321111,Automotive Electrician
+472,321211,Motor Mechanic (General)
+473,321212,Diesel Motor Mechanic
+474,321213,Motorcycle Mechanic
+475,321214,Small Engine Mechanic
+476,322111,Blacksmith
+477,322112,Electroplater
+478,322113,Farrier
+479,322114,Metal Casting Trades Worker
+480,322115,Metal Polisher
+481,322211,Sheetmetal Trades Worker
+482,322311,Metal Fabricator
+483,322312,Pressure Welder
+484,322313,Welder (First Class) (Aus) / Welder (NZ)
+485,323111,Aircraft Maintenance Engineer (Avionics)
+486,323112,Aircraft Maintenance Engineer (Mechanical)
+487,323113,Aircraft Maintenance Engineer (Structures)
+488,323211,Fitter (General)
+489,323212,Fitter and Turner
+490,323213,Fitter-Welder
+491,323214,Metal Machinist (First Class)
+492,323215,"Textile, Clothing and Footwear Mechanic"
+493,323299,Metal Fitters and Machinists nec
+494,323311,Engraver
+495,323312,Gunsmith
+496,323313,Locksmith
+497,323314,Precision Instrument Maker and Repairer
+498,323315,Saw Doctor
+499,323316,Watch and Clock Maker and Repairer
+500,323411,Engineering Patternmaker
+501,323412,Toolmaker
+502,324111,Panelbeater
+503,324211,Vehicle Body Builder
+504,324212,Vehicle Trimmer
+505,324311,Vehicle Painter
+506,331111,Bricklayer
+507,331112,Stonemason
+508,331211,Carpenter and Joiner
+509,331212,Carpenter
+510,331213,Joiner
+511,332111,Floor Finisher
+512,332211,Painting Trades Worker
+513,333111,Glazier
+514,333211,Fibrous Plasterer
+515,333212,Solid Plasterer
+516,333311,Roof Tiler
+517,333411,Wall and Floor Tiler
+518,334111,Plumber (General)
+519,334112,Airconditioning and Mechanical Services Plumber
+520,334113,Drainer / Drainlayer
+521,334114,Gasfitter
+522,334115,Roof Plumber
+523,341111,Electrician (General)
+524,341112,Electrician (Special Class)
+525,341113,Lift Mechanic
+526,342111,Airconditioning and Refrigeration Mechanic
+527,342211,Electrical Linesworker / Electrical Line Mechanic
+528,342212,Technical Cable Jointer
+529,342311,Business Machine Mechanic
+530,342312,Communications Operator
+531,342313,Electronic Equipment Trades Worker
+532,342314,Electronic Instrument Trades Worker (General)
+533,342315,Electronic Instrument Trades Worker (Special Class)
+534,342411,Cabler (Data and Telecommunications)
+535,342412,Telecommunications Cable Jointer
+536,342413,Telecommunications Linesworker / Telecommunications Line Mechanic
+537,342414,Telecommunications Technician
+538,351111,Baker
+539,351112,Pastrycook
+540,351211,Butcher or Smallgoods Maker
+541,351311,Chef
+542,351411,Cook
+543,361111,Dog Handler or Trainer
+544,361112,Horse Trainer
+545,361113,Pet Groomer
+546,361114,Zookeeper
+547,361115,Kennel Hand
+548,361116,Track Rider
+549,361199,Animal Attendants and Trainers nec
+550,361311,Veterinary Nurse
+551,362111,Florist
+552,362312,Sports Turf Manager
+553,362313,Sports Turf Trades Worker
+554,362411,Nurseryperson
+555,362511,Arborist
+556,362512,Tree Worker
+557,362611,Gardener (General)
+558,362711,Landscape Gardener
+559,362712,Irrigation Technician
+560,363111,Aquaculture Supervisor
+561,363112,Fishing Leading Hand
+562,363113,Forestry Operations Supervisor
+563,363114,Horticultural Supervisor or Specialist
+564,363115,Senior Broadacre Crop and Livestock Farm Worker
+565,363116,Senior Broadacre Crop Farm Worker
+566,363117,Vineyard Supervisor
+567,363199,"Senior Aquaculture, Crop and Forestry Workers nec"
+568,363211,Senior Beef Cattle Station Worker
+569,363212,Senior Cattle and Sheep Farm Worker
+570,363213,Senior Dairy Cattle Farm Worker
+571,363214,Senior Piggery Stockperson
+572,363215,Senior Sheep Farm Worker
+573,363299,Senior Livestock Farm Workers nec
+574,363311,Shearer
+575,363312,Wool Classer
+576,391111,Hairdresser
+577,392111,Print Finisher
+578,392112,Screen Printer
+579,392211,Graphic Pre-press Trades Worker
+580,392311,Printing Machinist
+581,392312,Small Offset Printer
+582,393111,Canvas Goods Fabricator
+583,393112,Leather Goods Maker
+584,393113,Sail Maker
+585,393114,Shoemaker
+586,393211,Apparel Cutter
+587,393212,Clothing Patternmaker
+588,393213,Dressmaker or Tailor
+589,393299,Clothing Trades Workers nec
+590,393311,Upholsterer
+591,394111,Cabinetmaker
+592,394211,Furniture Finisher
+593,394212,Picture Framer
+594,394213,Wood Machinist
+595,394214,Wood Turner
+596,394299,Wood Machinists and Other Wood Trades Workers nec
+597,399111,Boat Builder and Repairer
+598,399112,Shipwright
+599,399211,Chemical Plant Operator
+600,399212,Gas or Petroleum Operator
+601,399213,Power Generation Plant Operator
+602,399311,Gallery or Museum Technician
+603,399312,Library Technician
+604,399411,Jeweller
+605,399511,Broadcast Transmitter Operator
+606,399512,"Camera Operator (Film, Television or Video)"
+607,399513,Light Technician
+608,399514,Make Up Artist
+609,399515,Musical Instrument Maker or Repairer
+610,399516,Sound Technician
+611,399517,Television Equipment Operator
+612,399599,Performing Arts Technicians nec
+613,399611,Signwriter
+614,399911,Diver
+615,399912,Interior Decorator
+616,399913,Optical Dispenser / Dispensing Optician
+617,399914,Optical Mechanic
+618,399915,Photographer's Assistant
+619,399916,Plastics Technician
+620,399918,Fire Protection Equipment Technician
+621,399999,Technicians and Trades Workers nec
+622,411111,Ambulance Officer
+623,411112,Intensive Care Ambulance Paramedic (Aus) / Ambulance Paramedic (NZ)
+624,411211,Dental Hygienist
+625,411212,Dental Prosthetist
+626,411213,Dental Technician
+627,411214,Dental Therapist
+628,411311,Diversional Therapist
+629,411411,Enrolled Nurse
+630,411412,Mothercraft Nurse
+631,411511,Aboriginal and Torres Strait Islander Health Worker
+632,411611,Massage Therapist
+633,411711,Community Worker
+634,411712,Disabilities Services Officer
+635,411713,Family Support Worker
+636,411714,Parole or Probation Officer
+637,411715,Residential Care Officer
+638,411716,Youth Worker
+639,421111,Child Care Worker
+640,421112,Family Day Care Worker
+641,421113,Nanny
+642,421114,Out of School Hours Care Worker
+643,422111,Aboriginal and Torres Strait Islander Education Worker
+644,422112,Integration Aide
+645,422115,Preschool Aide
+646,422116,Teachers' Aide
+647,423111,Aged or Disabled Carer
+648,423211,Dental Assistant
+649,423311,Hospital Orderly
+650,423312,Nursing Support Worker
+651,423313,Personal Care Assistant
+652,423314,Therapy Aide
+653,423411,Child or Youth Residential Care Assistant
+654,423412,Hostel Parent
+655,423413,Refuge Worker
+656,431111,Bar Attendant
+657,431112,Barista
+658,431311,Gaming Worker
+659,431411,Hotel Service Manager
+660,431511,Waiter
+661,441211,Emergency Service Worker
+662,441212,Fire Fighter
+663,441311,Detective
+664,441312,Police Officer
+665,442111,Prison Officer
+666,442213,Crowd Controller
+667,442214,Private Investigator
+668,442216,Security Consultant
+669,442217,Security Officer
+670,451111,Beauty Therapist
+671,451211,Driving Instructor
+672,451311,Funeral Director
+673,451399,Funeral Workers nec
+674,451411,Gallery or Museum Guide
+675,451412,Tour Guide
+676,451511,Natural Remedy Consultant
+677,451512,Weight Loss Consultant
+678,451513,Herbalist (Western)
+679,451611,Tourist Information Officer
+680,451612,Travel Consultant
+681,451711,Flight Attendant
+682,451799,Travel Attendants nec
+683,451811,Civil Celebrant
+684,451814,Body Artist
+685,451815,First Aid Trainer
+686,451816,Religious Assistant
+687,451899,Personal Service Workers nec
+688,452111,Fitness Instructor
+689,452211,Bungy Jump Master
+690,452212,Fishing Guide
+691,452213,Hunting Guide
+692,452214,Mountain or Glacier Guide
+693,452215,Outdoor Adventure Instructor
+694,452216,Trekking Guide
+695,452217,Whitewater Rafting Guide
+696,452299,Outdoor Adventure Guides nec
+697,452311,Diving Instructor (Open Water)
+698,452312,Gymnastics Coach or Instructor
+699,452313,Horse Riding Coach or Instructor
+700,452314,Snowsport Instructor
+701,452315,Swimming Coach or Instructor
+702,452316,Tennis Coach
+703,452317,Other Sports Coach or Instructor
+704,452318,Dog and Horse Racing Official
+705,452321,Sports Development Officer
+706,452322,Sports Umpire
+707,452323,Other Sports Official
+708,452411,Footballer
+709,452412,Golfer
+710,452413,Jockey
+711,452414,Lifeguard
+712,452499,Sportspersons nec
+713,511111,Contract Administrator
+714,511112,Program or Project Administrator
+715,512111,Office Manager
+716,512211,Health Practice Manager
+717,512299,Practice Managers nec
+718,521111,Personal Assistant
+719,521211,Secretary (General)
+720,521212,Legal Secretary
+721,531111,General Clerk
+722,532111,Data Entry Operator
+723,532112,Machine Shorthand Reporter
+724,532113,Word Processing Operator
+725,541111,Call or Contact Centre Team Leader
+726,541112,Call or Contact Centre Operator
+727,541211,Information Officer
+728,542111,Receptionist (General)
+729,542112,Admissions Clerk
+730,542113,Hotel or Motel Receptionist
+731,542114,Medical Receptionist
+732,551111,Accounts Clerk
+733,551112,Cost Clerk
+734,551211,Bookkeeper
+735,551311,Payroll Clerk
+736,552111,Bank Worker
+737,552211,Credit or Loans Officer (Aus) / Finance Clerk (NZ)
+738,552311,Bookmaker
+739,552312,Insurance Consultant
+740,552313,Money Market Clerk
+741,552314,Statistical Clerk
+742,591112,Production Clerk
+743,591113,Purchasing Officer
+744,591115,Stock Clerk
+745,591116,Warehouse Administrator
+746,591117,Order Clerk
+747,591211,Despatching and Receiving Clerk
+748,591212,Import-Export Clerk
+749,599111,Conveyancer
+750,599112,Legal Executive
+751,599211,Clerk of Court
+752,599212,Court Bailiff or Sheriff (Aus) / Court Collections Officer (NZ)
+753,599213,Court Orderly (Aus) / Court Registry Officer (NZ)
+754,599214,Law Clerk
+755,599215,Trust Officer
+756,599311,Debt Collector
+757,599411,Human Resource Clerk
+758,599511,Customs Officer
+759,599512,Immigration Officer
+760,599513,Motor Vehicle Licence Examiner
+761,599514,"Invasive Pest, Weed and Disease Inspector"
+762,599515,Social Security Assessor
+763,599516,Taxation Inspector
+764,599517,Train Examiner
+765,599518,Transport Operations Inspector
+766,599521,Water Inspector
+767,599599,Inspectors and Regulatory Officers nec
+768,599611,Insurance Investigator
+769,599612,Insurance Loss Adjuster
+770,599613,Insurance Risk Surveyor
+771,599711,Library Assistant
+772,599912,"Production Assistant (Film, Television, Radio or Stage)"
+773,599913,Proof Reader
+774,599914,Radio Despatcher
+775,599915,Clinical Coder
+776,599916,Facilities Administrator
+777,599999,Clerical and Administrative Workers nec
+778,611111,Auctioneer
+779,611112,Stock and Station Agent
+780,611211,Insurance Agent
+781,611311,Sales Representative (Building and Plumbing Supplies)
+782,611312,Sales Representative (Business Services)
+783,611313,Sales Representative (Motor Vehicle Parts and Accessories)
+784,611314,Sales Representative (Personal and Household Goods)
+785,611399,Sales Representatives nec
+786,612111,Business Broker
+787,612112,Property Manager
+788,612113,Real Estate Agency Principal / Real Estate Agency Licensee
+789,612114,Real Estate Agent
+790,612115,Real Estate Representative
+791,621311,Motor Vehicle or Caravan Salesperson
+792,621312,Motor Vehicle Parts Interpreter / Automotive Parts Salesperson
+793,621411,Pharmacy Sales Assistant
+794,621511,Retail Supervisor
+795,639211,Retail Buyer
+796,639212,Wool Buyer
+797,639511,Visual Merchandiser
+798,639911,Other Sales Support Worker
+799,711111,Clay Products Machine Operator
+800,711112,Concrete Products Machine Operator
+801,711113,Glass Production Machine Operator
+802,711114,Stone Processing Machine Operator
+803,711199,"Clay, Concrete, Glass and Stone Processing Machine Operators nec"
+804,711211,Industrial Spraypainter
+805,711311,Paper Products Machine Operator
+806,711313,Sawmilling Operator
+807,711314,Other Wood Processing Machine Operator
+808,711411,Photographic Developer and Printer
+809,711511,Plastic Cablemaking Machine Operator
+810,711512,Plastic Compounding and Reclamation Machine Operator
+811,711513,Plastics Fabricator or Welder
+812,711514,Plastics Production Machine Operator (General)
+813,711515,Reinforced Plastic and Composite Production Worker
+814,711516,Rubber Production Machine Operator
+815,711599,Plastics and Rubber Production Machine Operators nec
+816,711611,Sewing Machinist
+817,711711,Footwear Production Machine Operator
+818,711712,Hide and Skin Processing Machine Operator
+819,711713,Knitting Machine Operator
+820,711714,Textile Dyeing and Finishing Machine Operator
+821,711715,Weaving Machine Operator
+822,711716,Yarn Carding and Spinning Machine Operator
+823,711799,Textile and Footwear Production Machine Operators nec
+824,711911,Chemical Production Machine Operator
+825,711912,Motion Picture Projectionist
+826,711913,Sand Blaster
+827,711914,Sterilisation Technician
+828,711999,Machine Operators nec
+829,712111,"Crane, Hoist or Lift Operator"
+830,712211,Driller
+831,712212,Miner
+832,712213,Shot Firer
+833,712311,Engineering Production Worker
+834,712911,Boiler or Engine Operator
+835,712912,Bulk Materials Handling Plant Operator
+836,712913,Cement Production Plant Operator
+837,712914,Concrete Batching Plant Operator
+838,712915,Concrete Pump Operator
+839,712916,Paper and Pulp Mill Operator
+840,712917,Railway Signal Operator
+841,712918,Train Controller
+842,712921,Waste Water or Water Plant Operator
+843,712922,Weighbridge Operator
+844,712999,Stationary Plant Operators nec
+845,721111,Agricultural and Horticultural Mobile Plant Operator
+846,721112,Logging Plant Operator
+847,721211,Earthmoving Plant Operator (General)
+848,721212,Backhoe Operator
+849,721213,Bulldozer Operator
+850,721214,Excavator Operator
+851,721215,Grader Operator
+852,721216,Loader Operator
+853,721311,Forklift Driver
+854,721911,Aircraft Baggage Handler and Airline Ground Crew
+855,721912,Linemarker
+856,721913,Paving Plant Operator
+857,721914,Railway Track Plant Operator
+858,721915,Road Roller Operator
+859,721916,Streetsweeper Operator
+860,721999,Mobile Plant Operators nec
+861,731111,Chauffeur
+862,731112,Taxi Driver
+863,731199,Automobile Drivers nec
+864,731211,Bus Driver
+865,731212,Charter and Tour Bus Driver
+866,731213,Passenger Coach Driver
+867,731311,Train Driver
+868,731312,Tram Driver
+869,732111,Delivery Driver
+870,733111,Truck Driver (General)
+871,733112,Aircraft Refueller
+872,733113,Furniture Removalist
+873,733114,Tanker Driver
+874,733115,Tow Truck Driver
+875,741111,Storeperson
+876,811611,Carpet Cleaner
+877,821311,Fencer
+878,821411,Building Insulation Installer
+879,821412,Home Improvement Installer
+880,821611,Railway Track Worker
+881,821711,Construction Rigger
+882,821712,Scaffolder
+883,821713,Steel Fixer
+884,821714,Structural Steel Erector
+885,821911,Crane Chaser
+886,831211,Meat Boner and Slicer
+887,831212,Slaughterer
+888,839311,Product Examiner
+889,839312,Product Grader
+890,839313,Product Tester
+891,842211,Cotton Farm Worker
+892,842214,"Grain, Oilseed, Pulse and Pasture Farm Worker (Aus) / Field Farm Worker (NZ)"
+893,842217,Sugar Cane Farm Worker
+894,842222,Vineyard Worker
+895,842311,Beef Cattle Farm Worker
+896,842312,Cattle and Sheep Farm Worker
+897,842313,Dairy Cattle Farm Worker
+898,842314,Livestock Husbandry Worker
+899,842315,Piggery Farm Worker
+900,842316,Poultry Farm Worker
+901,842317,Sheep Farm Worker
+902,843111,Forestry Worker
+903,843112,Logging Assistant
+904,843113,Tree Faller
+905,843411,Pest Control Technician
+906,899211,Deck Hand
+907,899212,Fishing Hand
+908,899411,Motor Vehicle Parts and Accessories Fitter (General)
+909,899412,Autoglazier
+910,899413,Exhaust and Muffler Repairer
+911,899414,Radiator Repairer
+912,899415,Tyre Fitter
+913,899511,Printer's Assistant
+914,899512,Printing Table Worker

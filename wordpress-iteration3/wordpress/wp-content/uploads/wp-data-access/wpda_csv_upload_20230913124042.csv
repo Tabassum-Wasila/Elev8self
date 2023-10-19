@@ -1,0 +1,858 @@
+Number,Occupations
+1,Chief Executives and Managing Directors
+2,General Managers
+3,Livestock Farmers
+4,Corporate Services Managers
+5,Finance Managers
+6,Human Resource Managers
+7,Policy and Planning Managers
+8,Research and Development Managers
+9,Construction Managers
+10,Engineering Managers
+11,"Importers, Exporters and Wholesalers"
+12,"Supply, Distribution and Procurement Managers"
+13,Child Care Centre Managers
+14,Health and Welfare Services Managers
+15,School Principals
+16,Other Education Managers
+17,ICT Managers
+18,Cafe and Restaurant Managers
+19,Hotel and Motel Managers
+20,Licensed Club Managers
+21,Retail Managers
+22,"Amusement, Fitness and Sports Centre Managers"
+23,Conference and Event Organisers
+24,Photographers
+25,Visual Arts and Crafts Professionals
+26,"Film, Television, Radio and Stage Directors"
+27,Journalists and Other Writers
+28,Financial Brokers
+29,Financial Dealers
+30,Training and Development Professionals
+31,Economists
+32,Land Economists and Valuers
+33,Librarians
+34,Advertising and Marketing Professionals
+35,ICT Sales Professionals
+36,Public Relations Professionals
+37,Technical Sales Representatives
+38,Air Transport Professionals
+39,Surveyors and Spatial Scientists
+40,Interior Designers
+41,Urban and Regional Planners
+42,Electrical Engineers
+43,Electronics Engineers
+44,"Geologists, Geophysicists and Hydrogeologists"
+45,Veterinarians
+46,Early Childhood (Pre-primary School) Teachers
+47,Primary School Teachers
+48,Middle School Teachers / Intermediate School Teachers
+49,Secondary School Teachers
+50,Special Education Teachers
+51,Vocational Education Teachers / Polytechnic Teachers
+52,Education Advisers and Reviewers
+53,Private Tutors and Teachers
+54,Nutrition Professionals
+55,Chiropractors and Osteopaths
+56,Complementary Health Therapists
+57,Dental Practitioners
+58,Occupational Therapists
+59,Physiotherapists
+60,Podiatrists
+61,Audiologists and Speech Pathologists / Therapists
+62,General Practitioners and Resident Medical Officers
+63,Anaesthetists
+64,Specialist Physicians
+65,Psychiatrists
+66,Surgeons
+67,Midwives
+68,Nurse Managers
+69,Registered Nurses
+70,ICT Business and Systems Analysts
+71,Software and Applications Programmers
+72,"Database and Systems Administrators, and ICT Security Specialists"
+73,ICT Support and Test Engineers
+74,Telecommunications Engineering Professionals
+75,Barristers
+76,Judicial and Other Legal Professionals
+77,Solicitors
+78,Counsellors
+79,Ministers of Religion
+80,Social Professionals
+81,Social Workers
+82,Electronic Engineering Draftspersons and Technicians
+83,Telecommunications Technical Specialists
+84,Automotive Electricians
+85,"Metal Casting, Forging and Finishing Trades Workers"
+86,Sheetmetal Trades Workers
+87,Precision Metal Trades Workers
+88,Panelbeaters
+89,Vehicle Body Builders and Trimmers
+90,Vehicle Painters
+91,Floor Finishers
+92,Painting Trades Workers
+93,Glaziers
+94,Roof Tilers
+95,Wall and Floor Tilers
+96,Electricians
+97,Airconditioning and Refrigeration Mechanics
+98,Electrical Distribution Trades Workers
+99,Telecommunications Trades Workers
+100,Bakers and Pastrycooks
+101,Butchers and Smallgoods Makers
+102,Chefs
+103,Cooks
+104,Animal Attendants and Trainers
+105,Veterinary Nurses
+106,Florists
+107,Nurserypersons
+108,Gardeners (General)
+109,Landscape Gardeners and Irrigation Technicians
+110,Shearers and Wool Classers
+111,Hairdressers
+112,Graphic Pre-press Trades Workers
+113,Printers
+114,Upholsterers
+115,Cabinetmakers
+116,Boat Builders and Shipwrights
+117,Jewellers
+118,Signwriters
+119,Other Miscellaneous Technicians and Trades Workers
+120,Ambulance Officers and Paramedics
+121,Diversional Therapists
+122,Enrolled and Mothercraft Nurses
+123,Indigenous Health Workers
+124,Massage Therapists
+125,Welfare Support Workers
+126,Education Aides
+127,Aged and Disabled Carers
+128,Dental Assistants
+129,Nursing Support and Personal Care Workers
+130,Special Care Workers
+131,Bar Attendants and Baristas
+132,Cafe Workers
+133,Gaming Workers
+134,Hotel Service Managers
+135,Waiters
+136,Prison Officers
+137,Beauty Therapists
+138,Driving Instructors
+139,Funeral Workers
+140,"Gallery, Museum and Tour Guides"
+141,Travel Attendants
+142,Fitness Instructors
+143,Outdoor Adventure Guides
+144,"Sports Coaches, Instructors and Officials"
+145,Sportspersons
+146,Office Managers
+147,Personal Assistants
+148,General Clerks
+149,Information Officers
+150,Bookkeepers
+151,Payroll Clerks
+152,Bank Workers
+153,Credit and Loans Officers
+154,Betting Clerks
+155,Filing and Registry Clerks
+156,Mail Sorters
+157,Survey Interviewers
+158,Switchboard Operators
+159,Transport and Despatch Clerks
+160,Conveyancers and Legal Executives
+161,Court and Legal Clerks
+162,Debt Collectors
+163,Human Resource Clerks
+164,Inspectors and Regulatory Officers
+165,"Insurance Investigators, Loss Adjusters and Risk Surveyors"
+166,Library Assistants
+167,"Auctioneers, and Stock and Station Agents"
+168,Insurance Agents
+169,Sales Representatives
+170,Sales Assistants (General)
+171,Pharmacy Sales Assistants
+172,Retail Supervisors
+173,Service Station Attendants
+174,Street Vendors and Related Salespersons
+175,Checkout Operators and Office Cashiers
+176,Telemarketers
+177,Ticket Salespersons
+178,Visual Merchandisers
+179,"Clay, Concrete, Glass and Stone Processing Machine Operators"
+180,Industrial Spraypainters
+181,Paper and Wood Processing Machine Operators
+182,Photographic Developers and Printers
+183,Plastics and Rubber Production Machine Operators
+184,Sewing Machinists
+185,Textile and Footwear Production Machine Operators
+186,"Crane, Hoist and Lift Operators"
+187,Engineering Production Workers
+188,Forklift Drivers
+189,Other Mobile Plant Operators
+190,Automobile Drivers
+191,Bus and Coach Drivers
+192,Delivery Drivers
+193,Truck Drivers
+194,Storepersons
+195,Car Detailers
+196,Commercial Cleaners
+197,Domestic Cleaners
+198,Housekeepers
+199,Laundry Workers
+200,Other Cleaners
+201,Building and Plumbing Labourers
+202,Concreters
+203,Fencers
+204,Paving and Surfacing Labourers
+205,Railway Track Workers
+206,Food and Drink Factory Workers
+207,"Meat Boners and Slicers, and Slaughterers"
+208,"Meat, Poultry and Seafood Process Workers"
+209,Packers
+210,Product Assemblers
+211,Plastics and Rubber Factory Workers
+212,Timber and Wood Process Workers
+213,Other Factory Process Workers
+214,Crop Farm Workers
+215,Livestock Farm Workers
+216,Garden Labourers
+217,Horticultural Nursery Assistants
+218,Pest Control Technicians
+219,Fast Food Cooks
+220,Food Trades Assistants
+221,Kitchenhands
+222,Freight and Furniture Handlers
+223,Shelf Fillers
+224,Caretakers
+225,Handypersons
+226,Motor Vehicle Parts and Accessories Fitters
+227,Printing Assistants and Table Workers
+228,Recycling and Rubbish Collectors
+229,Vending Machine Attendants
+230,Chief Executive or Managing Director
+231,Sales and Marketing Manager
+232,Advertising Manager
+233,Public Relations Manager
+234,Corporate Services Manager
+235,Finance Manager
+236,Human Resource Manager
+237,Policy and Planning Manager
+238,Research and Development Manager
+239,Engineering Manager
+240,Production Manager (Manufacturing)
+241,Production Manager (Mining)
+242,Child Care Centre Manager
+243,Medical Administrator / Medical Superintendent
+244,Nursing Clinical Director
+245,Primary Health Organisation Manager
+246,Welfare Centre Manager
+247,School Principal
+248,Faculty Head
+249,Chief Information Officer
+250,Environmental Manager
+251,Laboratory Manager
+252,Quality Assurance Manager
+253,Cafe or Restaurant Manager
+254,Hotel or Motel Manager
+255,Licensed Club Manager
+256,Hair or Beauty Salon Manager
+257,Post Office Manager
+258,Call or Contact Centre Manager
+259,Customer Service Manager
+260,Conference and Event Organiser
+261,Fleet Manager
+262,Transport Company Manager
+263,Facilities Manager
+264,Financial Institution Branch Manager
+265,Actor
+266,Dancer or Choreographer
+267,Entertainer or Variety Artist
+268,Composer
+269,Musician (Instrumental)
+270,Singer
+271,Photographer
+272,Artistic Director
+273,Media Producer (excluding Video)
+274,Radio Presenter
+275,Author
+276,Book or Script Editor
+277,"Art Director (Film, Television or Stage)"
+278,"Director (Film, Television, Radio or Stage)"
+279,Director of Photography
+280,Film and Video Editor
+281,Program Director (Television or Radio)
+282,Stage Manager
+283,Technical Director
+284,Video Producer
+285,Copywriter
+286,Technical Writer
+287,Accountant (General)
+288,Management Accountant
+289,Taxation Accountant
+290,Corporate Treasurer
+291,External Auditor
+292,Internal Auditor
+293,Commodities Trader
+294,Financial Investment Adviser
+295,Financial Investment Manager
+296,Human Resource Adviser
+297,Recruitment Consultant
+298,Workplace Relations Adviser
+299,Training and Development Professional
+300,Actuary
+301,Mathematician
+302,Statistician
+303,Archivist
+304,Gallery or Museum Curator
+305,Health Information Manager
+306,Records Manager
+307,Economist
+308,Intelligence Officer
+309,Policy Analyst
+310,Valuer
+311,Librarian
+312,Management Consultant
+313,Organisation and Methods Analyst
+314,Liaison Officer
+315,Market Research Analyst
+316,Marketing Specialist
+317,Content Creator (Marketing)
+318,Digital Marketing Analyst
+319,Public Relations Professional
+320,Sales Representative (Industrial Products)
+321,Sales Representative (Medical and Pharmaceutical Products)
+322,Aeroplane Pilot
+323,Air Traffic Controller
+324,Flying Instructor
+325,Helicopter Pilot
+326,Ship's Master
+327,Ship's Officer
+328,Architect
+329,Landscape Architect
+330,Surveyor
+331,Cartographer
+332,Other Spatial Scientist
+333,Fashion Designer
+334,Industrial Designer
+335,Graphic Designer
+336,Illustrator
+337,Multimedia Designer
+338,Web Designer
+339,Interior Designer
+340,Urban and Regional Planner
+341,Chemical Engineer
+342,Materials Engineer
+343,Civil Engineer
+344,Geotechnical Engineer
+345,Quantity Surveyor
+346,Structural Engineer
+347,Transport Engineer
+348,Electrical Engineer
+349,Electronics Engineer
+350,Industrial Engineer
+351,Mechanical Engineer
+352,Production or Plant Engineer
+353,Mining Engineer (excluding Petroleum)
+354,Petroleum Engineer
+355,Aeronautical Engineer
+356,Biomedical Engineer
+357,Engineering Technologist
+358,Environmental Engineer
+359,Naval Architect / Marine Designer
+360,Chemist
+361,Food Technologist
+362,Wine Maker
+363,Conservation Officer
+364,Environmental Consultant
+365,Environmental Research Scientist
+366,Park Ranger
+367,Life Scientist (General)
+368,Biochemist
+369,Biotechnologist
+370,Botanist
+371,Microbiologist
+372,Zoologist
+373,Medical Laboratory Scientist
+374,Respiratory Scientist
+375,Veterinarian
+376,Conservator
+377,Metallurgist
+378,Meteorologist
+379,Physicist
+380,Early Childhood (Pre-primary School) Teacher
+381,Primary School Teacher
+382,Middle School Teacher / Intermediate School Teacher
+383,Secondary School Teacher
+384,University Lecturer
+385,University Tutor
+386,Vocational Education Teacher / Polytechnic Teacher
+387,Dance Teacher (Private Tuition)
+388,Music Teacher (Private Tuition)
+389,Dietitian
+390,Nutritionist
+391,Medical Diagnostic Radiographer
+392,Medical Radiation Therapist
+393,Nuclear Medicine Technologist
+394,Sonographer
+395,Environmental Health Officer
+396,Occupational Health and Safety Adviser
+397,Optometrist
+398,Orthoptist
+399,Hospital Pharmacist
+400,Retail Pharmacist
+401,Health Promotion Officer
+402,Orthotist or Prosthetist
+403,Acupuncturist
+404,Naturopath
+405,Occupational Therapist
+406,Physiotherapist
+407,Podiatrist
+408,Audiologist
+409,Speech Pathologist / Speech Language Therapist
+410,General Practitioner
+411,Resident Medical Officer
+412,Anaesthetist
+413,Intensive Care Specialist
+414,Neurologist
+415,Paediatrician
+416,Thoracic Medicine Specialist
+417,Psychiatrist
+418,Dermatologist
+419,Emergency Medicine Specialist
+420,Obstetrician and Gynaecologist
+421,Ophthalmologist
+422,Pathologist
+423,Diagnostic and Interventional Radiologist
+424,Midwife
+425,Nurse Educator
+426,Nurse Researcher
+427,Nurse Manager
+428,Nurse Practitioner
+429,Registered Nurse (Aged Care)
+430,Registered Nurse (Child and Family Health)
+431,Registered Nurse (Community Health)
+432,Registered Nurse (Critical Care and Emergency)
+433,Registered Nurse (Developmental Disability)
+434,Registered Nurse (Disability and Rehabilitation)
+435,Registered Nurse (Medical)
+436,Registered Nurse (Medical Practice)
+437,Registered Nurse (Mental Health)
+438,Registered Nurse (Perioperative)
+439,Registered Nurse (Surgical)
+440,Registered Nurse (Paediatrics)
+441,User Experience Designer (ICT)
+442,Multimedia Specialist
+443,Web Developer
+444,Analyst Programmer
+445,Developer Programmer
+446,Software Engineer
+447,Software Tester
+448,Cyber Security Engineer
+449,DevOps Engineer
+450,Penetration Tester
+451,Database Administrator
+452,Systems Administrator
+453,Cyber Governance Risk and Compliance Specialist
+454,Cyber Security Advice and Assessment Specialist
+455,Cyber Security Analyst
+456,Cyber Security Architect
+457,Cyber Security Operations Coordinator
+458,Computer Network and Systems Engineer
+459,Network Administrator
+460,Network Analyst
+461,ICT Quality Assurance Engineer
+462,ICT Support Engineer
+463,ICT Systems Test Engineer
+464,Barrister
+465,Solicitor
+466,Careers Counsellor
+467,Drug and Alcohol Counsellor
+468,Family and Marriage Counsellor
+469,Rehabilitation Counsellor
+470,Student Counsellor
+471,Minister of Religion
+472,Clinical Psychologist
+473,Educational Psychologist
+474,Organisational Psychologist
+475,Historian
+476,Interpreter
+477,Translator
+478,Social Worker
+479,Recreation Officer / Recreation Coordinator
+480,Welfare Worker
+481,Anaesthetic Technician
+482,Cardiac Technician
+483,Medical Laboratory Technician
+484,Operating Theatre Technician
+485,Pharmacy Technician
+486,Pathology Collector / Phlebotomist
+487,Respiratory Technician
+488,Chemistry Technician
+489,Earth Science Technician
+490,Life Science Technician
+491,Architectural Draftsperson
+492,Building Associate
+493,Building Inspector
+494,Construction Estimator
+495,Surveying or Spatial Science Technician
+496,Civil Engineering Draftsperson
+497,Civil Engineering Technician
+498,Electrical Engineering Draftsperson
+499,Electrical Engineering Technician
+500,Mechanical Engineering Draftsperson
+501,Mechanical Engineering Technician
+502,Hardware Technician
+503,ICT Customer Support Officer
+504,Web Administrator
+505,Automotive Electrician
+506,Motor Mechanic (General)
+507,Diesel Motor Mechanic
+508,Motorcycle Mechanic
+509,Small Engine Mechanic
+510,Sheetmetal Trades Worker
+511,Metal Fabricator
+512,Welder (First Class)
+513,Aircraft Maintenance Engineer (Avionics)
+514,Aircraft Maintenance Engineer (Mechanical)
+515,Fitter (General)
+516,Metal Machinist (First Class)
+517,Engraver
+518,Gunsmith
+519,Locksmith
+520,Precision Instrument Maker and Repairer
+521,Saw Doctor
+522,Watch and Clock Maker and Repairer
+523,Engineering Patternmaker
+524,Toolmaker
+525,Panelbeater
+526,Vehicle Painter
+527,Bricklayer
+528,Stonemason
+529,Carpenter
+530,Joiner
+531,Floor Finisher
+532,Painting Trades Worker
+533,Glazier
+534,Fibrous Plasterer
+535,Solid Plasterer
+536,Roof Tiler
+537,Wall and Floor Tiler
+538,Plumber (General)
+539,Drainer / Drainlayer
+540,Gasfitter
+541,Roof Plumber
+542,Electrician (General)
+543,Electrician (Special Class)
+544,Lift Mechanic
+545,Airconditioning and Refrigeration Mechanic
+546,Business Machine Mechanic
+547,Communications Operator
+548,Electronic Equipment Trades Worker
+549,Electronic Instrument Trades Worker (General)
+550,Cabler (Data And Telecommunications)
+551,Telecommunications Cable Jointer
+552,Telecommunications Linesworker / Telecommunications Line Mechanic
+553,Telecommunications Technician
+554,Baker
+555,Pastrycook
+556,Butcher or Smallgoods Maker
+557,Chef
+558,Cook
+559,Pet Groomer
+560,Veterinary Nurse
+561,Florist
+562,Nurseryperson
+563,Arborist
+564,Gardener (General)
+565,Landscape Gardener
+566,Irrigation Technician
+567,Shearer
+568,Wool Classer
+569,Hairdresser
+570,Print Finisher
+571,Screen Printer
+572,Graphic Pre-press Trades Worker
+573,Clothing Patternmaker
+574,Dressmaker or Tailor
+575,Upholsterer
+576,Cabinetmaker
+577,Furniture Finisher
+578,Wood Machinist
+579,Gas or Petroleum Operator
+580,Power Generation Plant Operator
+581,Gallery or Museum Technician
+582,Library Technician
+583,Jeweller
+584,Broadcast Transmitter Operator
+585,"Camera Operator (Film, Television or Video)"
+586,Make Up Artist
+587,Musical Instrument Maker or Repairer
+588,Sound Technician
+589,Signwriter
+590,Diver
+591,Interior Decorator
+592,Optical Dispenser / Dispensing Optician
+593,Optical Mechanic
+594,Photographer's Assistant
+595,Plastics Technician
+596,Fire Protection Equipment Technician
+597,Ambulance Officer
+598,Intensive Care Ambulance Paramedic
+599,Dental Hygienist
+600,Dental Technician
+601,Dental Therapist
+602,Diversional Therapist
+603,Enrolled Nurse
+604,Mothercraft Nurse
+605,Aboriginal and Torres Strait Islander Health Worker
+606,Massage Therapist
+607,Community Worker
+608,Disabilities Services Officer
+609,Family Support Worker
+610,Parole or Probation Officer
+611,Residential Care Officer
+612,Youth Worker
+613,Child Care Worker
+614,Nanny
+615,Integration Aide
+616,Aged or Disabled Carer
+617,Dental Assistant
+618,Hospital Orderly
+619,Nursing Support Worker
+620,Personal Care Assistant
+621,Therapy Aide
+622,Bar Attendant
+623,Barista
+624,Cafe Worker
+625,Gaming Worker
+626,Hotel Service Manager
+627,Waiter
+628,Doorperson or Luggage Porter
+629,Emergency Service Worker
+630,Fire Fighter
+631,Detective
+632,Police Officer
+633,Prison Officer
+634,Private Investigator
+635,Retail Loss Prevention Officer
+636,Security Consultant
+637,Security Officer
+638,Beauty Therapist
+639,Driving Instructor
+640,Travel Consultant
+641,Flight Attendant
+642,Fitness Instructor
+643,Bungy Jump Master
+644,Fishing Guide
+645,Hunting Guide
+646,Mountain or Glacier Guide
+647,Outdoor Adventure Instructor
+648,Trekking Guide
+649,Whitewater Rafting Guide
+650,Sports Umpire
+651,Lifeguard
+652,Contract Administrator
+653,Program or Project Administrator
+654,Office Manager
+655,Health Practice Manager
+656,Personal Assistant
+657,Secretary (General)
+658,Legal Secretary
+659,General Clerk
+660,Data Entry Operator
+661,Word Processing Operator
+662,Call or Contact Centre Team Leader
+663,Call or Contact Centre Operator
+664,Information Officer
+665,Receptionist (General)
+666,Admissions Clerk
+667,Hotel or Motel Receptionist
+668,Medical Receptionist
+669,Accounts Clerk
+670,Cost Clerk
+671,Bookkeeper
+672,Payroll Clerk
+673,Bank Worker
+674,Credit or Loans Officer
+675,Insurance Consultant
+676,Statistical Clerk
+677,Courier
+678,Postal Delivery Officer
+679,Filing or Registry Clerk
+680,Mail Clerk
+681,Survey Interviewer
+682,Switchboard Operator
+683,Meter Reader
+684,Parking Inspector
+685,Production Clerk
+686,Purchasing Officer
+687,Stock Clerk
+688,Warehouse Administrator
+689,Order Clerk
+690,Debt Collector
+691,Human Resource Clerk
+692,Customs Officer
+693,Immigration Officer
+694,Taxation Inspector
+695,Transport Operations Inspector
+696,Library Assistant
+697,Proof Reader
+698,Radio Despatcher
+699,Clinical Coder
+700,Facilities Administrator
+701,Insurance Agent
+702,Property Manager
+703,Real Estate Agent
+704,Real Estate Representative
+705,Sales Assistant (General)
+706,Motor Vehicle or Caravan Salesperson
+707,Motor Vehicle Parts Interpreter / Automotive Parts Salesperson
+708,Pharmacy Sales Assistant
+709,Retail Supervisor
+710,Service Station Attendant
+711,Materials Recycler
+712,Model
+713,Sales Demonstrator
+714,Retail Buyer
+715,Telemarketer
+716,Visual Merchandiser
+717,Clay Products Machine Operator
+718,Concrete Products Machine Operator
+719,Glass Production Machine Operator
+720,Stone Processing Machine Operator
+721,Industrial Spraypainter
+722,Photographic Developer and Printer
+723,Plastic Cablemaking Machine Operator
+724,Plastic Compounding and Reclamation Machine Operator
+725,Plastics Fabricator or Welder
+726,Plastics Production Machine Operator (General)
+727,Reinforced Plastic and Composite Production Worker
+728,Rubber Production Machine Operator
+729,Sewing Machinist
+730,Footwear Production Machine Operator
+731,Hide and Skin Processing Machine Operator
+732,Knitting Machine Operator
+733,Textile Dyeing and Finishing Machine Operator
+734,Weaving Machine Operator
+735,Yarn Carding and Spinning Machine Operator
+736,Motion Picture Projectionist
+737,Sterilisation Technician
+738,"Crane, Hoist or Lift Operator"
+739,Driller
+740,Miner
+741,Shot Firer
+742,Engineering Production Worker
+743,Boiler or Engine Operator
+744,Bulk Materials Handling Plant Operator
+745,Concrete Pump Operator
+746,Railway Signal Operator
+747,Waste Water or Water Plant Operator
+748,Weighbridge Operator
+749,Agricultural and Horticultural Mobile Plant Operator
+750,Earthmoving Plant Operator (General)
+751,Backhoe Operator
+752,Bulldozer Operator
+753,Excavator Operator
+754,Grader Operator
+755,Loader Operator
+756,Forklift Driver
+757,Aircraft Baggage Handler and Airline Ground Crew
+758,Linemarker
+759,Paving Plant Operator
+760,Railway Track Plant Operator
+761,Road Roller Operator
+762,Streetsweeper Operator
+763,Train Driver
+764,Delivery Driver
+765,Truck Driver (General)
+766,Aircraft Refueller
+767,Furniture Removalist
+768,Tanker Driver
+769,Tow Truck Driver
+770,Storeperson
+771,Car Detailer
+772,Commercial Cleaner
+773,Domestic Cleaner
+774,Commercial Housekeeper
+775,Domestic Housekeeper
+776,Laundry Worker (General)
+777,Drycleaner
+778,Ironer or Presser
+779,Carpet Cleaner
+780,Window Cleaner
+781,Builder's Labourer
+782,"Drainage, Sewerage and Stormwater Labourer"
+783,Earthmoving Labourer
+784,Plumber's Assistant
+785,Concreter
+786,Fencer
+787,Building Insulation Installer
+788,Home Improvement Installer
+789,Paving and Surfacing Labourer
+790,Railway Track Worker
+791,Construction Rigger
+792,Scaffolder
+793,Steel Fixer
+794,Structural Steel Erector
+795,Crane Chaser
+796,Driller's Assistant
+797,Lagger
+798,Mining Support Worker
+799,Baking Factory Worker
+800,Brewery Worker
+801,Confectionery Maker
+802,Dairy Products Maker
+803,Fruit and Vegetable Factory Worker
+804,Grain Mill Worker
+805,Sugar Mill Worker
+806,Winery Cellar Hand
+807,Meat Boner and Slicer
+808,Slaughterer
+809,Meat Process Worker
+810,Poultry Process Worker
+811,Seafood Process Worker
+812,Product Assembler
+813,Plastics Factory Worker
+814,Rubber Factory Worker
+815,Product Examiner
+816,Product Grader
+817,Product Tester
+818,Paper and Pulp Mill Worker
+819,Sawmill or Timber Yard Worker
+820,Wood and Wood Products Factory Worker
+821,Cement and Concrete Plant Worker
+822,Chemical Plant Worker
+823,Clay Processing Factory Worker
+824,Fabric and Textile Factory Worker
+825,Footwear Factory Worker
+826,Glass Processing Worker
+827,Hide and Skin Processing Worker
+828,Recycling Worker
+829,Forestry Worker
+830,Logging Assistant
+831,Tree Faller
+832,Garden Labourer
+833,Horticultural Nursery Assistant
+834,Pest Control Technician
+835,Hunter-Trapper
+836,Fast Food Cook
+837,Pastrycook's Assistant
+838,Kitchenhand
+839,Shelf Filler
+840,Caretaker
+841,Deck Hand
+842,Fishing Hand
+843,Handyperson
+844,Autoglazier
+845,Tyre Fitter
+846,Printer's Assistant
+847,Printing Table Worker
+848,Recycling or Rubbish Collector
+849,Vending Machine Attendant
+850,Bicycle Mechanic
+851,Car Park Attendant
+852,Crossing Supervisor
+853,Electrical or Telecommunications Trades Assistant
+854,Leaflet or Newspaper Deliverer
+855,Sign Erector
+856,Ticket Collector or Usher
+857,Road Traffic Controller
